@@ -1,0 +1,70 @@
+{
+  "table_name": "DIM_PROMOTION",
+  "table_description": "Promotion dimension table for marketing campaigns",
+  "columns": [
+    {
+      "column_name": "promotion_id",
+      "column_type": "int",
+      "column_attr": [
+        "PK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "promotion_name",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "start_date",
+      "column_type": "date",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "end_date",
+      "column_type": "date",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "discount_percent",
+      "column_type": "float",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "promotion_type",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "is_coupon",
+      "column_type": "boolean",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "is_display",
+      "column_type": "boolean",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "related_table": "FACT_SALES",
+      "relationship_type": "one-to-many",
+      "description": "One promotion applied to many sales"
+    }
+  ]
+}

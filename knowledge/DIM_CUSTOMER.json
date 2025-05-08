@@ -1,0 +1,72 @@
+{
+  "table_name": "DIM_CUSTOMER",
+  "table_description": "Customer dimension table for loyalty analysis",
+  "columns": [
+    {
+      "column_name": "customer_id",
+      "column_type": "int",
+      "column_attr": [
+        "PK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "customer_name",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "email",
+      "column_type": "varchar",
+      "column_attr": [
+        "Unique"
+      ]
+    },
+    {
+      "column_name": "phone",
+      "column_type": "varchar",
+      "column_attr": []
+    },
+    {
+      "column_name": "address",
+      "column_type": "varchar",
+      "column_attr": []
+    },
+    {
+      "column_name": "city",
+      "column_type": "varchar",
+      "column_attr": []
+    },
+    {
+      "column_name": "state",
+      "column_type": "varchar",
+      "column_attr": []
+    },
+    {
+      "column_name": "zip_code",
+      "column_type": "varchar",
+      "column_attr": []
+    },
+    {
+      "column_name": "join_date",
+      "column_type": "date",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "loyalty_segment",
+      "column_type": "varchar",
+      "column_attr": []
+    }
+  ],
+  "relationships": [
+    {
+      "related_table": "FACT_SALES",
+      "relationship_type": "one-to-many",
+      "description": "One customer makes many sales"
+    }
+  ]
+}

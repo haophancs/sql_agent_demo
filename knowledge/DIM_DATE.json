@@ -1,0 +1,90 @@
+{
+  "table_name": "DIM_DATE",
+  "table_description": "Date dimension table for time-based analysis",
+  "columns": [
+    {
+      "column_name": "date_id",
+      "column_type": "int",
+      "column_attr": [
+        "PK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "full_date",
+      "column_type": "date",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "day",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "month",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "year",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "day_of_week",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "quarter",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "is_holiday",
+      "column_type": "boolean",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "season",
+      "column_type": "varchar",
+      "column_attr": []
+    }
+  ],
+  "relationships": [
+    {
+      "related_table": "FACT_SALES",
+      "relationship_type": "one-to-many",
+      "description": "One date has many sales"
+    },
+    {
+      "related_table": "FACT_INVENTORY",
+      "relationship_type": "one-to-many",
+      "description": "One date has many inventory records"
+    },
+    {
+      "related_table": "FACT_PURCHASE_ORDERS",
+      "relationship_type": "one-to-many",
+      "description": "One date has many purchase orders"
+    },
+    {
+      "related_table": "FACT_EMPLOYEE_PERFORMANCE",
+      "relationship_type": "one-to-many",
+      "description": "One date has many employee performance records"
+    }
+  ]
+}

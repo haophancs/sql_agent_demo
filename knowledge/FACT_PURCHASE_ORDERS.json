@@ -1,0 +1,148 @@
+{
+  "table_name": "FACT_PURCHASE_ORDERS",
+  "table_description": "Purchase orders fact table for procurement analysis",
+  "columns": [
+    {
+      "column_name": "po_id",
+      "column_type": "int",
+      "column_attr": [
+        "PK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "date_id",
+      "column_type": "int",
+      "column_attr": [
+        "FK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "store_id",
+      "column_type": "int",
+      "column_attr": [
+        "FK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "supplier_id",
+      "column_type": "int",
+      "column_attr": [
+        "FK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "product_id",
+      "column_type": "int",
+      "column_attr": [
+        "FK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "employee_id",
+      "column_type": "int",
+      "column_attr": [
+        "FK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "po_number",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL",
+        "Unique"
+      ]
+    },
+    {
+      "column_name": "po_status",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "quantity_ordered",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "unit_cost",
+      "column_type": "decimal",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "total_cost",
+      "column_type": "decimal",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "expected_delivery_date",
+      "column_type": "date",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "actual_delivery_date",
+      "column_type": "date",
+      "column_attr": []
+    },
+    {
+      "column_name": "is_emergency_order",
+      "column_type": "boolean",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "lead_time_days",
+      "column_type": "int",
+      "column_attr": []
+    },
+    {
+      "column_name": "shipping_cost",
+      "column_type": "decimal",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "related_table": "DIM_DATE",
+      "relationship_type": "many-to-one",
+      "description": "Many purchase orders belong to one date"
+    },
+    {
+      "related_table": "DIM_STORE",
+      "relationship_type": "many-to-one",
+      "description": "Many purchase orders issued by one store"
+    },
+    {
+      "related_table": "DIM_SUPPLIER",
+      "relationship_type": "many-to-one",
+      "description": "Many purchase orders received by one supplier"
+    },
+    {
+      "related_table": "DIM_PRODUCT",
+      "relationship_type": "many-to-one",
+      "description": "Many purchase orders ordered as one product"
+    },
+    {
+      "related_table": "DIM_EMPLOYEE",
+      "relationship_type": "many-to-one",
+      "description": "Many purchase orders created by one employee"
+    }
+  ]
+}

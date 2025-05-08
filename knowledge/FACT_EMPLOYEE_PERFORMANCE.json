@@ -1,0 +1,130 @@
+{
+  "table_name": "FACT_EMPLOYEE_PERFORMANCE",
+  "table_description": "Employee performance fact table for workforce analytics",
+  "columns": [
+    {
+      "column_name": "performance_id",
+      "column_type": "int",
+      "column_attr": [
+        "PK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "date_id",
+      "column_type": "int",
+      "column_attr": [
+        "FK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "employee_id",
+      "column_type": "int",
+      "column_attr": [
+        "FK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "store_id",
+      "column_type": "int",
+      "column_attr": [
+        "FK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "department_id",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "sales_amount",
+      "column_type": "decimal",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "transactions_processed",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "items_scanned",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "avg_scan_time",
+      "column_type": "decimal",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "customers_served",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "hours_worked",
+      "column_type": "decimal",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "overtime_hours",
+      "column_type": "decimal",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "absences",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "tardiness",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "customer_satisfaction_score",
+      "column_type": "decimal",
+      "column_attr": []
+    }
+  ],
+  "relationships": [
+    {
+      "related_table": "DIM_DATE",
+      "relationship_type": "many-to-one",
+      "description": "Many performance records belong to one date"
+    },
+    {
+      "related_table": "DIM_EMPLOYEE",
+      "relationship_type": "many-to-one",
+      "description": "Many performance records achieved by one employee"
+    },
+    {
+      "related_table": "DIM_STORE",
+      "relationship_type": "many-to-one",
+      "description": "Many performance records measured at one store"
+    }
+  ]
+}

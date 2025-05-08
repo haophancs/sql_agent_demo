@@ -1,0 +1,21 @@
+promotion_id,promotion_name,start_date,end_date,discount_percent,promotion_type,is_coupon,is_display
+1,Special Sale,2025-02-23,2025-05-19,0.48,Flash Sale,False,True
+2,Mega Offer,2024-10-01,2024-10-09,0.3,Discount,False,True
+3,Flash Discount,2024-09-05,2024-11-09,0.47,BOGO,True,False
+4,Flash Offer,2026-02-20,2026-05-11,0.09,BOGO,False,False
+5,Flash Deal,2024-09-18,2024-11-24,0.34,BOGO,True,False
+6,Flash Offer,2024-10-28,2024-11-09,0.23,Flash Sale,True,False
+7,Special Savings,2025-03-15,2025-05-07,0.48,Clearance,True,False
+8,Holiday Offer,2025-12-13,2026-02-22,0.44,Member Only,True,True
+9,Exclusive Savings,2025-01-29,2025-03-08,0.05,Discount,False,False
+10,Special Deal,2024-10-12,2024-11-08,0.43,BOGO,False,False
+11,Flash Deal,2024-07-11,2024-07-29,0.26,Flash Sale,False,True
+12,Mega Sale,2026-02-03,2026-02-20,0.46,Holiday,False,True
+13,Flash Sale,2024-07-15,2024-09-11,0.19,Flash Sale,False,True
+14,Super Offer,2025-06-14,2025-08-20,0.25,Flash Sale,True,False
+15,Exclusive Discount,2025-11-25,2025-12-20,0.19,Discount,False,True
+16,Holiday Deal,2025-02-17,2025-04-11,0.15,BOGO,True,False
+17,Flash Discount,2025-10-09,2025-11-19,0.09,Discount,False,False
+18,Flash Deal,2024-06-26,2024-07-13,0.44,Flash Sale,True,False
+19,Super Sale,2025-10-21,2025-11-20,0.45,Holiday,False,False
+20,Mega Offer,2025-03-28,2025-04-25,0.47,Holiday,False,True

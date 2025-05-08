@@ -1,0 +1,97 @@
+{
+  "table_name": "DIM_PRODUCT",
+  "table_description": "Product dimension table with catalog information",
+  "columns": [
+    {
+      "column_name": "product_id",
+      "column_type": "int",
+      "column_attr": [
+        "PK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "product_name",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "brand",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "category",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "department",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "sub_department",
+      "column_type": "varchar",
+      "column_attr": []
+    },
+    {
+      "column_name": "base_price",
+      "column_type": "decimal",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "unit_of_measure",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "is_perishable",
+      "column_type": "boolean",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "supplier_id",
+      "column_type": "varchar",
+      "column_attr": [
+        "FK"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "related_table": "FACT_SALES",
+      "relationship_type": "one-to-many",
+      "description": "One product included in many sales"
+    },
+    {
+      "related_table": "FACT_INVENTORY",
+      "relationship_type": "one-to-many",
+      "description": "One product stocked as many inventory records"
+    },
+    {
+      "related_table": "FACT_PURCHASE_ORDERS",
+      "relationship_type": "one-to-many",
+      "description": "One product ordered as many purchase orders"
+    },
+    {
+      "related_table": "DIM_SUPPLIER",
+      "relationship_type": "many-to-one",
+      "description": "Many products provided by one supplier"
+    }
+  ]
+}

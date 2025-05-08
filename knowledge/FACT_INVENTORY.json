@@ -1,0 +1,111 @@
+{
+  "table_name": "FACT_INVENTORY",
+  "table_description": "Inventory fact table for stock level analysis",
+  "columns": [
+    {
+      "column_name": "inventory_id",
+      "column_type": "int",
+      "column_attr": [
+        "PK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "date_id",
+      "column_type": "int",
+      "column_attr": [
+        "FK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "store_id",
+      "column_type": "int",
+      "column_attr": [
+        "FK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "product_id",
+      "column_type": "int",
+      "column_attr": [
+        "FK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "beginning_quantity",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "received_quantity",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "sold_quantity",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "adjusted_quantity",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "ending_quantity",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "average_cost",
+      "column_type": "decimal",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "days_of_supply",
+      "column_type": "int",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "is_stockout",
+      "column_type": "boolean",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "related_table": "DIM_DATE",
+      "relationship_type": "many-to-one",
+      "description": "Many inventory records belong to one date"
+    },
+    {
+      "related_table": "DIM_STORE",
+      "relationship_type": "many-to-one",
+      "description": "Many inventory records maintained by one store"
+    },
+    {
+      "related_table": "DIM_PRODUCT",
+      "relationship_type": "many-to-one",
+      "description": "Many inventory records stocked as one product"
+    }
+  ]
+}

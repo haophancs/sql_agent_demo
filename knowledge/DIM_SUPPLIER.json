@@ -1,0 +1,90 @@
+{
+  "table_name": "DIM_SUPPLIER",
+  "table_description": "Supplier dimension table for vendor information",
+  "columns": [
+    {
+      "column_name": "supplier_id",
+      "column_type": "int",
+      "column_attr": [
+        "PK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "supplier_name",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL",
+        "Unique"
+      ]
+    },
+    {
+      "column_name": "contact_name",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "email",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "phone",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "address",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "city",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "state",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "country",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "lead_time_days",
+      "column_type": "float",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "related_table": "DIM_PRODUCT",
+      "relationship_type": "one-to-many",
+      "description": "One supplier provides many products"
+    },
+    {
+      "related_table": "FACT_PURCHASE_ORDERS",
+      "relationship_type": "one-to-many",
+      "description": "One supplier receives many purchase orders"
+    }
+  ]
+}

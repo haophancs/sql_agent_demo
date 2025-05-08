@@ -1,0 +1,104 @@
+{
+  "table_name": "DIM_STORE",
+  "table_description": "Store dimension table containing location details",
+  "columns": [
+    {
+      "column_name": "store_id",
+      "column_type": "int",
+      "column_attr": [
+        "PK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "store_name",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "store_type",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "address",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "city",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "state",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "zip_code",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "region",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "square_footage",
+      "column_type": "float",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "opening_date",
+      "column_type": "date",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "related_table": "FACT_SALES",
+      "relationship_type": "one-to-many",
+      "description": "One store generates many sales"
+    },
+    {
+      "related_table": "FACT_INVENTORY",
+      "relationship_type": "one-to-many",
+      "description": "One store maintains many inventory records"
+    },
+    {
+      "related_table": "FACT_PURCHASE_ORDERS",
+      "relationship_type": "one-to-many",
+      "description": "One store issues many purchase orders"
+    },
+    {
+      "related_table": "FACT_EMPLOYEE_PERFORMANCE",
+      "relationship_type": "one-to-many",
+      "description": "One store measures many employee performances"
+    },
+    {
+      "related_table": "DIM_EMPLOYEE",
+      "relationship_type": "one-to-many",
+      "description": "One store employs many employees"
+    }
+  ]
+}

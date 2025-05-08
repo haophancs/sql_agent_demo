@@ -1,0 +1,91 @@
+{
+  "table_name": "DIM_EMPLOYEE",
+  "table_description": "Employee dimension table for workforce information",
+  "columns": [
+    {
+      "column_name": "employee_id",
+      "column_type": "int",
+      "column_attr": [
+        "PK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "employee_name",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "position",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "department",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "hire_date",
+      "column_type": "date",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "employment_status",
+      "column_type": "varchar",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "store_id",
+      "column_type": "int",
+      "column_attr": [
+        "FK",
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "hourly_rate",
+      "column_type": "decimal",
+      "column_attr": [
+        "NOTNULL"
+      ]
+    },
+    {
+      "column_name": "manager_id",
+      "column_type": "int",
+      "column_attr": []
+    }
+  ],
+  "relationships": [
+    {
+      "related_table": "FACT_SALES",
+      "relationship_type": "one-to-many",
+      "description": "One employee processes many sales"
+    },
+    {
+      "related_table": "FACT_PURCHASE_ORDERS",
+      "relationship_type": "one-to-many",
+      "description": "One employee creates many purchase orders"
+    },
+    {
+      "related_table": "FACT_EMPLOYEE_PERFORMANCE",
+      "relationship_type": "one-to-many",
+      "description": "One employee achieves many performance records"
+    },
+    {
+      "related_table": "DIM_STORE",
+      "relationship_type": "many-to-one",
+      "description": "Many employees employed by one store"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+supplier_id,supplier_name,contact_name,email,phone,address,city,state,country,lead_time_days
+1,Jones PLC,Daniel Kane,kim90@garrison-thomas.com,+1-742-210-2053,0268 Julie Mountains,Stricklandhaven,OR,Botswana,12
+2,Gordon-Dougherty,Richard Camacho,stephen00@boone-simmons.com,771.815.9212x4998,8961 Melissa Run Apt. 673,Morganmouth,MO,Israel,12
+3,"Davis, Simmons and Ortega",Christian Leblanc,davischristopher@davis-rodgers.com,+1-809-288-5165,451 Eric Orchard Apt. 158,Dannyview,OK,Czech Republic,14
+4,Bruce-Villegas,Lisa Day,lynchdiane@adams.com,850-922-9612x01836,54599 Nicole Drives Apt. 901,Scottchester,NM,New Caledonia,5
+5,Perry-Lewis,Haley Rodriguez,trose@walker.com,2349324451,26838 Jones Wall Apt. 607,Port Lawrencechester,OK,Iraq,8
+6,"Bowman, Roberts and Sullivan",Carolyn Meza,xcollier@kim.com,(596)781-6453x52181,231 Jonathan Extensions Apt. 127,Webstershire,NV,Pitcairn Islands,17
+7,"Day, Downs and Morris",Emily Gonzales,tramos@vargas-bell.com,977-200-5411x9986,359 Mason Circle Suite 151,North John,NV,Kazakhstan,14
+8,"Mills, Moore and Watson",Jason Morgan,mccormickdeborah@rivera.biz,349-625-1925x4629,528 Debbie Manors Suite 054,East Matthew,WI,Libyan Arab Jamahiriya,19
+9,Perez and Sons,Edward French,stanleynancy@anderson.org,(970)565-3794,7359 Murray Haven,Shawchester,GA,Svalbard & Jan Mayen Islands,22
+10,Solis and Sons,Amy Castillo,angela18@mitchell.com,782.561.3750x606,53051 Moody Dam Apt. 472,Westtown,MH,Belgium,26
+11,Scott and Sons,Monica Rose,parsonsjohn@williams.org,811.279.8089x324,96218 Jones Pine Apt. 670,Zavalaview,WA,Andorra,6
+12,Kramer-Cooper,Lori Ingram,dennis58@li-thompson.info,001-772-621-7043x030,740 Justin Wall Apt. 541,Samuelfurt,WA,Kazakhstan,6
+13,Morgan-Lopez,Holly Salinas,laurie61@morrison-short.net,951-215-4479x6275,640 Emily Lodge Suite 820,Port Cathy,WY,Kazakhstan,6
+14,Martinez and Sons,Holly Reyes,jacobserika@watson-hines.org,(485)965-4310,144 Lewis Ridge Suite 731,Port Charles,HI,United Arab Emirates,3
+15,"Wallace, Miller and Fleming",Emma Reed,piercekelly@york-joseph.com,(783)913-2370x589,114 Key Stravenue,Foxchester,GU,Morocco,20
+16,Martinez LLC,Joanna Frazier,david89@saunders.biz,601.582.4225x35841,49818 Brittany Prairie Apt. 299,Meganshire,AZ,Sweden,28
+17,Miller Ltd,Deborah Clark,bmontgomery@small-gardner.com,736.447.1027x6773,556 Kathleen Passage Apt. 537,West Shannonberg,CT,Australia,13
+18,Dougherty-Lin,Victor Barrera,sarah53@jimenez.info,247.601.6873x3950,748 Melanie Meadows Apt. 456,Brandonton,OK,Monaco,20
+19,Cox LLC,Jonathan Duran,marcia99@anderson.biz,(258)452-3986x800,8729 Mark Ridge Suite 269,Brittneyhaven,MP,Malawi,22
+20,"Burns, Hart and Wells",Gary Rodriguez,ysilva@wiggins.com,+1-299-330-9728x9623,75626 Robert Trail,Salaston,VT,Burundi,8
+21,"Clark, Nguyen and Bates",Emily Thompson,amy49@lee-wright.net,834-843-7575x8441,40415 Douglas Summit Suite 338,Sarahview,DC,Botswana,16
+22,"Yang, Allen and Williams",Courtney Hall,gutierrezjennifer@maldonado.com,+1-226-377-3454,026 Sarah Camp,Frenchburgh,WA,Tunisia,30
+23,Mcdowell-Smith,Ashley Bird,shawn88@small-anderson.net,543.415.2742x054,8516 Jack Dam Suite 530,Patrickmouth,WV,Ethiopia,19
+24,Turner-Sharp,Matthew Schwartz,contrerassteven@sullivan.com,001-714-859-3327x279,339 Alicia Pines Suite 191,Port Amyhaven,ID,Montserrat,5
+25,"Hernandez, Murphy and Meyer",Daniel Aguilar,nolansean@chavez.biz,390.287.4064x039,1801 Johnson Lodge Apt. 265,Westfurt,MS,Belgium,8
+26,"Brandt, Baxter and Anderson",Barbara Haney,urice@davenport.com,386.286.3375x243,033 Craig Bypass Suite 903,South Scottside,IL,Saudi Arabia,15
+27,Taylor LLC,Thomas Johnston,joel28@gutierrez.com,+1-792-868-7056,46287 Melissa Hills Apt. 708,Faulknerside,NC,Burkina Faso,21
+28,Sanchez-Harris,Tammy Boone,nicholsmaria@adams.org,+1-501-539-8373x540,739 Randy Garden,Kimberlyfurt,NH,Martinique,9
+29,"Howard, Green and Hunt",Brett Zavala MD,robin55@williams-shields.com,7485996423,378 Scott View Suite 772,Garyside,NM,Colombia,15
+30,"Mooney, Bernard and Warren",Angela Meyers,duranrobert@hall.net,250.299.7700x886,408 Drake Fall Apt. 182,East Christine,KS,Suriname,9
+31,Adams-Sanders,Jared Cunningham,kevinclayton@valdez.com,366-968-7002,591 Jerry Ways Suite 401,Rachelshire,TN,Antigua and Barbuda,22
+32,Mcfarland LLC,Daniel Thomas,thickman@elliott.biz,+1-885-762-1850x16315,477 Michael Lane,Lopezshire,TN,Hong Kong,1
+33,Barton LLC,Michelle Miller,normanbowers@singh.com,310-447-5412,8886 Anthony Knoll Apt. 995,Smithchester,MS,Slovakia (Slovak Republic),29
+34,Hardy PLC,Vanessa Armstrong,ginajackson@turner-snyder.com,(564)964-7154,1240 Cook River,Brockmouth,NV,Grenada,26
+35,Ochoa-Villarreal,Brandy Flores,timothythompson@novak-carter.info,001-535-464-6519,737 Guerra Cliff,Chambersberg,SC,Gabon,15
+36,King and Sons,Rachel Jones,iaguilar@mclean.com,(789)811-3529x096,14388 Sean Lock,Bartonshire,UT,Macao,29
+37,Cooper Inc,Mr. Thomas Miller,michaelcooper@boyd.info,777-351-4010,382 Mark Meadow,Hallfurt,SC,Colombia,10
+38,Davidson Group,Omar Ware,yvargas@bush.com,001-719-818-2553x71478,155 Williamson Via Suite 991,West David,ME,Brazil,22
+39,Brooks and Sons,Jennifer Taylor,fhenderson@medina.com,+1-227-742-2579,2368 Ortiz Overpass,Mckinneymouth,NM,Chad,18
+40,Cunningham and Sons,Donald Medina,kimberlycunningham@dunn-wilson.com,285-980-7836x134,1713 Lisa Radial Suite 962,Port Jamie,IL,Sri Lanka,6
+41,Hudson PLC,Joshua Morris,keith48@ochoa.biz,9424232536,667 Cynthia Trafficway Apt. 684,Shawnfort,MD,Mozambique,3
+42,Melton Ltd,William Reid,melissa86@donaldson.info,354-958-9297x500,27706 Wendy Curve,Erikview,CO,Palau,15
+43,Wright-Watson,Carol Sanders,jessica36@davis.com,(893)487-0051,36111 Richardson Hills Apt. 622,New Annaburgh,NV,Guernsey,12
+44,"Lewis, Goodman and Gillespie",Jessica Robinson,taylordavid@cruz.com,241.638.9994,983 Phillips Center,South Paul,IA,Luxembourg,19
+45,"Wheeler, Rice and Levine",Dr. Bonnie Valencia,rdiaz@farmer.com,001-610-843-0068,618 Joshua Inlet Apt. 832,Peterland,ME,Qatar,10
+46,Blair-Mathis,Brandon Hamilton,dsalazar@wade-barrett.com,602-402-7588,41056 Warren Greens Apt. 778,Brianshire,GA,Heard Island and McDonald Islands,21
+47,Scott Inc,Megan Wilson,williamsmichelle@williams.biz,(720)686-3536,518 Harry Unions,South Caseymouth,VI,Finland,14
+48,Murphy-Tran,Curtis Elliott,jodi37@vargas-snyder.com,001-883-620-6038x5050,83670 Jennifer Course,East Phyllishaven,MT,Reunion,23
+49,Ellis-Adkins,Kathy Walsh,kjones@graham.com,345-465-5743x1329,77561 Oconnell Fords,Parkerview,PR,British Indian Ocean Territory (Chagos Archipelago),9
+50,Moore Ltd,Michael Morrison,marymurphy@dawson.biz,404.342.0678x83171,32365 Brandi Green,North Wendyborough,MH,Oman,15
+51,Lamb-Davis,Rhonda Martinez,kwilliams@underwood-foster.com,(562)653-2447x2099,8701 Reyes Manor Apt. 838,South Kimberlystad,NJ,Mayotte,28
+52,Cooper-Cunningham,Devin Johnson,anthonycochran@brown-frey.net,(893)721-3348x039,39559 Jade Knoll,New Stacy,MP,Sudan,10
+53,Weaver-Thompson,Anthony Guzman,foxaaron@harris.com,7028921851,4522 Conner Oval,Grantside,UT,Tuvalu,7
+54,"Buchanan, Walker and Chapman",Eric Barker,gregorysmith@fry.org,4297593917,55215 Smith Fords,Lake Carlos,KS,Solomon Islands,13
+55,Le Inc,Nicholas Costa,ysnyder@payne-garcia.info,001-632-371-0405,2621 Matthew Ridges,Bushchester,SD,Chad,28
+56,"Preston, Moore and Garcia",Colton Terry,donna43@williams.net,520.450.6149x7310,71467 Jacobson Greens Apt. 862,Nicolestad,HI,Kiribati,16
+57,Baker Group,Russell Elliott,karencontreras@barnett.biz,001-393-880-6868x79374,989 David Throughway,Thompsonburgh,IL,Sri Lanka,4
+58,Martinez Group,Michael Harris,maryscott@sloan.biz,+1-854-387-0998,29991 Anna Courts Suite 856,Patrickfort,OK,New Caledonia,8
+59,Johnson-Hill,Lee Steele,fosternatasha@young.com,6549447132,6913 Lewis View Suite 785,New Laceyland,ME,Russian Federation,13
+60,"Powell, Deleon and Warren",Carrie Golden,marywright@williams-ward.com,457-986-1035x797,2414 Paul Estates Apt. 333,Denisehaven,AK,Tonga,19
+61,"Smith, Buck and Holland",Alejandra King,jennifer46@york-stevens.com,648.696.9108x589,1545 Green Station,Jacobhaven,WV,Dominican Republic,12
+62,Trujillo PLC,Francisco Taylor,rioswhitney@meadows-sullivan.com,001-693-453-8758,1724 Stacey Isle,East Michaelport,MT,Solomon Islands,19
+63,Watson-Richards,Bruce Brown,kennedyjames@dillon.net,360-922-3569x7252,250 Shannon Fords Apt. 927,East Christinachester,MO,Japan,10
+64,Reyes-Johnson,Jake Smith,katherine83@rhodes.com,454.321.6894,4789 Hamilton Spur,West Wendy,NM,Guinea-Bissau,23
+65,Martin Group,Danny Mercer,jessicalawrence@martinez.com,(848)390-9010x0167,2304 Stanley Shore Suite 992,Rivasville,NY,Saint Helena,10
+66,"Wilson, Wilson and Rodriguez",Curtis Baker,michaelortiz@williams.com,001-375-330-0119x721,374 Marshall Courts Apt. 045,Ronaldville,CT,Thailand,1
+67,Smith and Sons,Carolyn Howard,rfriedman@davis.biz,(974)967-6212x0216,659 Michelle Villages,South Samantha,DE,Tuvalu,27
+68,Alexander-Brown,Alexandria Oneill,tiffanysantiago@stone-watts.org,263-275-6289,772 Karen Islands,West Tara,AR,Madagascar,22
+69,Pierce Group,David Stevens,fmiller@stewart-hooper.com,666-508-8019,5037 Castro River Suite 571,Port Donnatown,MA,Guinea,13
+70,"Brandt, Carter and Boyd",Amber Martin,lydianewton@rodriguez-carr.com,363-973-5160,982 Smith Street Apt. 869,Glassburgh,UT,Mozambique,9
+71,Cross and Sons,Matthew Obrien,william66@moon.com,572-626-9848x5833,228 Page Trace Suite 879,Craigside,LA,Turkey,1
+72,Stokes-Mills,Charles Santiago,josephfloyd@vega-thomas.com,001-843-580-5719x838,066 Frye Spur Suite 800,Jamesmouth,MP,Czech Republic,19
+73,"Bush, Holland and Fischer",Lindsey Parsons,kellythompson@jones.com,(406)248-4229x4057,9094 Tyler Plaza,Charlesmouth,NC,Cyprus,28
+74,Meyer PLC,Joshua Powell,jeffrey35@ward-robinson.org,378.801.5739x93056,408 Robertson Pass Suite 704,West Willie,CT,Chad,22
+75,"Ferguson, Sims and Clark",Christy Jennings,harrismaria@rowe.com,3755011024,6766 Smith Spring Apt. 809,Port Julieton,UT,Thailand,25
+76,Howard PLC,Richard Turner,campbellsara@foster-guerrero.info,(783)226-8424,00996 Kevin Summit,Jasonhaven,FL,Central African Republic,24
+77,Walker LLC,Christopher Marsh,yorksarah@murray.com,313-597-5523x149,7594 Ariana Lakes Suite 620,Johnbury,VT,Saint Vincent and the Grenadines,2
+78,"Graham, Larsen and Taylor",Sherry Ford,kim78@thompson.com,828-534-1108x099,488 Valdez Drive,Philipshire,VA,Togo,30
+79,Anderson-Mason,Jack Smith,melaniedrake@sutton.com,(599)327-5037,3038 Hughes Motorway Apt. 051,Maryview,OR,Mayotte,20
+80,"Thompson, Valdez and Diaz",Sara Black,okaufman@sullivan.info,+1-408-427-2318x432,136 Cortez Orchard Suite 739,Lake Martha,AK,Ecuador,24
+81,Anderson PLC,Mark Williams,brianscott@black.org,001-404-513-7977,292 Jackson Spur Suite 799,East Nicholasberg,CT,Andorra,16
+82,Mills PLC,Samantha Jacobs,thomasmendez@rich.net,001-811-572-9806x86508,5991 Anderson Neck Apt. 149,Scotttown,VT,Samoa,27
+83,Lane Inc,Jaime Harris,robert12@pearson-king.net,(995)694-6368x87258,562 Julie Mission Apt. 138,Hartmanside,RI,Qatar,29
+84,"Mann, Martin and Oconnell",Brandon Thomas,qdavis@wood.com,001-666-598-4902x7703,883 Emily Lake,Lake Aaron,GA,Benin,29
+85,Chan-Gomez,Kevin Holmes,calhounandrea@gallegos.com,893.376.9042,451 Walter Via,Heatherfurt,OK,Liberia,10
+86,Todd Group,Stephanie Atkins,ewilson@schultz-gamble.com,465-988-0434x16518,3942 Victor Flats Apt. 343,East Mary,MP,Niger,25
+87,Moore-Rodriguez,Megan Alvarado,duranamber@charles.org,879-947-2846x39208,562 Bray Square,Stewarttown,AL,Peru,26
+88,Gray Inc,Louis Green,joel79@diaz-jimenez.com,(855)864-7292x93143,27026 Taylor Vista,Kristenport,KS,Monaco,8
+89,"Williams, Garcia and Martin",David Combs,colematthew@ward-grant.com,(706)715-9399x824,716 Ford Drive Apt. 569,Sweeneyland,CO,Central African Republic,20
+90,Perez-Stewart,Derek Newman,pam59@sheppard.com,(334)913-2611,68114 Christopher Loaf,Jeromeport,NV,Niue,26
+91,Anderson and Sons,Matthew Dalton,michelle78@dunn-taylor.net,(799)979-6884,74564 Kevin Alley,West Justin,ND,Algeria,12
+92,"Weeks, Arroyo and Woods",Jeffrey Carter,laurakelley@jenkins.biz,(632)666-3416x3894,12241 Williamson Groves Suite 350,North Tara,AK,Colombia,8
+93,Campbell and Sons,Monica Hall,alexisrobinson@collins-lloyd.com,505.612.0461x872,13673 James Street Apt. 837,Maldonadoport,MD,Cayman Islands,21
+94,"Chandler, Garner and Dunn",John Evans,paige31@chen.com,(949)416-3009,32719 Galvan Trace Apt. 052,East Tonymouth,OH,Solomon Islands,7
+95,"Sherman, Trujillo and Gonzales",Michael Howard,johnwilliams@kim.com,001-428-355-7498,4485 Smith Route,Grosstown,RI,Togo,20
+96,Parsons-Allen,Mary Ryan,rlee@cannon-moore.com,565-311-8102x20317,678 Williams Forges,North Sarahborough,SD,Liechtenstein,9
+97,Mcdonald Ltd,Justin Hurley,yshort@brown.com,413-881-1386x3383,957 Andrade Expressway,New Richard,MA,Palestinian Territory,22
+98,Ferguson PLC,Harold Edwards,megan66@morris.biz,001-684-257-7600x49082,35048 Clinton Mount Suite 224,Pamelabury,IN,Equatorial Guinea,25
+99,Davis-Ross,Morgan Cummings,sthompson@johnston.com,3965105566,604 Luis Port,West Wayne,IN,Cape Verde,24
+100,Nunez Group,Nicole Johnston,walkerkeith@hernandez-rogers.info,001-408-464-1686,376 Ann Street Apt. 314,Morrisshire,CO,Bouvet Island (Bouvetoya),25

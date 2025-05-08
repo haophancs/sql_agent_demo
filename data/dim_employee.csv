@@ -1,0 +1,501 @@
+employee_id,employee_name,position,department,hire_date,employment_status,store_id,hourly_rate,manager_id
+1,Tammy Wilson,Store Manager,Management,2018-04-27,Full-time,1,44.31,
+2,James Garcia,Store Manager,Management,2018-06-23,Full-time,2,33.74,
+3,Jennifer Marshall,Store Manager,Management,2017-03-13,Full-time,3,43.25,
+4,Miranda Lowery,Store Manager,Management,2017-03-07,Full-time,4,36.41,
+5,Henry Stevens,Store Manager,Management,2016-03-15,Full-time,5,41.46,
+6,Denise Robinson,Store Manager,Management,2020-12-17,Full-time,6,36.22,
+7,Michael Luna,Store Manager,Management,2019-06-27,Full-time,7,42.88,
+8,Stephanie Hanson,Store Manager,Management,2023-11-05,Full-time,8,28.97,
+9,Charles Bishop,Store Manager,Management,2021-11-02,Full-time,9,39.45,
+10,Martha May,Store Manager,Management,2018-09-23,Full-time,10,36.57,
+11,Robin Spence,Store Manager,Management,2019-01-28,Full-time,11,27.89,
+12,Wendy Gamble,Store Manager,Management,2021-11-30,Full-time,12,38.28,
+13,Robert Flowers,Store Manager,Management,2016-12-17,Full-time,13,41.47,
+14,Todd Malone,Store Manager,Management,2020-10-22,Full-time,14,39.69,
+15,Sarah Campos,Store Manager,Management,2019-11-06,Full-time,15,41.5,
+16,Joshua Ramirez,Store Manager,Management,2021-07-25,Full-time,16,39.66,
+17,Christian Hayden,Store Manager,Management,2021-08-10,Full-time,17,25.28,
+18,Timothy Murray,Store Manager,Management,2020-08-18,Full-time,18,42.93,
+19,Stacey Shepard,Store Manager,Management,2017-10-18,Full-time,19,43.68,
+20,Linda Bailey,Store Manager,Management,2018-04-18,Full-time,20,34.99,
+21,Kevin Richmond,Store Manager,Management,2021-12-19,Full-time,21,31.33,
+22,Margaret Doyle DDS,Store Manager,Management,2021-01-22,Full-time,22,40.84,
+23,Nathan Johnson,Store Manager,Management,2016-11-05,Full-time,23,38.48,
+24,Priscilla Jordan,Store Manager,Management,2020-02-16,Full-time,24,30.26,
+25,Christine Hall,Store Manager,Management,2019-10-03,Full-time,25,39.45,
+26,Jeffrey Lambert,Store Manager,Management,2024-04-11,Full-time,26,44.76,
+27,Jesse Jones,Store Manager,Management,2023-11-25,Full-time,27,43.87,
+28,Nicole Moore,Store Manager,Management,2015-06-03,Full-time,28,42.15,
+29,Bryan Adams,Store Manager,Management,2018-12-26,Full-time,29,37.69,
+30,Rachael Wilcox,Store Manager,Management,2018-11-10,Full-time,30,37.78,
+31,Amanda Martin,Store Manager,Management,2021-05-28,Full-time,31,36.57,
+32,Zachary Reid,Store Manager,Management,2020-04-24,Full-time,32,25.73,
+33,Dr. Daniel Combs,Store Manager,Management,2022-07-19,Full-time,33,39.91,
+34,Eric Kelly,Store Manager,Management,2023-03-23,Full-time,34,28.75,
+35,Dawn Hoover,Store Manager,Management,2021-01-28,Full-time,35,38.93,
+36,Brent Bailey,Store Manager,Management,2022-12-31,Full-time,36,40.49,
+37,Cindy David,Store Manager,Management,2024-01-08,Full-time,37,37.02,
+38,Zoe Marshall,Store Manager,Management,2022-03-12,Full-time,38,29.32,
+39,Stephanie Collins,Store Manager,Management,2016-01-06,Full-time,39,29.2,
+40,James Hall,Store Manager,Management,2023-10-13,Full-time,40,28.82,
+41,Joy Nelson,Store Manager,Management,2023-07-13,Full-time,41,38.59,
+42,Susan Thomas,Store Manager,Management,2017-04-03,Full-time,42,44.1,
+43,Christian Andrade,Store Manager,Management,2015-09-03,Full-time,43,32.41,
+44,Jared Watson,Store Manager,Management,2015-10-05,Full-time,44,32.28,
+45,Dr. Sandra Wood MD,Store Manager,Management,2018-12-04,Full-time,45,31.04,
+46,Sean Solomon,Store Manager,Management,2019-02-27,Full-time,46,31.14,
+47,Melissa Berger,Store Manager,Management,2015-12-17,Full-time,47,41.38,
+48,Christopher Foley,Store Manager,Management,2024-03-10,Full-time,48,27.49,
+49,Karen Anderson,Store Manager,Management,2016-01-29,Full-time,49,34.98,
+50,Sarah Rhodes,Store Manager,Management,2017-02-04,Full-time,50,44.98,
+51,Marissa Carr,Stocker,Garden Center,2020-05-27,Temporary,27,13.52,27.0
+52,James Burton,Customer Service,Grocery,2019-07-11,Temporary,34,19.26,34.0
+53,Carmen Lang,Customer Service,Electronics,2020-07-31,Part-time,28,15.53,28.0
+54,Lisa Lamb,Stocker,Pharmacy,2021-07-24,Temporary,35,12.85,35.0
+55,Joyce Hill,Assistant Manager,Maintenance,2023-08-21,Full-time,41,29.25,41.0
+56,Harold Burnett,Sales Associate,Grocery,2018-08-20,Temporary,6,16.5,6.0
+57,Tom Wood,Pharmacist,Maintenance,2018-10-18,Full-time,7,29.13,7.0
+58,Daniel Carlson,Pharmacist,Management,2022-07-06,Full-time,41,24.97,41.0
+59,Dakota Hansen,Assistant Manager,Pharmacy,2024-09-09,Temporary,43,20.54,43.0
+60,Danny Gordon,Stocker,Grocery,2023-12-21,Temporary,36,11.96,36.0
+61,Derek Nichols,Customer Service,Customer Service,2019-06-25,Temporary,8,14.13,8.0
+62,David Ramos,Customer Service,Apparel,2023-01-01,Seasonal,1,15.08,1.0
+63,Calvin Simmons,Assistant Manager,Home Goods,2024-10-11,Temporary,43,28.06,43.0
+64,Justin Johnson,Store Manager,Front End,2020-12-08,Temporary,44,43.0,44.0
+65,Norman Thomas,Cashier,Front End,2022-12-15,Seasonal,3,11.53,3.0
+66,Christopher Rowland,Maintenance,Garden Center,2023-10-26,Temporary,34,13.35,34.0
+67,Jeffery Wagner,Security,Pharmacy,2020-08-09,Temporary,16,11.93,16.0
+68,Marcus Robinson,Maintenance,Pharmacy,2020-07-24,Temporary,4,11.29,4.0
+69,Monica Gill,Department Manager,Pharmacy,2018-05-17,Part-time,47,28.85,47.0
+70,Nichole Andrews,Store Manager,Grocery,2018-04-23,Part-time,28,39.2,28.0
+71,Jon Robertson,Sales Associate,Maintenance,2024-05-29,Seasonal,33,17.84,33.0
+72,Jeffrey Brooks,Department Manager,Garden Center,2018-12-30,Full-time,36,20.45,36.0
+73,Sarah Church,Stocker,Front End,2018-01-13,Part-time,2,16.29,2.0
+74,Mary Flores,Maintenance,Management,2022-01-28,Full-time,2,19.21,2.0
+75,Brenda Holmes,Stocker,Front End,2017-06-13,Part-time,37,17.42,37.0
+76,Heather Gray,Customer Service,Electronics,2019-08-22,Part-time,30,12.4,30.0
+77,Mary Gomez,Store Manager,Management,2023-05-03,Temporary,20,41.81,20.0
+78,Jennifer Black,Assistant Manager,Front End,2023-12-03,Part-time,50,21.3,50.0
+79,Randy Stewart,Cashier,Maintenance,2019-01-22,Full-time,41,18.67,41.0
+80,Elizabeth Hart,Maintenance,Grocery,2017-06-01,Seasonal,30,11.07,30.0
+81,Nicole Perez,Department Manager,Grocery,2025-02-06,Seasonal,17,18.93,17.0
+82,Cristina Henson,Stocker,Grocery,2017-09-24,Full-time,14,14.91,14.0
+83,Andres Burke,Sales Associate,Customer Service,2018-08-24,Full-time,27,19.59,27.0
+84,Douglas Norman,Stocker,Pharmacy,2021-09-12,Temporary,14,18.9,14.0
+85,Victor Adams,Department Manager,Home Goods,2021-09-06,Part-time,11,18.12,11.0
+86,Christine Riley,Maintenance,Maintenance,2023-03-26,Full-time,43,18.55,43.0
+87,Jerry Harper,Customer Service,Customer Service,2018-07-02,Full-time,22,19.95,22.0
+88,Ryan Brown,Security,Home Goods,2022-06-17,Part-time,11,19.27,11.0
+89,Charles Krueger,Cashier,Management,2022-03-08,Part-time,39,10.23,39.0
+90,Leonard Barnett,Customer Service,Grocery,2018-02-25,Full-time,14,18.99,14.0
+91,Micheal Hendricks,Department Manager,Apparel,2025-01-13,Part-time,21,19.0,21.0
+92,Corey Bell,Assistant Manager,Customer Service,2025-04-28,Full-time,18,20.39,18.0
+93,Kathleen Hill,Security,Home Goods,2018-06-24,Temporary,23,14.67,23.0
+94,Jacob Mann,Security,Pharmacy,2020-04-30,Seasonal,28,19.22,28.0
+95,Joseph Chavez,Store Manager,Home Goods,2018-08-03,Full-time,12,44.24,12.0
+96,Scott Campbell,Maintenance,Home Goods,2021-03-07,Part-time,38,11.66,38.0
+97,Christopher Davis,Pharmacist,Pharmacy,2020-01-20,Temporary,47,28.59,47.0
+98,Miss Carol Fitzpatrick DVM,Assistant Manager,Garden Center,2022-12-24,Temporary,39,25.47,39.0
+99,Charles Graham,Store Manager,Maintenance,2024-10-21,Full-time,28,32.06,28.0
+100,James Davis,Department Manager,Front End,2018-09-19,Seasonal,29,29.5,29.0
+101,Janet Murphy,Stocker,Home Goods,2018-10-21,Seasonal,38,16.04,38.0
+102,Michael Rocha,Cashier,Grocery,2023-01-12,Seasonal,26,11.8,26.0
+103,Patrick Carter,Department Manager,Garden Center,2024-03-15,Part-time,28,20.94,28.0
+104,Jeffrey Hunt,Customer Service,Garden Center,2018-01-06,Seasonal,43,11.45,43.0
+105,Mark Campbell PhD,Cashier,Garden Center,2020-07-23,Seasonal,8,16.88,8.0
+106,Neil Cook,Pharmacist,Maintenance,2022-03-31,Part-time,14,27.54,14.0
+107,Trevor Anderson,Sales Associate,Pharmacy,2023-10-26,Part-time,36,12.84,36.0
+108,Adrian Young,Store Manager,Grocery,2022-06-10,Full-time,34,36.22,34.0
+109,Sarah Rivera,Stocker,Pharmacy,2024-01-01,Seasonal,37,13.18,37.0
+110,Emily Miller,Store Manager,Front End,2020-03-26,Temporary,13,41.05,13.0
+111,Jessica Griffin,Assistant Manager,Pharmacy,2018-07-18,Temporary,3,19.43,3.0
+112,Michaela Jackson,Maintenance,Garden Center,2017-10-22,Part-time,11,15.91,11.0
+113,Catherine Caldwell,Cashier,Home Goods,2018-12-12,Full-time,37,10.18,37.0
+114,Sara Klein,Assistant Manager,Electronics,2017-08-06,Temporary,30,28.1,30.0
+115,Kathy Lee,Security,Management,2021-02-01,Full-time,3,10.39,3.0
+116,Adrienne Johnson,Pharmacist,Grocery,2023-11-22,Temporary,5,27.96,5.0
+117,Gregg Phillips,Assistant Manager,Home Goods,2018-09-27,Seasonal,47,21.81,47.0
+118,Zachary Martinez,Sales Associate,Management,2021-03-12,Temporary,26,17.75,26.0
+119,Christopher Smith,Cashier,Pharmacy,2023-12-31,Temporary,40,12.98,40.0
+120,Megan Gutierrez,Sales Associate,Garden Center,2023-05-03,Full-time,32,19.38,32.0
+121,Tracey Donaldson,Store Manager,Front End,2021-01-14,Part-time,2,41.51,2.0
+122,Jose Shah,Customer Service,Pharmacy,2020-04-02,Full-time,7,12.26,7.0
+123,Katie Haynes,Customer Service,Management,2021-10-29,Full-time,13,19.9,13.0
+124,Caleb Mcintyre,Cashier,Grocery,2019-01-27,Seasonal,17,10.48,17.0
+125,Richard Reeves,Assistant Manager,Garden Center,2020-11-11,Temporary,5,26.26,5.0
+126,Dr. Spencer Levy,Department Manager,Electronics,2025-02-17,Full-time,18,25.0,18.0
+127,Mark Griffin,Customer Service,Electronics,2021-01-23,Temporary,9,17.53,9.0
+128,Cynthia Martinez,Pharmacist,Grocery,2018-01-07,Part-time,41,24.26,41.0
+129,Barbara Simpson,Pharmacist,Customer Service,2022-01-03,Seasonal,37,29.72,37.0
+130,Marissa Graves,Pharmacist,Apparel,2024-03-27,Seasonal,50,19.1,50.0
+131,Justin Smith MD,Sales Associate,Garden Center,2020-11-17,Part-time,46,15.59,46.0
+132,Mark Jackson,Store Manager,Grocery,2018-05-19,Temporary,43,26.5,43.0
+133,Derek Lester,Store Manager,Front End,2022-12-08,Temporary,4,38.41,4.0
+134,Holly Short,Store Manager,Customer Service,2022-02-26,Part-time,25,27.09,25.0
+135,Andrea Jenkins,Security,Management,2023-11-14,Seasonal,38,18.58,38.0
+136,Justin Martin,Pharmacist,Electronics,2025-03-03,Full-time,46,28.17,46.0
+137,Nancy Sherman,Store Manager,Garden Center,2019-06-24,Temporary,9,32.71,9.0
+138,Kevin Gordon,Security,Apparel,2021-12-19,Part-time,40,17.8,40.0
+139,Emily Lee,Assistant Manager,Pharmacy,2021-10-21,Seasonal,5,19.97,5.0
+140,Miranda Melton,Sales Associate,Electronics,2021-10-01,Full-time,37,14.61,37.0
+141,Mrs. Laura Wilcox DDS,Sales Associate,Apparel,2021-04-04,Temporary,48,10.17,48.0
+142,Brandon Baker,Assistant Manager,Front End,2024-07-21,Temporary,12,23.71,12.0
+143,Kyle Allen,Assistant Manager,Grocery,2024-10-16,Full-time,23,29.12,23.0
+144,Jason Arnold,Stocker,Apparel,2019-05-12,Temporary,23,11.51,23.0
+145,James Campbell,Customer Service,Front End,2018-10-23,Seasonal,33,14.41,33.0
+146,Bianca Christian,Cashier,Pharmacy,2020-01-16,Temporary,7,17.32,7.0
+147,Barbara Meadows,Assistant Manager,Apparel,2024-09-03,Seasonal,13,22.83,13.0
+148,Randy Howard,Maintenance,Customer Service,2025-01-23,Full-time,34,15.19,34.0
+149,Douglas Baxter,Cashier,Apparel,2020-04-25,Part-time,44,19.59,44.0
+150,Lisa Campbell MD,Cashier,Front End,2022-04-04,Part-time,8,15.75,8.0
+151,Angela Day,Security,Grocery,2019-05-09,Temporary,5,12.75,5.0
+152,Aimee Newton,Stocker,Grocery,2023-07-07,Seasonal,26,12.2,26.0
+153,James Bennett,Store Manager,Electronics,2017-05-09,Seasonal,32,40.71,32.0
+154,Kari Cervantes,Assistant Manager,Maintenance,2017-06-18,Full-time,41,21.46,41.0
+155,Valerie Molina,Department Manager,Management,2017-07-20,Temporary,7,28.89,7.0
+156,Aaron White,Assistant Manager,Apparel,2019-02-26,Full-time,48,20.04,48.0
+157,Sarah Richards,Department Manager,Garden Center,2021-10-23,Part-time,11,28.8,11.0
+158,Stephanie Mcgee,Pharmacist,Pharmacy,2017-06-06,Part-time,1,22.01,1.0
+159,Andrew Clarke,Sales Associate,Electronics,2019-12-30,Full-time,17,16.79,17.0
+160,Melissa Miller,Customer Service,Customer Service,2020-01-26,Temporary,39,15.83,39.0
+161,Stephen Johnson,Pharmacist,Grocery,2023-05-02,Full-time,16,18.54,16.0
+162,Duane Boyd,Assistant Manager,Apparel,2018-09-28,Part-time,37,24.3,37.0
+163,Pamela Patrick,Department Manager,Grocery,2025-01-10,Seasonal,49,19.2,49.0
+164,Benjamin Martinez,Pharmacist,Garden Center,2021-09-28,Seasonal,29,29.88,29.0
+165,David Caldwell,Pharmacist,Home Goods,2025-04-21,Full-time,43,22.37,43.0
+166,Danielle Johnson,Assistant Manager,Garden Center,2022-04-28,Temporary,23,28.7,23.0
+167,Deborah Boyer,Assistant Manager,Management,2023-02-25,Full-time,8,26.74,8.0
+168,Danny Kerr,Stocker,Apparel,2023-11-30,Part-time,10,16.59,10.0
+169,Maria Skinner,Pharmacist,Front End,2021-03-21,Temporary,23,20.93,23.0
+170,Cynthia Lopez,Store Manager,Grocery,2017-07-24,Temporary,24,28.88,24.0
+171,Beth Torres,Sales Associate,Home Goods,2017-12-07,Temporary,41,18.77,41.0
+172,Christopher Phillips,Department Manager,Home Goods,2019-04-19,Seasonal,34,28.92,34.0
+173,Tracy Miller,Stocker,Maintenance,2018-08-14,Seasonal,22,14.17,22.0
+174,James Powell,Store Manager,Front End,2017-10-14,Seasonal,20,36.59,20.0
+175,Michael Stout,Sales Associate,Pharmacy,2021-08-07,Seasonal,40,17.95,40.0
+176,Mr. Matthew Hardy Jr.,Sales Associate,Front End,2024-05-22,Part-time,19,14.99,19.0
+177,Nicole Hill,Department Manager,Management,2017-09-07,Part-time,30,29.6,30.0
+178,Renee Contreras,Pharmacist,Home Goods,2018-03-28,Seasonal,20,18.78,20.0
+179,Dr. Elizabeth George,Pharmacist,Front End,2020-08-01,Full-time,1,20.61,1.0
+180,Joseph Choi,Pharmacist,Home Goods,2019-11-14,Seasonal,4,18.06,4.0
+181,Dr. Adam Smith,Cashier,Front End,2024-01-07,Seasonal,43,12.51,43.0
+182,Gina Davis,Security,Management,2020-10-26,Full-time,19,11.55,19.0
+183,David Smith,Assistant Manager,Electronics,2023-04-02,Part-time,46,29.95,46.0
+184,Marc Jenkins,Maintenance,Grocery,2021-03-14,Full-time,28,12.91,28.0
+185,William Foster,Customer Service,Apparel,2018-06-07,Temporary,31,18.12,31.0
+186,Cheyenne Caldwell,Stocker,Grocery,2024-06-05,Seasonal,28,18.93,28.0
+187,Nicole Kane,Assistant Manager,Electronics,2024-10-18,Seasonal,39,24.77,39.0
+188,Kimberly Rhodes,Department Manager,Apparel,2023-06-08,Temporary,38,21.0,38.0
+189,Debra Horn,Store Manager,Home Goods,2019-10-02,Seasonal,36,31.1,36.0
+190,Amber Gillespie,Pharmacist,Management,2021-07-31,Temporary,37,20.2,37.0
+191,Jessica Li,Department Manager,Management,2024-04-11,Seasonal,7,23.3,7.0
+192,Justin Reed,Customer Service,Customer Service,2020-08-13,Temporary,33,13.54,33.0
+193,Meghan Maynard,Stocker,Customer Service,2018-05-13,Full-time,27,10.28,27.0
+194,Janet Brown,Stocker,Grocery,2022-10-12,Seasonal,50,17.56,50.0
+195,Jeffrey Brown,Maintenance,Management,2023-10-15,Seasonal,16,13.73,16.0
+196,Nicholas Rodriguez,Stocker,Electronics,2018-12-06,Full-time,4,14.03,4.0
+197,Charles Berg,Security,Customer Service,2019-10-03,Full-time,30,18.39,30.0
+198,Ricky Kent,Assistant Manager,Grocery,2018-10-04,Full-time,4,22.0,4.0
+199,Craig Smith,Maintenance,Customer Service,2020-06-20,Full-time,19,16.91,19.0
+200,Sarah Martin,Maintenance,Management,2024-07-04,Full-time,8,17.39,8.0
+201,Margaret Williamson,Store Manager,Management,2019-05-21,Temporary,45,27.88,45.0
+202,Wendy Harris,Store Manager,Electronics,2017-05-20,Seasonal,9,31.02,9.0
+203,Christopher Lawson,Cashier,Customer Service,2024-09-22,Part-time,47,16.24,47.0
+204,Richard Jackson,Sales Associate,Front End,2020-11-13,Full-time,8,11.53,8.0
+205,Casey Atkinson,Sales Associate,Apparel,2018-09-14,Temporary,34,12.04,34.0
+206,Margaret Freeman,Security,Customer Service,2024-11-12,Full-time,2,13.91,2.0
+207,Stanley Murray,Stocker,Customer Service,2020-06-03,Part-time,20,19.83,20.0
+208,Jonathan Mckinney,Assistant Manager,Maintenance,2018-07-08,Full-time,35,26.18,35.0
+209,Anthony Anderson,Department Manager,Front End,2018-03-05,Part-time,28,20.22,28.0
+210,Michael Travis,Security,Management,2021-09-23,Temporary,11,12.0,11.0
+211,Edwin Lawson,Assistant Manager,Grocery,2024-06-11,Temporary,19,29.51,19.0
+212,Tim Sandoval,Assistant Manager,Pharmacy,2017-09-19,Full-time,24,22.63,24.0
+213,Marvin Martin,Stocker,Pharmacy,2022-02-22,Seasonal,30,11.48,30.0
+214,Mrs. Emily Harper,Sales Associate,Maintenance,2021-09-01,Seasonal,30,13.89,30.0
+215,Vanessa Wilson,Maintenance,Customer Service,2018-04-13,Seasonal,3,10.43,3.0
+216,Hannah Jennings,Pharmacist,Customer Service,2022-03-06,Part-time,9,21.32,9.0
+217,William Matthews,Security,Management,2024-02-20,Temporary,23,12.11,23.0
+218,Samantha Davis,Sales Associate,Electronics,2021-01-01,Seasonal,33,16.56,33.0
+219,Jacob Phillips,Maintenance,Garden Center,2019-09-15,Part-time,42,14.59,42.0
+220,Darrell Bryan,Assistant Manager,Pharmacy,2023-01-28,Temporary,18,18.82,18.0
+221,Elizabeth Santiago,Pharmacist,Maintenance,2019-12-31,Seasonal,25,25.91,25.0
+222,Kelly Nguyen,Customer Service,Maintenance,2018-06-19,Seasonal,9,19.55,9.0
+223,Catherine Gordon,Maintenance,Pharmacy,2023-07-20,Full-time,38,10.68,38.0
+224,Brian Houston,Department Manager,Apparel,2025-04-07,Full-time,47,19.16,47.0
+225,Donald Wells,Pharmacist,Garden Center,2023-03-28,Part-time,32,27.12,32.0
+226,Nicole Blankenship,Department Manager,Pharmacy,2017-08-16,Temporary,7,27.07,7.0
+227,Tina Stevens,Cashier,Maintenance,2022-08-07,Full-time,5,12.5,5.0
+228,Kimberly Patton,Sales Associate,Customer Service,2019-02-20,Full-time,48,17.63,48.0
+229,Aaron Gibson,Customer Service,Grocery,2023-10-18,Temporary,12,16.99,12.0
+230,Bryan Bennett,Maintenance,Management,2020-04-23,Seasonal,9,12.0,9.0
+231,Jason Williams,Pharmacist,Home Goods,2023-09-21,Part-time,32,20.71,32.0
+232,Brandon Davis,Security,Apparel,2024-11-11,Full-time,28,10.86,28.0
+233,Dr. Cheryl Jackson,Sales Associate,Apparel,2023-11-02,Part-time,41,10.33,41.0
+234,Shannon Sullivan,Customer Service,Pharmacy,2017-05-28,Full-time,1,15.68,1.0
+235,Cynthia Haynes,Department Manager,Management,2021-08-19,Part-time,22,23.95,22.0
+236,Sonia Rodriguez,Pharmacist,Management,2023-05-11,Part-time,37,22.23,37.0
+237,Cole Gentry,Pharmacist,Pharmacy,2019-07-30,Full-time,5,25.51,5.0
+238,Jacqueline Kramer,Sales Associate,Electronics,2022-08-21,Seasonal,37,17.82,37.0
+239,Courtney Trevino,Sales Associate,Customer Service,2020-09-03,Seasonal,7,12.31,7.0
+240,Mary Fisher,Store Manager,Home Goods,2018-03-07,Seasonal,2,43.45,2.0
+241,Debra Todd,Customer Service,Grocery,2023-10-09,Part-time,25,18.72,25.0
+242,Jerry Meadows,Sales Associate,Management,2022-08-21,Seasonal,19,15.75,19.0
+243,Sean Reese,Maintenance,Front End,2024-11-04,Full-time,26,15.46,26.0
+244,Robert Horne,Pharmacist,Home Goods,2025-03-21,Full-time,38,25.84,38.0
+245,Kristin Bell,Stocker,Home Goods,2019-11-21,Full-time,22,12.01,22.0
+246,Peter Gray,Store Manager,Management,2021-12-03,Seasonal,9,41.34,9.0
+247,David Carlson,Cashier,Apparel,2023-12-31,Full-time,49,14.94,49.0
+248,Amy Gordon,Sales Associate,Pharmacy,2025-01-11,Full-time,23,15.98,23.0
+249,Brian Rogers,Pharmacist,Electronics,2024-02-23,Full-time,36,21.25,36.0
+250,Kristin Martin,Cashier,Customer Service,2022-06-25,Seasonal,7,15.08,7.0
+251,Jared Page,Pharmacist,Home Goods,2025-03-12,Part-time,28,27.38,28.0
+252,Timothy Knight,Cashier,Front End,2024-09-14,Part-time,2,17.74,2.0
+253,Nicholas Fox,Maintenance,Pharmacy,2018-07-14,Full-time,35,16.82,35.0
+254,Bobby Levine,Pharmacist,Front End,2022-07-17,Temporary,36,22.65,36.0
+255,Jessica Lee,Department Manager,Pharmacy,2021-09-27,Part-time,45,26.42,45.0
+256,Heather Harmon,Pharmacist,Grocery,2024-01-06,Seasonal,8,28.77,8.0
+257,Lisa Allen,Store Manager,Garden Center,2017-10-10,Full-time,23,33.73,23.0
+258,Alicia Reyes,Store Manager,Grocery,2023-03-17,Part-time,16,36.77,16.0
+259,Jessica Fisher,Security,Maintenance,2019-03-15,Full-time,27,10.46,27.0
+260,Frank Davis,Store Manager,Front End,2020-07-15,Part-time,47,26.53,47.0
+261,Tom Sanders,Department Manager,Home Goods,2018-10-05,Seasonal,29,18.52,29.0
+262,Linda Olson,Store Manager,Home Goods,2024-06-10,Temporary,39,27.59,39.0
+263,Paul Washington,Sales Associate,Grocery,2023-03-21,Part-time,31,10.76,31.0
+264,Jacqueline Burton,Customer Service,Apparel,2025-05-05,Seasonal,32,14.44,32.0
+265,Laurie Rivera,Security,Home Goods,2019-08-04,Part-time,24,18.69,24.0
+266,Michael Montgomery,Assistant Manager,Garden Center,2018-06-18,Full-time,34,26.37,34.0
+267,Ashley Ramsey,Customer Service,Pharmacy,2018-03-07,Temporary,4,17.06,4.0
+268,Kevin Delgado,Sales Associate,Apparel,2017-08-07,Part-time,18,19.12,18.0
+269,Logan Hunter,Security,Apparel,2024-08-12,Part-time,20,11.23,20.0
+270,Grant Collins,Store Manager,Customer Service,2017-12-29,Temporary,3,38.0,3.0
+271,Samantha Bridges MD,Cashier,Customer Service,2023-06-16,Seasonal,8,18.36,8.0
+272,Taylor Mercado,Maintenance,Pharmacy,2017-12-24,Full-time,18,13.0,18.0
+273,Stephanie Hunter,Assistant Manager,Maintenance,2024-10-02,Full-time,4,22.61,4.0
+274,Yolanda Lambert,Stocker,Customer Service,2023-05-11,Part-time,25,10.44,25.0
+275,Dr. Karen Riggs,Department Manager,Pharmacy,2018-03-19,Seasonal,25,24.39,25.0
+276,David Nelson,Security,Garden Center,2019-07-05,Seasonal,3,19.37,3.0
+277,Sabrina Pierce,Maintenance,Apparel,2024-09-06,Seasonal,17,17.57,17.0
+278,Yvette Buchanan,Maintenance,Pharmacy,2024-10-24,Full-time,47,18.66,47.0
+279,Megan Clark,Security,Pharmacy,2017-07-07,Seasonal,7,19.52,7.0
+280,Evelyn Smith,Pharmacist,Pharmacy,2018-04-28,Seasonal,35,24.87,35.0
+281,John Collier,Stocker,Customer Service,2023-10-19,Part-time,11,17.46,11.0
+282,Scott Miranda,Cashier,Home Goods,2020-03-01,Seasonal,9,18.0,9.0
+283,Sandra Ortiz,Store Manager,Management,2019-05-24,Temporary,6,30.92,6.0
+284,Jodi Ford,Maintenance,Home Goods,2023-06-15,Seasonal,3,13.62,3.0
+285,Kevin Webb,Maintenance,Front End,2024-11-13,Seasonal,42,11.24,42.0
+286,Jennifer Edwards,Department Manager,Customer Service,2024-06-29,Temporary,17,23.55,17.0
+287,Kristi Young,Pharmacist,Front End,2024-12-21,Temporary,1,29.59,1.0
+288,Sarah Carlson,Security,Apparel,2023-12-10,Full-time,41,14.09,41.0
+289,Leah Cooper,Maintenance,Management,2022-12-15,Full-time,18,13.14,18.0
+290,Scott Norton,Department Manager,Home Goods,2025-03-03,Seasonal,29,27.19,29.0
+291,Jonathan West,Pharmacist,Electronics,2024-08-30,Part-time,17,20.73,17.0
+292,Ryan Short,Maintenance,Front End,2020-01-24,Full-time,10,12.33,10.0
+293,Bryan Watkins,Security,Customer Service,2021-03-02,Full-time,12,15.8,12.0
+294,Angela Wilson,Store Manager,Front End,2021-05-08,Seasonal,36,44.03,36.0
+295,Gregory Pearson,Cashier,Garden Center,2020-11-12,Full-time,17,15.4,17.0
+296,Anthony Stewart,Store Manager,Garden Center,2018-10-09,Temporary,39,27.18,39.0
+297,Tracy Rasmussen,Security,Grocery,2019-01-17,Seasonal,8,12.37,8.0
+298,John Gibson,Customer Service,Pharmacy,2021-09-22,Temporary,37,10.71,37.0
+299,Erin Hawkins,Department Manager,Front End,2018-11-23,Seasonal,19,21.92,19.0
+300,Natalie Murphy,Stocker,Garden Center,2025-01-01,Seasonal,22,14.71,22.0
+301,Samantha Jones,Cashier,Electronics,2018-10-01,Seasonal,40,13.68,40.0
+302,Joseph Evans,Maintenance,Front End,2019-09-27,Part-time,10,11.06,10.0
+303,Paul Flynn,Security,Management,2018-08-11,Seasonal,21,17.83,21.0
+304,Stacey Good,Stocker,Maintenance,2020-12-20,Part-time,14,10.33,14.0
+305,Douglas Li,Sales Associate,Grocery,2020-02-03,Part-time,25,19.59,25.0
+306,Jesse Sullivan,Security,Maintenance,2019-08-21,Temporary,37,16.3,37.0
+307,Tyler Zimmerman,Sales Associate,Management,2019-07-07,Temporary,35,17.98,35.0
+308,Sandra Harris,Security,Management,2023-04-20,Seasonal,43,14.41,43.0
+309,Charles Hall,Maintenance,Home Goods,2019-08-27,Seasonal,13,19.11,13.0
+310,Michael Love,Customer Service,Apparel,2023-12-15,Full-time,16,14.56,16.0
+311,Victoria Torres,Store Manager,Customer Service,2017-07-03,Temporary,45,39.66,45.0
+312,Rebecca Price,Sales Associate,Garden Center,2024-02-04,Full-time,24,15.6,24.0
+313,Willie Wood,Pharmacist,Maintenance,2023-12-03,Temporary,24,20.76,24.0
+314,Ryan Morales,Maintenance,Electronics,2022-05-04,Part-time,15,19.26,15.0
+315,Pamela Patterson,Stocker,Maintenance,2024-07-01,Seasonal,50,16.66,50.0
+316,Margaret Christian,Customer Service,Garden Center,2018-05-21,Temporary,19,11.18,19.0
+317,Richard Carlson,Security,Electronics,2021-07-25,Part-time,27,15.76,27.0
+318,Christopher Hodges,Pharmacist,Front End,2020-11-22,Temporary,12,20.0,12.0
+319,Nathaniel Morrison,Security,Customer Service,2020-11-24,Part-time,17,17.43,17.0
+320,Eric Rogers,Stocker,Front End,2018-01-01,Full-time,3,16.9,3.0
+321,Joyce Campbell,Security,Management,2017-10-28,Temporary,9,19.19,9.0
+322,Amanda Collins,Department Manager,Pharmacy,2023-07-28,Part-time,23,26.36,23.0
+323,Brandon Jordan,Assistant Manager,Grocery,2020-09-18,Seasonal,46,22.04,46.0
+324,Amanda Holder,Maintenance,Maintenance,2023-05-16,Full-time,38,11.08,38.0
+325,Tamara Walsh,Customer Service,Customer Service,2024-06-26,Temporary,5,19.11,5.0
+326,Mr. Christopher Parrish DDS,Stocker,Home Goods,2022-05-08,Part-time,48,17.58,48.0
+327,Stephanie Bennett,Department Manager,Maintenance,2021-07-19,Full-time,47,29.0,47.0
+328,Whitney Cole,Cashier,Maintenance,2019-03-02,Temporary,10,15.93,10.0
+329,Hannah Dunn,Customer Service,Customer Service,2018-07-22,Seasonal,25,11.77,25.0
+330,Ryan Kennedy,Sales Associate,Apparel,2020-07-10,Seasonal,50,12.97,50.0
+331,Victoria Jones,Maintenance,Management,2022-12-23,Temporary,4,18.97,4.0
+332,Justin Lucas,Customer Service,Pharmacy,2018-08-31,Part-time,19,13.19,19.0
+333,Monique Moyer,Cashier,Apparel,2025-04-27,Seasonal,10,14.31,10.0
+334,Joshua Phillips,Maintenance,Garden Center,2024-11-14,Seasonal,37,10.99,37.0
+335,Nicholas Rodriguez,Sales Associate,Home Goods,2021-02-27,Temporary,11,12.74,11.0
+336,Ryan Sanders,Department Manager,Home Goods,2017-06-02,Seasonal,15,29.27,15.0
+337,Thomas Sutton,Sales Associate,Apparel,2017-07-13,Part-time,39,16.66,39.0
+338,Selena Hernandez,Store Manager,Management,2018-12-23,Part-time,7,41.78,7.0
+339,John Hamilton,Maintenance,Front End,2021-08-13,Part-time,2,19.6,2.0
+340,Michael Morales,Pharmacist,Front End,2021-12-23,Seasonal,1,22.43,1.0
+341,Holly Shaw,Stocker,Customer Service,2023-06-06,Temporary,37,15.21,37.0
+342,Dean Williams,Sales Associate,Grocery,2021-09-01,Temporary,19,14.44,19.0
+343,Alicia Guerrero,Assistant Manager,Grocery,2017-08-31,Seasonal,32,28.37,32.0
+344,Mr. Timothy Harris,Sales Associate,Garden Center,2020-12-15,Part-time,47,18.04,47.0
+345,Rebecca Adams,Sales Associate,Garden Center,2018-05-29,Seasonal,47,11.57,47.0
+346,Mary Benjamin,Pharmacist,Management,2022-09-18,Full-time,18,26.06,18.0
+347,Deborah Cook,Customer Service,Front End,2024-10-13,Seasonal,46,14.33,46.0
+348,Andrew Daniel,Security,Front End,2019-07-31,Full-time,13,19.49,13.0
+349,James Boyer,Department Manager,Maintenance,2018-06-11,Part-time,16,22.51,16.0
+350,Christopher Hill,Store Manager,Home Goods,2025-01-21,Temporary,44,34.4,44.0
+351,Edward Carter,Pharmacist,Home Goods,2024-03-24,Full-time,12,19.58,12.0
+352,Sarah Salazar MD,Store Manager,Front End,2021-01-13,Temporary,34,33.69,34.0
+353,Michael Meyers,Maintenance,Apparel,2022-04-02,Full-time,36,17.1,36.0
+354,Kelly Johnson,Assistant Manager,Maintenance,2018-05-06,Part-time,27,22.56,27.0
+355,Jason Williams,Customer Service,Customer Service,2019-04-13,Part-time,41,15.3,41.0
+356,Jennifer Ryan,Store Manager,Home Goods,2023-09-20,Temporary,20,38.36,20.0
+357,Kathryn Sanders,Stocker,Maintenance,2024-06-03,Temporary,41,13.57,41.0
+358,Beth Gray DDS,Sales Associate,Apparel,2019-07-03,Seasonal,19,11.12,19.0
+359,Danielle Jordan,Pharmacist,Garden Center,2024-05-20,Temporary,27,20.97,27.0
+360,Bryan Cox,Department Manager,Customer Service,2020-01-15,Full-time,8,29.48,8.0
+361,John Brown,Stocker,Electronics,2022-03-07,Temporary,23,17.74,23.0
+362,Savannah Myers,Maintenance,Pharmacy,2021-09-22,Full-time,32,16.87,32.0
+363,Brandon Smith,Assistant Manager,Management,2022-05-13,Temporary,19,20.58,19.0
+364,Thomas Waters,Security,Garden Center,2024-02-02,Seasonal,4,12.62,4.0
+365,Rachel Wagner,Stocker,Customer Service,2018-09-08,Seasonal,27,14.25,27.0
+366,Jose Castro,Assistant Manager,Customer Service,2019-06-21,Seasonal,4,26.74,4.0
+367,Sierra Graham,Cashier,Home Goods,2018-11-02,Part-time,41,14.48,41.0
+368,Samuel Palmer,Department Manager,Management,2024-04-24,Full-time,37,20.47,37.0
+369,Katherine Smith,Maintenance,Garden Center,2018-03-16,Full-time,40,11.29,40.0
+370,Daniel Bailey,Cashier,Pharmacy,2017-06-13,Seasonal,47,10.9,47.0
+371,Lindsay Lopez,Security,Grocery,2023-04-17,Part-time,23,16.55,23.0
+372,Collin Snyder,Security,Apparel,2020-07-13,Temporary,24,19.85,24.0
+373,Kristin Bean,Store Manager,Home Goods,2017-09-15,Seasonal,46,41.03,46.0
+374,Ashley Smith,Stocker,Apparel,2024-10-18,Part-time,22,15.53,22.0
+375,Robert Page,Cashier,Front End,2020-03-01,Full-time,1,17.55,1.0
+376,Sarah Ward,Stocker,Customer Service,2020-12-26,Seasonal,33,10.42,33.0
+377,Tyler Harrison,Cashier,Apparel,2022-08-10,Part-time,20,16.32,20.0
+378,Jill Lee,Assistant Manager,Grocery,2018-11-11,Temporary,3,27.76,3.0
+379,Christopher Mcintyre,Stocker,Electronics,2019-12-27,Seasonal,42,18.18,42.0
+380,Rebecca Gibson,Sales Associate,Grocery,2020-09-07,Temporary,6,15.05,6.0
+381,Richard Williams,Cashier,Management,2017-06-30,Part-time,2,16.05,2.0
+382,Ricky Walsh,Maintenance,Pharmacy,2023-12-14,Seasonal,7,11.94,7.0
+383,Diana May,Stocker,Management,2020-01-05,Seasonal,21,17.43,21.0
+384,Julie Bowen,Pharmacist,Apparel,2019-11-11,Temporary,18,19.2,18.0
+385,Richard Howard,Assistant Manager,Pharmacy,2021-02-06,Temporary,25,19.12,25.0
+386,Joseph Johnson,Assistant Manager,Customer Service,2019-09-15,Part-time,36,21.41,36.0
+387,Kristina Grant,Cashier,Customer Service,2019-11-03,Seasonal,25,17.28,25.0
+388,John Daniels,Security,Grocery,2019-12-23,Full-time,49,14.52,49.0
+389,Katelyn Chaney,Store Manager,Customer Service,2020-06-24,Full-time,26,32.4,26.0
+390,Christopher Yates,Assistant Manager,Garden Center,2019-02-08,Full-time,42,19.73,42.0
+391,Angela Rodgers,Security,Electronics,2021-12-26,Temporary,7,12.08,7.0
+392,Randy Donovan,Store Manager,Grocery,2023-01-14,Temporary,38,27.83,38.0
+393,Angelica Fischer,Maintenance,Apparel,2020-07-08,Temporary,34,10.59,34.0
+394,William Chavez,Stocker,Home Goods,2018-12-28,Part-time,17,17.41,17.0
+395,Elizabeth Ray,Customer Service,Maintenance,2020-09-13,Full-time,3,15.99,3.0
+396,Joseph Johnson,Store Manager,Management,2019-07-08,Temporary,18,40.89,18.0
+397,William Baker,Store Manager,Garden Center,2020-09-19,Temporary,21,34.23,21.0
+398,Jessica Potts,Security,Grocery,2019-01-20,Temporary,33,19.21,33.0
+399,Tanya Lucas,Sales Associate,Pharmacy,2018-04-28,Full-time,45,11.27,45.0
+400,Sandra Baxter,Security,Grocery,2017-05-29,Temporary,11,11.66,11.0
+401,Jennifer Lewis,Cashier,Pharmacy,2017-06-12,Temporary,8,14.95,8.0
+402,Parker Wall,Security,Pharmacy,2020-06-25,Seasonal,9,13.99,9.0
+403,Wanda Oconnor,Stocker,Home Goods,2017-06-13,Seasonal,8,17.2,8.0
+404,Elizabeth Moore,Customer Service,Maintenance,2023-01-31,Part-time,34,18.9,34.0
+405,Gregg Rosales,Assistant Manager,Management,2017-07-01,Seasonal,10,26.22,10.0
+406,Elizabeth Stark,Maintenance,Home Goods,2022-11-25,Part-time,34,14.72,34.0
+407,Alexis Calhoun,Department Manager,Electronics,2024-01-28,Temporary,22,24.29,22.0
+408,David Townsend,Customer Service,Pharmacy,2025-02-15,Temporary,1,11.79,1.0
+409,Alicia Cuevas,Cashier,Home Goods,2024-08-16,Part-time,5,17.01,5.0
+410,Benjamin Ramos,Sales Associate,Management,2024-05-25,Full-time,45,14.59,45.0
+411,Courtney Cannon,Maintenance,Customer Service,2019-11-25,Full-time,4,15.94,4.0
+412,Thomas Liu,Security,Apparel,2017-06-10,Full-time,23,13.45,23.0
+413,Jacqueline Mann,Assistant Manager,Home Goods,2020-05-29,Temporary,13,27.85,13.0
+414,Gregory Norman,Assistant Manager,Garden Center,2017-08-28,Temporary,38,25.49,38.0
+415,Leslie Winters,Security,Management,2023-04-27,Part-time,17,16.42,17.0
+416,Matthew Diaz,Maintenance,Electronics,2023-02-07,Part-time,5,11.03,5.0
+417,Jeremy Carter,Department Manager,Home Goods,2019-10-27,Part-time,18,24.76,18.0
+418,Lauren Reyes,Maintenance,Pharmacy,2021-01-15,Seasonal,34,13.3,34.0
+419,Susan Oliver,Maintenance,Customer Service,2019-02-24,Full-time,48,12.09,48.0
+420,Connie Smith,Store Manager,Grocery,2022-12-19,Part-time,15,43.59,15.0
+421,Andrew Sharp,Department Manager,Customer Service,2020-06-04,Seasonal,10,28.5,10.0
+422,John Charles,Cashier,Electronics,2023-05-29,Temporary,5,15.12,5.0
+423,Zachary Harvey,Pharmacist,Garden Center,2017-12-08,Full-time,28,21.63,28.0
+424,Donna Robinson,Security,Pharmacy,2022-04-08,Temporary,16,13.77,16.0
+425,Amanda Ward,Pharmacist,Garden Center,2020-04-20,Seasonal,46,21.74,46.0
+426,Richard Patrick,Sales Associate,Maintenance,2024-02-06,Part-time,34,18.42,34.0
+427,Matthew Wilson,Assistant Manager,Electronics,2023-09-02,Temporary,41,28.08,41.0
+428,Tony Tucker,Assistant Manager,Grocery,2018-10-07,Temporary,32,24.69,32.0
+429,Angela Roman,Customer Service,Electronics,2021-10-07,Seasonal,42,10.25,42.0
+430,Brittany Marsh,Customer Service,Pharmacy,2018-08-17,Part-time,30,12.14,30.0
+431,Scott Mcdonald,Customer Service,Electronics,2017-08-21,Full-time,25,19.33,25.0
+432,Ronald Munoz,Pharmacist,Garden Center,2023-05-12,Full-time,13,24.31,13.0
+433,Douglas Daniels,Assistant Manager,Garden Center,2022-06-22,Seasonal,38,19.13,38.0
+434,Christine Luna,Security,Front End,2018-03-17,Full-time,17,16.07,17.0
+435,Gary Hardin,Assistant Manager,Customer Service,2021-11-27,Seasonal,42,22.78,42.0
+436,Steve Kramer,Cashier,Maintenance,2024-03-31,Temporary,18,18.23,18.0
+437,Melissa Perkins,Pharmacist,Customer Service,2019-09-07,Full-time,39,20.09,39.0
+438,Benjamin Levine,Customer Service,Front End,2017-07-14,Part-time,3,16.13,3.0
+439,Stephanie Travis,Department Manager,Electronics,2025-02-07,Full-time,46,18.99,46.0
+440,Joshua Jones,Pharmacist,Front End,2024-04-18,Seasonal,4,21.77,4.0
+441,Angela Chase,Maintenance,Front End,2022-07-01,Seasonal,13,13.33,13.0
+442,Tyler Hensley,Department Manager,Maintenance,2021-08-14,Seasonal,46,26.67,46.0
+443,Mike Jones,Cashier,Pharmacy,2021-12-16,Full-time,34,14.16,34.0
+444,Jason Davis,Store Manager,Management,2022-10-02,Seasonal,5,27.95,5.0
+445,Ryan Cruz,Department Manager,Customer Service,2020-06-29,Part-time,6,18.53,6.0
+446,Stephanie Gray,Security,Pharmacy,2017-11-28,Full-time,45,11.73,45.0
+447,Angela Jones,Assistant Manager,Management,2018-06-25,Seasonal,20,22.21,20.0
+448,Taylor Martin,Maintenance,Grocery,2023-08-31,Temporary,30,15.66,30.0
+449,Luis Brown,Sales Associate,Grocery,2022-10-26,Full-time,6,11.83,6.0
+450,Brian Andrews,Customer Service,Maintenance,2025-02-22,Full-time,12,16.27,12.0
+451,Eric Smith,Department Manager,Front End,2023-03-11,Seasonal,50,20.61,50.0
+452,Holly Powell,Sales Associate,Apparel,2024-01-06,Part-time,30,13.08,30.0
+453,Kathryn Barnes,Department Manager,Home Goods,2019-06-19,Seasonal,48,18.64,48.0
+454,Patricia Moyer,Assistant Manager,Electronics,2021-11-06,Temporary,12,24.78,12.0
+455,Christian Hernandez,Store Manager,Home Goods,2017-08-25,Part-time,15,42.67,15.0
+456,Alyssa Beard,Assistant Manager,Customer Service,2022-10-10,Temporary,19,21.17,19.0
+457,Jeff Hall,Maintenance,Garden Center,2023-03-25,Temporary,23,13.49,23.0
+458,Mr. Travis Beck,Department Manager,Front End,2021-06-17,Temporary,41,29.4,41.0
+459,Gerald Foster,Security,Maintenance,2019-02-03,Temporary,10,12.11,10.0
+460,Angela Moore,Assistant Manager,Apparel,2024-03-04,Seasonal,23,22.11,23.0
+461,Jacob Knight,Security,Apparel,2017-09-10,Temporary,6,12.58,6.0
+462,Michael Garcia,Cashier,Grocery,2021-02-12,Part-time,17,15.17,17.0
+463,Cathy Crawford,Department Manager,Customer Service,2019-08-05,Seasonal,31,25.04,31.0
+464,Charles Garcia,Stocker,Maintenance,2023-03-10,Seasonal,37,19.01,37.0
+465,Michael Bowman,Sales Associate,Garden Center,2017-07-12,Full-time,45,18.69,45.0
+466,Kelly Lang,Stocker,Customer Service,2022-09-08,Full-time,11,13.35,11.0
+467,Austin Bright,Customer Service,Home Goods,2018-05-16,Part-time,12,11.63,12.0
+468,Amanda Patton,Cashier,Customer Service,2021-11-01,Temporary,49,18.09,49.0
+469,John Anderson,Maintenance,Pharmacy,2020-07-19,Temporary,38,17.31,38.0
+470,Christopher Cruz,Assistant Manager,Garden Center,2024-02-19,Temporary,16,25.21,16.0
+471,Andrew Obrien,Stocker,Home Goods,2023-07-31,Part-time,44,10.4,44.0
+472,Danielle Davila,Security,Grocery,2023-04-29,Seasonal,49,14.21,49.0
+473,Anthony Davis,Stocker,Maintenance,2018-08-23,Part-time,37,10.29,37.0
+474,Dana Chavez,Maintenance,Management,2018-04-03,Part-time,20,11.98,20.0
+475,Beth Huynh,Customer Service,Front End,2024-02-06,Seasonal,9,19.7,9.0
+476,Teresa Garrett,Department Manager,Garden Center,2022-09-10,Part-time,50,23.5,50.0
+477,Elizabeth Simpson,Cashier,Electronics,2018-04-06,Part-time,30,12.0,30.0
+478,Tara Evans,Assistant Manager,Grocery,2018-10-06,Part-time,20,20.22,20.0
+479,Jorge Gibson,Sales Associate,Apparel,2019-12-20,Seasonal,28,11.54,28.0
+480,Mark Irwin II,Pharmacist,Electronics,2020-10-13,Temporary,1,22.14,1.0
+481,Joshua Johnson,Stocker,Apparel,2024-01-21,Temporary,36,19.13,36.0
+482,Mindy Fischer,Store Manager,Grocery,2018-04-03,Seasonal,30,32.75,30.0
+483,Derek Banks,Department Manager,Pharmacy,2024-04-29,Seasonal,49,27.28,49.0
+484,Joshua Jones,Stocker,Maintenance,2024-06-28,Full-time,44,13.94,44.0
+485,Michael Gonzalez,Pharmacist,Maintenance,2018-10-07,Part-time,23,18.32,23.0
+486,Jill Torres,Store Manager,Garden Center,2018-11-01,Full-time,50,32.25,50.0
+487,Michelle Russell,Maintenance,Pharmacy,2021-02-03,Part-time,40,19.15,40.0
+488,Bradley Weber,Pharmacist,Apparel,2021-06-16,Seasonal,9,18.53,9.0
+489,Tony Hanson,Sales Associate,Garden Center,2022-12-23,Part-time,28,13.84,28.0
+490,Jonathan Wall,Department Manager,Home Goods,2023-04-11,Temporary,28,21.73,28.0
+491,Richard Richardson,Assistant Manager,Pharmacy,2020-12-04,Temporary,3,20.15,3.0
+492,Charles Gonzalez,Security,Grocery,2021-04-20,Full-time,44,14.65,44.0
+493,Lisa Floyd,Sales Associate,Pharmacy,2023-08-18,Full-time,23,18.04,23.0
+494,Adam Hebert,Customer Service,Electronics,2023-08-24,Temporary,11,15.75,11.0
+495,Alexandra Fitzpatrick,Pharmacist,Front End,2023-04-20,Temporary,44,23.83,44.0
+496,Jeffrey Jensen,Cashier,Home Goods,2023-01-17,Full-time,28,14.25,28.0
+497,Kim Stanley,Pharmacist,Management,2020-02-28,Temporary,39,22.47,39.0
+498,Dennis Paul,Customer Service,Management,2020-04-02,Full-time,46,19.72,46.0
+499,Anthony Lee,Stocker,Management,2023-03-22,Full-time,12,17.6,12.0
+500,Dustin Howell,Cashier,Garden Center,2023-08-23,Seasonal,10,19.48,10.0

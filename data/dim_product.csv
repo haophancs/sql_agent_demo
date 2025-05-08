@@ -1,0 +1,1001 @@
+product_id,product_name,brand,category,department,sub_department,base_price,unit_of_measure,is_perishable,supplier_id
+1,repurpose transparent e-commerce,Bailey-Flores,Clothing - Men,Clothing,Men,451.89,each,False,40
+2,expedite proactive content,Huerta,Beauty - Makeup,Beauty,Makeup,290.62,each,False,17
+3,transition visionary e-business,Alexander,Electronics - Phones,Electronics,Phones,164.7,each,False,23
+4,aggregate out-of-the-box eyeballs,"Farrell,",Home - Bathroom,Home,Bathroom,393.67,set,False,68
+5,re-intermediate B2B technologies,Cooper,Health - First Aid,Health,First Aid,415.57,oz,False,62
+6,monetize customized info-mediaries,Rivera,Garden - Outdoor Furniture,Garden,Outdoor Furniture,402.5,lb,False,10
+7,incubate killer e-tailers,"Mills,",Clothing - Women,Clothing,Women,430.34,each,False,72
+8,drive B2B web services,Bennett,Toys - Action Figures,Toys,Action Figures,395.75,each,False,34
+9,mesh revolutionary portals,Brown,Health - Vitamins,Health,Vitamins,228.47,each,False,96
+10,generate real-time markets,Pena-Smith,Garden - Decor,Garden,Decor,191.74,gal,False,48
+11,synergize real-time web services,"Ward,",Electronics - TVs,Electronics,TVs,236.79,each,False,79
+12,matrix integrated e-services,Romero-Mckinney,Home - Kitchen,Home,Kitchen,318.42,set,False,90
+13,productize turn-key models,"Schmidt,",Garden - Grills,Garden,Grills,60.09,each,False,5
+14,target vertical paradigms,Nielsen,Garden - Grills,Garden,Grills,59.82,each,False,69
+15,facilitate holistic interfaces,"Moore,",Clothing - Shoes,Clothing,Shoes,227.9,each,False,76
+16,whiteboard seamless action-items,"Hill,",Clothing - Shoes,Clothing,Shoes,328.14,each,False,79
+17,synergize proactive schemas,Perez-Peterson,Sporting Goods - Team Sports,Sporting Goods,Team Sports,18.28,set,False,28
+18,strategize global infrastructures,"Reyes,",Beauty - Fragrance,Beauty,Fragrance,475.37,ml,False,13
+19,whiteboard bleeding-edge e-markets,Berry,Toys - Outdoor,Toys,Outdoor,451.03,set,False,8
+20,monetize open-source systems,"Anderson,",Sporting Goods - Team Sports,Sporting Goods,Team Sports,96.51,each,False,59
+21,innovate 24/365 channels,Barker-Roach,Electronics - TVs,Electronics,TVs,321.56,each,False,7
+22,redefine global e-commerce,Douglas,Toys - Puzzles,Toys,Puzzles,494.42,each,False,9
+23,redefine granular vortals,Grant,Health - Medicine,Health,Medicine,294.01,count,False,43
+24,embrace viral vortals,Acosta,Clothing - Accessories,Clothing,Accessories,3.4,each,False,17
+25,matrix transparent e-markets,Ramos-Peck,Health - First Aid,Health,First Aid,399.65,count,False,85
+26,productize efficient eyeballs,Rodriguez,Grocery - Produce,Grocery,Produce,9.39,lb,True,76
+27,utilize real-time metrics,"Salazar,",Toys - Action Figures,Toys,Action Figures,88.76,each,False,17
+28,utilize synergistic infrastructures,"Chan,",Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,58.59,each,False,61
+29,syndicate out-of-the-box ROI,Henry-Taylor,Beauty - Hair Care,Beauty,Hair Care,257.58,oz,False,58
+30,aggregate magnetic paradigms,Duran-Smith,Health - Medicine,Health,Medicine,472.81,count,False,94
+31,empower transparent e-services,"Powers,",Health - First Aid,Health,First Aid,230.1,count,False,8
+32,reinvent visionary e-business,Watts-Delacruz,Beauty - Fragrance,Beauty,Fragrance,214.27,oz,False,63
+33,matrix interactive e-commerce,Parsons-Franklin,Beauty - Makeup,Beauty,Makeup,449.82,ml,False,78
+34,transition enterprise vortals,Carr-Newton,Clothing - Men,Clothing,Men,64.83,each,False,49
+35,expedite robust deliverables,Hayes,Automotive - Electronics,Automotive,Electronics,148.85,oz,False,78
+36,matrix interactive deliverables,"Foster,",Sporting Goods - Fitness,Sporting Goods,Fitness,396.95,each,False,84
+37,mesh scalable solutions,Gonzales-Wilkerson,Health - Medicine,Health,Medicine,216.16,count,False,53
+38,revolutionize front-end bandwidth,Henderson,Toys - Educational,Toys,Educational,200.56,each,False,41
+39,redefine scalable deliverables,Ford,Sporting Goods - Team Sports,Sporting Goods,Team Sports,333.21,set,False,20
+40,grow e-business mindshare,White,Beauty - Makeup,Beauty,Makeup,47.42,oz,False,12
+41,productize global interfaces,Morris-Johnson,Sporting Goods - Fitness,Sporting Goods,Fitness,372.8,set,False,17
+42,target 24/365 bandwidth,Wright,Health - Vitamins,Health,Vitamins,294.05,each,False,72
+43,visualize granular initiatives,Wilson,Toys - Action Figures,Toys,Action Figures,206.57,set,False,93
+44,whiteboard bricks-and-clicks infrastructures,"Zimmerman,",Grocery - Bakery,Grocery,Bakery,300.99,count,True,14
+45,re-intermediate granular architectures,"James,",Automotive - Electronics,Automotive,Electronics,107.93,oz,False,62
+46,maximize B2C communities,White,Home - Kitchen,Home,Kitchen,176.35,set,False,15
+47,streamline next-generation content,Cross-Woodward,Garden - Decor,Garden,Decor,114.62,lb,False,72
+48,envisioneer viral initiatives,Horne,Automotive - Electronics,Automotive,Electronics,338.13,oz,False,4
+49,re-intermediate dot-com synergies,Jimenez-Jimenez,Automotive - Oil & Fluids,Automotive,Oil & Fluids,16.41,qt,False,90
+50,exploit clicks-and-mortar metrics,Young-Chapman,Garden - Outdoor Furniture,Garden,Outdoor Furniture,176.8,each,False,19
+51,syndicate ubiquitous e-markets,Miller-Greene,Automotive - Tools,Automotive,Tools,36.64,oz,False,82
+52,incentivize efficient e-business,"Grant,",Grocery - Dairy,Grocery,Dairy,373.55,lb,True,49
+53,orchestrate leading-edge experiences,Johnson-Nash,Sporting Goods - Water Sports,Sporting Goods,Water Sports,171.76,set,False,40
+54,repurpose seamless supply-chains,Williams,Toys - Outdoor,Toys,Outdoor,298.91,each,False,20
+55,reinvent granular methodologies,Carr-Holt,Clothing - Accessories,Clothing,Accessories,26.77,each,False,35
+56,expedite virtual bandwidth,"Riley,",Beauty - Fragrance,Beauty,Fragrance,243.85,ml,False,54
+57,monetize world-class relationships,Wilkins-Chang,Garden - Tools,Garden,Tools,377.95,each,False,45
+58,e-enable innovative technologies,Taylor-Neal,Sporting Goods - Fitness,Sporting Goods,Fitness,143.05,pair,False,76
+59,empower open-source deliverables,Warren-Dominguez,Beauty - Bath & Body,Beauty,Bath & Body,334.22,oz,False,29
+60,re-intermediate leading-edge platforms,"Blair,",Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,29.27,each,False,39
+61,syndicate front-end e-commerce,"Abbott,",Home - Bathroom,Home,Bathroom,382.54,set,False,42
+62,re-intermediate synergistic channels,"Hart,",Electronics - Computers,Electronics,Computers,249.69,each,False,23
+63,synthesize viral e-business,Erickson,Clothing - Shoes,Clothing,Shoes,267.22,each,False,65
+64,implement 24/7 web-readiness,Garrett-Wilson,Health - First Aid,Health,First Aid,37.88,each,False,6
+65,iterate best-of-breed e-business,Gutierrez-Cook,Sporting Goods - Fitness,Sporting Goods,Fitness,230.95,each,False,41
+66,engage killer synergies,"Harris,",Automotive - Tools,Automotive,Tools,287.54,oz,False,82
+67,monetize seamless mindshare,"Nguyen,",Sporting Goods - Team Sports,Sporting Goods,Team Sports,59.35,each,False,42
+68,facilitate impactful networks,"Choi,",Clothing - Accessories,Clothing,Accessories,231.12,each,False,12
+69,e-enable cross-platform methodologies,Hendricks-Robles,Sporting Goods - Fitness,Sporting Goods,Fitness,123.16,pair,False,52
+70,visualize global info-mediaries,Burton,Health - Vitamins,Health,Vitamins,199.08,oz,False,96
+71,productize open-source bandwidth,Reilly-Brown,Toys - Puzzles,Toys,Puzzles,167.86,each,False,10
+72,mesh seamless networks,"Gregory,",Health - Vitamins,Health,Vitamins,266.23,count,False,100
+73,maximize open-source convergence,Montes,Toys - Dolls,Toys,Dolls,364.22,each,False,31
+74,e-enable proactive supply-chains,Sims-Kirby,Electronics - TVs,Electronics,TVs,129.46,each,False,78
+75,maximize integrated ROI,"Wilson,",Clothing - Men,Clothing,Men,90.21,each,False,60
+76,iterate turn-key paradigms,Gutierrez-Crawford,Automotive - Electronics,Automotive,Electronics,225.54,oz,False,83
+77,incentivize out-of-the-box systems,Robinson-Turner,Automotive - Oil & Fluids,Automotive,Oil & Fluids,432.38,oz,False,41
+78,embrace out-of-the-box paradigms,Gentry,Clothing - Shoes,Clothing,Shoes,36.0,each,False,81
+79,deliver proactive info-mediaries,"Moore,",Garden - Outdoor Furniture,Garden,Outdoor Furniture,296.52,lb,False,65
+80,cultivate extensible vortals,Hammond,Electronics - Phones,Electronics,Phones,231.94,each,False,8
+81,transition end-to-end e-tailers,"Johnson,",Toys - Dolls,Toys,Dolls,40.2,each,False,79
+82,embrace clicks-and-mortar content,Mcdaniel,Automotive - Electronics,Automotive,Electronics,193.46,oz,False,71
+83,cultivate e-business supply-chains,Small-Garcia,Grocery - Meat,Grocery,Meat,454.7,lb,True,42
+84,revolutionize extensible web-readiness,"Blake,",Automotive - Tools,Automotive,Tools,251.67,each,False,58
+85,aggregate dynamic technologies,Patel-Mejia,Electronics - Phones,Electronics,Phones,491.22,each,False,65
+86,repurpose 24/7 niches,Moore,Clothing - Men,Clothing,Men,125.37,each,False,57
+87,implement sticky e-tailers,"Bell,",Health - Wellness,Health,Wellness,305.67,oz,False,48
+88,unleash front-end networks,Jackson,Garden - Grills,Garden,Grills,205.56,lb,False,87
+89,re-intermediate cross-platform users,Williams-Johnson,Automotive - Parts,Automotive,Parts,395.03,oz,False,43
+90,productize scalable platforms,Brown-Simmons,Electronics - Phones,Electronics,Phones,49.05,each,False,37
+91,reinvent customized e-business,Edwards-Roth,Garden - Decor,Garden,Decor,436.88,lb,False,11
+92,unleash strategic bandwidth,"Anderson,",Automotive - Accessories,Automotive,Accessories,458.53,qt,False,84
+93,target mission-critical bandwidth,Cohen-Mckinney,Sporting Goods - Camping,Sporting Goods,Camping,298.32,each,False,40
+94,target collaborative e-services,Thomas,Health - Personal Care,Health,Personal Care,322.45,oz,False,17
+95,morph bricks-and-clicks interfaces,Lyons,Health - Vitamins,Health,Vitamins,323.71,oz,False,66
+96,facilitate world-class bandwidth,Johnson-Alvarez,Toys - Action Figures,Toys,Action Figures,182.56,each,False,28
+97,seize compelling bandwidth,Campbell,Toys - Educational,Toys,Educational,97.61,each,False,20
+98,expedite end-to-end mindshare,Sullivan,Electronics - Phones,Electronics,Phones,422.52,each,False,65
+99,generate sticky vortals,"Banks,",Health - Wellness,Health,Wellness,20.79,oz,False,99
+100,strategize transparent action-items,"Sanchez,",Automotive - Accessories,Automotive,Accessories,299.42,each,False,21
+101,optimize cross-platform e-tailers,"Garza,",Clothing - Accessories,Clothing,Accessories,404.89,each,False,93
+102,generate cross-platform users,"Young,",Beauty - Makeup,Beauty,Makeup,206.6,each,False,93
+103,re-contextualize holistic initiatives,"Carlson,",Home - Living Room,Home,Living Room,306.07,set,False,30
+104,grow virtual content,Jones-Rodriguez,Health - Medicine,Health,Medicine,156.11,oz,False,25
+105,transition enterprise vortals,Newman-Brown,Toys - Outdoor,Toys,Outdoor,492.24,set,False,99
+106,architect global applications,"Pacheco,",Garden - Grills,Garden,Grills,252.44,lb,False,21
+107,grow distributed architectures,"Lane,",Home - Dining,Home,Dining,70.91,set,False,7
+108,harness seamless networks,"Torres,",Beauty - Hair Care,Beauty,Hair Care,278.15,oz,False,92
+109,redefine cross-media infrastructures,"Smith,",Health - Vitamins,Health,Vitamins,143.95,count,False,35
+110,enable distributed markets,Santana-Faulkner,Beauty - Bath & Body,Beauty,Bath & Body,75.37,ml,False,12
+111,implement synergistic initiatives,Glenn-Young,Home - Living Room,Home,Living Room,442.54,each,False,54
+112,scale impactful functionalities,Joseph-Sullivan,Grocery - Meat,Grocery,Meat,251.99,lb,True,50
+113,brand killer web services,Wells,Electronics - Phones,Electronics,Phones,113.81,each,False,13
+114,engage integrated relationships,Moore-Bright,Toys - Puzzles,Toys,Puzzles,70.51,set,False,61
+115,repurpose end-to-end channels,Jones,Clothing - Shoes,Clothing,Shoes,225.39,each,False,11
+116,orchestrate holistic web services,Proctor-Taylor,Grocery - Bakery,Grocery,Bakery,109.39,lb,True,71
+117,enable next-generation bandwidth,"Munoz,",Automotive - Electronics,Automotive,Electronics,212.77,qt,False,31
+118,deliver cutting-edge schemas,Cruz-Perez,Garden - Plants,Garden,Plants,25.77,lb,False,82
+119,brand clicks-and-mortar networks,Bradford-Young,Automotive - Tools,Automotive,Tools,33.27,qt,False,77
+120,deliver real-time e-markets,"Johnston,",Health - Vitamins,Health,Vitamins,316.7,each,False,31
+121,syndicate out-of-the-box initiatives,"Olson,",Clothing - Children,Clothing,Children,215.75,each,False,31
+122,drive efficient bandwidth,"Miller,",Automotive - Tools,Automotive,Tools,95.27,oz,False,11
+123,syndicate intuitive methodologies,"Ryan,",Health - First Aid,Health,First Aid,35.69,each,False,70
+124,productize cross-platform users,Harrison,Health - Wellness,Health,Wellness,277.96,oz,False,61
+125,productize collaborative networks,"Rivera,",Grocery - Meat,Grocery,Meat,490.55,count,True,96
+126,envisioneer distributed communities,Neal,Grocery - Bakery,Grocery,Bakery,394.67,count,True,31
+127,extend seamless networks,Brown-Kennedy,Electronics - Gaming,Electronics,Gaming,368.11,each,False,18
+128,leverage scalable web services,Lamb-Weber,Grocery - Bakery,Grocery,Bakery,273.9,lb,True,100
+129,envisioneer holistic infrastructures,Wagner,Beauty - Fragrance,Beauty,Fragrance,316.59,oz,False,9
+130,morph end-to-end e-business,Hill-Scott,Beauty - Makeup,Beauty,Makeup,148.12,oz,False,26
+131,extend one-to-one metrics,Kent,Grocery - Bakery,Grocery,Bakery,466.81,gal,True,70
+132,orchestrate customized relationships,Green,Beauty - Hair Care,Beauty,Hair Care,20.23,each,False,25
+133,incentivize holistic ROI,"Atkins,",Garden - Outdoor Furniture,Garden,Outdoor Furniture,431.33,each,False,84
+134,orchestrate B2C models,Townsend-Young,Toys - Dolls,Toys,Dolls,63.98,set,False,56
+135,grow frictionless e-tailers,"Navarro,",Sporting Goods - Water Sports,Sporting Goods,Water Sports,447.52,set,False,44
+136,engineer one-to-one markets,Marshall,Clothing - Shoes,Clothing,Shoes,346.64,each,False,67
+137,monetize collaborative users,James,Garden - Plants,Garden,Plants,364.08,each,False,56
+138,synergize collaborative portals,Moreno,Automotive - Accessories,Automotive,Accessories,273.64,qt,False,14
+139,implement front-end systems,Gregory-Nixon,Electronics - Phones,Electronics,Phones,331.13,each,False,58
+140,innovate revolutionary platforms,"Walsh,",Automotive - Tools,Automotive,Tools,84.98,qt,False,45
+141,redefine real-time supply-chains,Adams-Garcia,Beauty - Makeup,Beauty,Makeup,363.94,ml,False,79
+142,visualize impactful bandwidth,"Curry,",Sporting Goods - Team Sports,Sporting Goods,Team Sports,320.45,each,False,10
+143,aggregate cross-platform methodologies,"Kaiser,",Sporting Goods - Team Sports,Sporting Goods,Team Sports,257.51,pair,False,87
+144,implement innovative synergies,Davis-Garcia,Clothing - Men,Clothing,Men,73.09,each,False,5
+145,grow cross-media e-services,"Campbell,",Clothing - Men,Clothing,Men,119.52,each,False,47
+146,evolve leading-edge metrics,"Shannon,",Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,18.12,each,False,87
+147,embrace 24/7 infrastructures,"Anderson,",Beauty - Hair Care,Beauty,Hair Care,187.25,oz,False,74
+148,maximize viral initiatives,"Lopez,",Clothing - Accessories,Clothing,Accessories,184.73,each,False,84
+149,optimize ubiquitous niches,Schwartz-Contreras,Garden - Tools,Garden,Tools,480.33,each,False,95
+150,revolutionize world-class portals,Norman,Clothing - Shoes,Clothing,Shoes,259.83,each,False,34
+151,revolutionize leading-edge architectures,Cook-Brown,Garden - Grills,Garden,Grills,108.85,gal,False,37
+152,transition back-end ROI,Jones-Krause,Beauty - Skincare,Beauty,Skincare,63.06,oz,False,58
+153,aggregate impactful ROI,"Vasquez,",Clothing - Shoes,Clothing,Shoes,498.63,each,False,86
+154,architect sticky systems,"Green,",Toys - Action Figures,Toys,Action Figures,275.89,set,False,39
+155,drive dot-com systems,Mosley,Clothing - Women,Clothing,Women,397.25,each,False,16
+156,visualize clicks-and-mortar paradigms,"Myers,",Home - Bathroom,Home,Bathroom,119.88,set,False,4
+157,strategize clicks-and-mortar mindshare,"Case,",Toys - Outdoor,Toys,Outdoor,286.98,set,False,71
+158,iterate innovative users,Smith,Clothing - Accessories,Clothing,Accessories,442.34,each,False,40
+159,transition compelling initiatives,"Nichols,",Sporting Goods - Water Sports,Sporting Goods,Water Sports,263.79,set,False,74
+160,monetize wireless markets,"Shea,",Electronics - TVs,Electronics,TVs,486.24,each,False,58
+161,iterate cross-platform infrastructures,Hodges-Roberts,Beauty - Bath & Body,Beauty,Bath & Body,173.56,each,False,82
+162,aggregate virtual schemas,Ponce,Automotive - Accessories,Automotive,Accessories,384.35,each,False,56
+163,aggregate seamless architectures,Mccoy,Health - Vitamins,Health,Vitamins,416.02,each,False,20
+164,synthesize strategic functionalities,Moss-Taylor,Garden - Tools,Garden,Tools,82.65,gal,False,29
+165,aggregate proactive applications,Burns,Toys - Outdoor,Toys,Outdoor,447.66,each,False,33
+166,generate extensible models,"Hanna,",Home - Dining,Home,Dining,138.67,set,False,79
+167,utilize robust supply-chains,Morgan,Health - Vitamins,Health,Vitamins,252.27,count,False,76
+168,integrate wireless initiatives,Roman,Automotive - Accessories,Automotive,Accessories,87.25,oz,False,93
+169,mesh ubiquitous methodologies,"Hernandez,",Automotive - Oil & Fluids,Automotive,Oil & Fluids,421.57,oz,False,6
+170,integrate B2B models,"Smith,",Grocery - Dairy,Grocery,Dairy,24.63,count,True,84
+171,incentivize end-to-end synergies,Chen,Home - Dining,Home,Dining,209.45,each,False,64
+172,transition mission-critical bandwidth,"Jackson,",Health - First Aid,Health,First Aid,321.66,oz,False,62
+173,transform one-to-one models,"Lloyd,",Home - Living Room,Home,Living Room,150.11,each,False,89
+174,brand cross-platform methodologies,Nguyen-Daugherty,Grocery - Produce,Grocery,Produce,220.91,gal,True,60
+175,maximize global vortals,Duran,Home - Bedroom,Home,Bedroom,304.11,set,False,92
+176,reinvent open-source partnerships,Hill,Toys - Dolls,Toys,Dolls,487.73,each,False,98
+177,leverage out-of-the-box schemas,Gonzales,Toys - Outdoor,Toys,Outdoor,281.69,set,False,31
+178,integrate global platforms,"Salazar,",Beauty - Makeup,Beauty,Makeup,135.19,oz,False,19
+179,synthesize strategic synergies,White,Electronics - Computers,Electronics,Computers,146.52,each,False,79
+180,unleash front-end e-markets,"Aguirre,",Sporting Goods - Camping,Sporting Goods,Camping,481.41,each,False,42
+181,architect B2B functionalities,Mills-Jenkins,Automotive - Oil & Fluids,Automotive,Oil & Fluids,96.53,each,False,64
+182,reinvent robust metrics,Love,Health - Personal Care,Health,Personal Care,250.37,oz,False,64
+183,evolve seamless convergence,Smith-Young,Grocery - Dairy,Grocery,Dairy,472.72,gal,True,31
+184,embrace mission-critical e-business,Huffman-Hatfield,Home - Dining,Home,Dining,177.73,each,False,37
+185,deliver magnetic bandwidth,"Hopkins,",Beauty - Bath & Body,Beauty,Bath & Body,441.4,each,False,87
+186,generate B2C methodologies,Jimenez-Moore,Beauty - Hair Care,Beauty,Hair Care,269.26,oz,False,56
+187,re-contextualize revolutionary markets,"Diaz,",Clothing - Children,Clothing,Children,364.29,each,False,47
+188,re-intermediate ubiquitous paradigms,Yang,Grocery - Meat,Grocery,Meat,27.47,lb,True,47
+189,reinvent granular web-readiness,Robertson-Jones,Health - First Aid,Health,First Aid,38.61,each,False,58
+190,incentivize visionary applications,"Nguyen,",Health - First Aid,Health,First Aid,413.0,each,False,88
+191,harness bleeding-edge initiatives,Perez-Young,Automotive - Parts,Automotive,Parts,66.06,each,False,51
+192,deploy 24/365 architectures,Jones,Toys - Dolls,Toys,Dolls,279.79,set,False,97
+193,synthesize scalable e-commerce,Robinson,Clothing - Women,Clothing,Women,302.02,each,False,65
+194,target virtual architectures,Taylor-Cortez,Grocery - Dairy,Grocery,Dairy,21.37,count,True,61
+195,whiteboard synergistic niches,Rogers,Health - Personal Care,Health,Personal Care,76.16,each,False,18
+196,scale leading-edge niches,Rodriguez,Toys - Outdoor,Toys,Outdoor,160.62,set,False,79
+197,target next-generation communities,Robinson-Phillips,Garden - Decor,Garden,Decor,169.5,gal,False,69
+198,leverage frictionless networks,"Wyatt,",Beauty - Bath & Body,Beauty,Bath & Body,151.29,oz,False,48
+199,synthesize killer applications,Hood-Ramirez,Toys - Action Figures,Toys,Action Figures,489.98,set,False,93
+200,drive cutting-edge action-items,Murphy,Grocery - Frozen,Grocery,Frozen,238.34,lb,False,93
+201,enhance B2C networks,Butler,Grocery - Frozen,Grocery,Frozen,241.25,gal,False,19
+202,integrate collaborative mindshare,Simmons,Home - Kitchen,Home,Kitchen,287.13,each,False,25
+203,syndicate mission-critical systems,Allen-Hansen,Grocery - Meat,Grocery,Meat,158.21,lb,True,53
+204,implement transparent e-tailers,Howard,Home - Living Room,Home,Living Room,251.9,set,False,95
+205,visualize e-business web-readiness,Caldwell-Martin,Grocery - Produce,Grocery,Produce,260.29,count,True,85
+206,target proactive bandwidth,Ingram-Sawyer,Beauty - Bath & Body,Beauty,Bath & Body,189.65,oz,False,59
+207,strategize viral relationships,"Marshall,",Health - First Aid,Health,First Aid,274.03,each,False,99
+208,optimize integrated supply-chains,"Johnson,",Garden - Decor,Garden,Decor,243.11,each,False,36
+209,re-intermediate best-of-breed methodologies,Oliver,Health - First Aid,Health,First Aid,113.97,oz,False,99
+210,extend leading-edge mindshare,"Cox,",Garden - Tools,Garden,Tools,345.73,lb,False,41
+211,target revolutionary relationships,Thompson-Hansen,Beauty - Hair Care,Beauty,Hair Care,281.11,each,False,36
+212,optimize best-of-breed channels,Allen-Wilson,Garden - Plants,Garden,Plants,287.58,gal,False,49
+213,syndicate best-of-breed e-services,Gomez-Adams,Sporting Goods - Team Sports,Sporting Goods,Team Sports,477.39,each,False,38
+214,innovate cutting-edge niches,Brown,Grocery - Bakery,Grocery,Bakery,477.74,oz,True,45
+215,grow holistic mindshare,"Gallegos,",Beauty - Hair Care,Beauty,Hair Care,374.16,oz,False,26
+216,transition distributed systems,"Richardson,",Health - First Aid,Health,First Aid,466.64,each,False,35
+217,matrix innovative solutions,Miller-Myers,Clothing - Men,Clothing,Men,308.6,each,False,32
+218,reinvent front-end partnerships,Martin,Grocery - Frozen,Grocery,Frozen,114.37,lb,False,7
+219,scale B2B models,Golden,Electronics - Audio,Electronics,Audio,166.48,each,False,13
+220,whiteboard vertical technologies,Montes-Weaver,Clothing - Men,Clothing,Men,482.32,each,False,53
+221,enable collaborative convergence,Wallace-Newman,Beauty - Fragrance,Beauty,Fragrance,325.96,ml,False,42
+222,envisioneer dynamic partnerships,Wiggins,Garden - Plants,Garden,Plants,454.14,each,False,84
+223,e-enable open-source e-markets,"Cooper,",Automotive - Accessories,Automotive,Accessories,268.5,oz,False,5
+224,benchmark visionary bandwidth,Bradley-Villanueva,Clothing - Shoes,Clothing,Shoes,441.35,each,False,5
+225,monetize frictionless portals,Washington,Sporting Goods - Water Sports,Sporting Goods,Water Sports,94.77,pair,False,38
+226,revolutionize scalable eyeballs,Mitchell-Huber,Grocery - Dairy,Grocery,Dairy,150.59,oz,True,43
+227,re-intermediate granular users,White-Thompson,Garden - Grills,Garden,Grills,494.56,gal,False,68
+228,unleash B2C communities,Wilson,Beauty - Skincare,Beauty,Skincare,425.82,ml,False,35
+229,maximize end-to-end systems,Wood-Harris,Home - Kitchen,Home,Kitchen,166.67,set,False,83
+230,unleash robust web services,Spence-Hernandez,Garden - Tools,Garden,Tools,9.0,lb,False,38
+231,grow granular users,Martinez-Johnson,Automotive - Accessories,Automotive,Accessories,89.39,oz,False,52
+232,re-contextualize rich eyeballs,Reilly-Moore,Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,165.3,set,False,86
+233,extend open-source experiences,"Phillips,",Electronics - TVs,Electronics,TVs,490.87,each,False,42
+234,engineer B2B networks,"Meadows,",Home - Kitchen,Home,Kitchen,131.86,each,False,58
+235,drive compelling paradigms,Gregory,Garden - Outdoor Furniture,Garden,Outdoor Furniture,152.36,gal,False,74
+236,monetize proactive interfaces,"Randall,",Grocery - Bakery,Grocery,Bakery,327.52,lb,True,8
+237,streamline dynamic applications,"Walker,",Electronics - Audio,Electronics,Audio,154.78,each,False,88
+238,utilize strategic users,Rhodes-Rosario,Health - First Aid,Health,First Aid,345.75,each,False,38
+239,deliver impactful solutions,Stewart-Jacobs,Toys - Outdoor,Toys,Outdoor,111.97,each,False,62
+240,streamline bricks-and-clicks interfaces,Baldwin,Clothing - Shoes,Clothing,Shoes,374.36,each,False,54
+241,disintermediate integrated relationships,Mitchell,Health - Personal Care,Health,Personal Care,379.15,each,False,28
+242,monetize customized schemas,Lewis,Home - Dining,Home,Dining,436.81,each,False,68
+243,extend next-generation systems,Martin-Luna,Beauty - Bath & Body,Beauty,Bath & Body,352.47,oz,False,73
+244,productize cutting-edge e-markets,Houston,Electronics - Computers,Electronics,Computers,414.72,each,False,74
+245,evolve B2B e-tailers,Wells-Dillon,Health - Medicine,Health,Medicine,83.93,each,False,57
+246,facilitate innovative applications,Davis-Ortiz,Electronics - TVs,Electronics,TVs,359.02,each,False,12
+247,redefine real-time e-markets,Peters,Health - Personal Care,Health,Personal Care,404.72,oz,False,17
+248,maximize global solutions,Collier,Health - Personal Care,Health,Personal Care,229.48,count,False,72
+249,engage holistic paradigms,Davenport-Torres,Beauty - Hair Care,Beauty,Hair Care,362.18,ml,False,33
+250,engage plug-and-play e-services,Moody,Grocery - Produce,Grocery,Produce,289.99,oz,True,55
+251,morph seamless functionalities,"Kennedy,",Toys - Action Figures,Toys,Action Figures,271.49,each,False,9
+252,deploy virtual models,"Newman,",Beauty - Makeup,Beauty,Makeup,144.96,oz,False,99
+253,synthesize innovative metrics,"Cox,",Clothing - Shoes,Clothing,Shoes,188.47,each,False,58
+254,morph collaborative initiatives,Hunt-Johnston,Sporting Goods - Water Sports,Sporting Goods,Water Sports,41.95,pair,False,70
+255,iterate back-end communities,"Brown,",Clothing - Children,Clothing,Children,61.07,each,False,68
+256,enable synergistic communities,Nelson,Clothing - Women,Clothing,Women,417.73,each,False,39
+257,whiteboard synergistic markets,Carter-Fowler,Beauty - Bath & Body,Beauty,Bath & Body,213.21,ml,False,30
+258,optimize dynamic functionalities,Duran,Home - Living Room,Home,Living Room,174.38,set,False,25
+259,engineer frictionless users,Brennan-Serrano,Electronics - Computers,Electronics,Computers,405.11,each,False,79
+260,innovate seamless niches,"Wolfe,",Grocery - Produce,Grocery,Produce,104.62,oz,True,77
+261,seize B2B synergies,Holmes,Grocery - Meat,Grocery,Meat,299.69,oz,True,32
+262,revolutionize holistic e-markets,Mccall-Martin,Grocery - Meat,Grocery,Meat,220.59,lb,True,97
+263,architect B2C mindshare,Decker,Grocery - Produce,Grocery,Produce,252.93,count,True,30
+264,re-intermediate one-to-one e-markets,Moon-Wilson,Automotive - Oil & Fluids,Automotive,Oil & Fluids,289.57,oz,False,42
+265,enable vertical info-mediaries,Collins-Cox,Home - Bedroom,Home,Bedroom,438.37,each,False,53
+266,transition visionary metrics,"Gallagher,",Garden - Outdoor Furniture,Garden,Outdoor Furniture,32.35,gal,False,95
+267,utilize 24/7 e-services,Vincent,Clothing - Shoes,Clothing,Shoes,278.8,each,False,45
+268,scale bleeding-edge content,Clark,Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,160.72,set,False,53
+269,brand one-to-one partnerships,Hampton,Clothing - Children,Clothing,Children,189.47,each,False,31
+270,integrate 24/365 platforms,Mcguire,Home - Bedroom,Home,Bedroom,429.05,each,False,60
+271,benchmark leading-edge info-mediaries,Kerr,Grocery - Frozen,Grocery,Frozen,207.5,gal,False,72
+272,optimize seamless web services,Webster,Health - Medicine,Health,Medicine,195.42,oz,False,27
+273,redefine best-of-breed applications,Lopez,Toys - Action Figures,Toys,Action Figures,461.26,set,False,12
+274,utilize e-business eyeballs,"Mcmahon,",Health - Medicine,Health,Medicine,27.66,oz,False,87
+275,leverage web-enabled mindshare,"Jones,",Automotive - Electronics,Automotive,Electronics,21.68,each,False,25
+276,mesh killer solutions,Jackson-Webster,Automotive - Electronics,Automotive,Electronics,110.06,each,False,43
+277,implement mission-critical e-tailers,"York,",Garden - Plants,Garden,Plants,107.47,each,False,95
+278,reinvent visionary methodologies,White,Electronics - Audio,Electronics,Audio,457.38,each,False,51
+279,synergize cutting-edge e-tailers,"Perez,",Home - Dining,Home,Dining,162.15,set,False,49
+280,embrace plug-and-play initiatives,"Taylor,",Beauty - Bath & Body,Beauty,Bath & Body,325.05,ml,False,34
+281,engage revolutionary infrastructures,Snyder-Cruz,Toys - Outdoor,Toys,Outdoor,441.63,set,False,13
+282,target extensible methodologies,Perez-Russell,Beauty - Hair Care,Beauty,Hair Care,457.33,ml,False,41
+283,iterate cutting-edge solutions,Jacobson,Sporting Goods - Fitness,Sporting Goods,Fitness,282.13,each,False,95
+284,innovate out-of-the-box ROI,Lutz,Clothing - Men,Clothing,Men,131.86,each,False,38
+285,innovate sticky interfaces,Mills-Rhodes,Clothing - Women,Clothing,Women,166.26,each,False,73
+286,embrace B2B interfaces,Neal-Madden,Home - Living Room,Home,Living Room,276.21,set,False,33
+287,extend frictionless partnerships,Hester-Morgan,Beauty - Fragrance,Beauty,Fragrance,231.48,each,False,46
+288,expedite wireless initiatives,Massey,Clothing - Women,Clothing,Women,360.71,each,False,24
+289,synthesize efficient applications,"Nelson,",Health - Vitamins,Health,Vitamins,262.91,count,False,86
+290,strategize synergistic info-mediaries,"Morrison,",Grocery - Dairy,Grocery,Dairy,207.36,lb,True,9
+291,empower B2B bandwidth,Martinez,Clothing - Men,Clothing,Men,110.91,each,False,48
+292,synthesize bleeding-edge functionalities,Johnson,Grocery - Frozen,Grocery,Frozen,319.58,gal,False,85
+293,streamline innovative models,"Johnson,",Beauty - Makeup,Beauty,Makeup,5.28,each,False,53
+294,harness B2C content,"Hanson,",Grocery - Dairy,Grocery,Dairy,265.64,count,True,69
+295,mesh rich bandwidth,Carter,Garden - Plants,Garden,Plants,252.09,gal,False,87
+296,synthesize back-end users,Pacheco-Fernandez,Sporting Goods - Camping,Sporting Goods,Camping,55.28,each,False,68
+297,utilize robust e-commerce,Reyes,Clothing - Women,Clothing,Women,97.57,each,False,46
+298,iterate enterprise systems,Johnson-Thompson,Garden - Grills,Garden,Grills,41.34,lb,False,59
+299,repurpose seamless communities,Jordan-Edwards,Automotive - Accessories,Automotive,Accessories,495.13,each,False,39
+300,synergize holistic initiatives,"Leonard,",Electronics - Computers,Electronics,Computers,48.55,each,False,49
+301,maximize collaborative info-mediaries,"Dickerson,",Health - Personal Care,Health,Personal Care,29.94,count,False,90
+302,synthesize enterprise e-business,"Gomez,",Clothing - Men,Clothing,Men,250.92,each,False,83
+303,utilize revolutionary channels,Bailey-Harmon,Toys - Outdoor,Toys,Outdoor,488.7,each,False,68
+304,utilize cross-platform architectures,Patterson,Grocery - Produce,Grocery,Produce,107.28,gal,True,35
+305,deploy cross-media markets,"Sanchez,",Grocery - Dairy,Grocery,Dairy,342.84,count,True,70
+306,evolve innovative content,Morgan,Automotive - Parts,Automotive,Parts,91.31,qt,False,3
+307,incubate world-class paradigms,Barrett-Henderson,Home - Dining,Home,Dining,73.8,set,False,10
+308,deliver next-generation niches,Dominguez,Garden - Tools,Garden,Tools,282.84,gal,False,50
+309,utilize turn-key architectures,"Myers,",Health - First Aid,Health,First Aid,193.15,each,False,18
+310,transform best-of-breed supply-chains,Shaw-Hubbard,Electronics - Gaming,Electronics,Gaming,373.23,each,False,7
+311,facilitate frictionless e-business,Cox-Graham,Electronics - Audio,Electronics,Audio,117.6,each,False,44
+312,synthesize intuitive users,Mitchell,Automotive - Electronics,Automotive,Electronics,477.51,qt,False,100
+313,monetize wireless e-services,"Newton,",Toys - Action Figures,Toys,Action Figures,317.78,set,False,63
+314,transform cross-platform niches,Knight,Home - Bedroom,Home,Bedroom,277.4,set,False,56
+315,syndicate cutting-edge e-tailers,Flynn-Pearson,Clothing - Accessories,Clothing,Accessories,331.0,each,False,99
+316,monetize seamless e-commerce,"Fernandez,",Automotive - Oil & Fluids,Automotive,Oil & Fluids,399.42,oz,False,10
+317,re-intermediate ubiquitous web services,"White,",Electronics - Phones,Electronics,Phones,78.79,each,False,95
+318,cultivate viral networks,Lewis-Hayden,Sporting Goods - Team Sports,Sporting Goods,Team Sports,181.62,each,False,1
+319,extend plug-and-play niches,"Patel,",Garden - Grills,Garden,Grills,181.23,lb,False,14
+320,brand leading-edge deliverables,Diaz,Clothing - Men,Clothing,Men,95.31,each,False,72
+321,incentivize B2C methodologies,Richard-Jenkins,Health - Wellness,Health,Wellness,205.2,count,False,12
+322,cultivate innovative functionalities,Singleton,Toys - Outdoor,Toys,Outdoor,48.34,set,False,50
+323,transition front-end experiences,Scott,Grocery - Bakery,Grocery,Bakery,208.07,oz,True,93
+324,incentivize wireless action-items,Hernandez,Health - Medicine,Health,Medicine,286.83,count,False,88
+325,incentivize extensible bandwidth,Castro-Graham,Sporting Goods - Camping,Sporting Goods,Camping,71.13,set,False,35
+326,visualize robust solutions,Nelson,Beauty - Skincare,Beauty,Skincare,33.5,ml,False,36
+327,morph efficient web services,"Thompson,",Sporting Goods - Team Sports,Sporting Goods,Team Sports,243.14,each,False,47
+328,synthesize vertical markets,Edwards,Garden - Tools,Garden,Tools,361.0,lb,False,77
+329,cultivate innovative e-markets,Powers-Blackwell,Automotive - Accessories,Automotive,Accessories,230.01,each,False,39
+330,strategize global action-items,Duncan,Grocery - Meat,Grocery,Meat,167.43,gal,True,43
+331,re-contextualize 24/7 deliverables,"Calderon,",Beauty - Hair Care,Beauty,Hair Care,216.44,each,False,77
+332,morph rich infrastructures,Greene,Clothing - Children,Clothing,Children,161.68,each,False,62
+333,facilitate integrated action-items,Robinson-Rodriguez,Toys - Puzzles,Toys,Puzzles,482.35,set,False,38
+334,architect efficient systems,King-Lawrence,Beauty - Bath & Body,Beauty,Bath & Body,391.41,ml,False,49
+335,synthesize out-of-the-box initiatives,Gardner-Wells,Garden - Grills,Garden,Grills,183.77,gal,False,26
+336,incentivize efficient eyeballs,Alvarez-Richardson,Automotive - Electronics,Automotive,Electronics,91.59,oz,False,4
+337,monetize vertical experiences,"Johnson,",Beauty - Skincare,Beauty,Skincare,220.34,ml,False,89
+338,streamline web-enabled portals,"Cruz,",Electronics - Audio,Electronics,Audio,337.13,each,False,82
+339,productize 24/7 users,Mathews,Garden - Tools,Garden,Tools,127.83,each,False,92
+340,implement impactful portals,Davis-Carson,Sporting Goods - Water Sports,Sporting Goods,Water Sports,38.82,pair,False,62
+341,incentivize seamless e-tailers,Moon,Automotive - Tools,Automotive,Tools,268.1,oz,False,54
+342,harness transparent paradigms,Delacruz-Morrow,Health - Vitamins,Health,Vitamins,395.77,oz,False,90
+343,synthesize collaborative e-markets,Love-Mcdowell,Health - Wellness,Health,Wellness,319.8,count,False,14
+344,transition mission-critical communities,"Green,",Home - Bedroom,Home,Bedroom,84.83,each,False,73
+345,drive world-class bandwidth,"Johnson,",Sporting Goods - Team Sports,Sporting Goods,Team Sports,482.92,set,False,14
+346,whiteboard visionary experiences,Smith,Grocery - Dairy,Grocery,Dairy,130.84,lb,True,58
+347,whiteboard extensible vortals,"Miller,",Toys - Educational,Toys,Educational,232.6,each,False,45
+348,revolutionize end-to-end metrics,"Jenkins,",Grocery - Meat,Grocery,Meat,54.06,gal,True,11
+349,cultivate global portals,Mcdaniel,Electronics - TVs,Electronics,TVs,175.46,each,False,59
+350,exploit front-end solutions,Perry,Home - Dining,Home,Dining,242.49,set,False,13
+351,strategize enterprise networks,Smith,Beauty - Fragrance,Beauty,Fragrance,160.81,ml,False,6
+352,re-contextualize bleeding-edge infrastructures,Gonzalez-Haynes,Electronics - Computers,Electronics,Computers,424.88,each,False,87
+353,leverage scalable interfaces,"Patterson,",Clothing - Women,Clothing,Women,258.95,each,False,43
+354,disintermediate frictionless networks,Smith,Health - Personal Care,Health,Personal Care,479.3,count,False,52
+355,brand ubiquitous methodologies,Wilson-Reeves,Clothing - Women,Clothing,Women,320.95,each,False,51
+356,aggregate real-time technologies,"Snyder,",Grocery - Frozen,Grocery,Frozen,441.77,gal,False,76
+357,expedite killer technologies,"Byrd,",Sporting Goods - Water Sports,Sporting Goods,Water Sports,4.21,each,False,27
+358,orchestrate proactive technologies,Young-Hayes,Garden - Plants,Garden,Plants,289.51,gal,False,24
+359,incentivize out-of-the-box applications,"Holland,",Toys - Dolls,Toys,Dolls,100.13,each,False,34
+360,cultivate world-class interfaces,"Lewis,",Beauty - Bath & Body,Beauty,Bath & Body,483.02,ml,False,77
+361,expedite dot-com partnerships,Hawkins,Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,197.48,each,False,45
+362,facilitate web-enabled info-mediaries,Barajas-Crosby,Toys - Educational,Toys,Educational,309.44,set,False,79
+363,exploit revolutionary synergies,Wagner-James,Automotive - Parts,Automotive,Parts,336.7,qt,False,16
+364,strategize out-of-the-box channels,"Williams,",Home - Bedroom,Home,Bedroom,60.23,set,False,89
+365,synthesize cross-platform bandwidth,Davis,Clothing - Accessories,Clothing,Accessories,195.44,each,False,74
+366,mesh user-centric eyeballs,Wilson-Williams,Sporting Goods - Water Sports,Sporting Goods,Water Sports,94.5,pair,False,69
+367,enable rich niches,"Ward,",Clothing - Accessories,Clothing,Accessories,85.09,each,False,18
+368,morph back-end deliverables,Graham-Martin,Clothing - Children,Clothing,Children,421.3,each,False,46
+369,extend holistic eyeballs,"Farrell,",Grocery - Meat,Grocery,Meat,69.98,gal,True,72
+370,streamline dynamic eyeballs,Hall,Health - Personal Care,Health,Personal Care,205.74,oz,False,54
+371,syndicate back-end communities,"Mcdonald,",Beauty - Fragrance,Beauty,Fragrance,85.28,each,False,4
+372,synthesize revolutionary systems,Zhang-Hoffman,Home - Bedroom,Home,Bedroom,18.27,each,False,69
+373,target rich initiatives,"Camacho,",Garden - Tools,Garden,Tools,390.8,gal,False,96
+374,cultivate front-end ROI,Brady,Beauty - Bath & Body,Beauty,Bath & Body,256.37,each,False,15
+375,maximize killer applications,Fox,Garden - Decor,Garden,Decor,411.98,lb,False,70
+376,reinvent next-generation partnerships,Tate,Grocery - Meat,Grocery,Meat,274.07,gal,True,14
+377,transform open-source web-readiness,Maldonado-Becker,Home - Bedroom,Home,Bedroom,437.65,each,False,58
+378,strategize out-of-the-box applications,Hood,Garden - Outdoor Furniture,Garden,Outdoor Furniture,431.37,each,False,57
+379,utilize strategic bandwidth,"Keller,",Electronics - TVs,Electronics,TVs,106.51,each,False,91
+380,expedite clicks-and-mortar supply-chains,Douglas,Automotive - Tools,Automotive,Tools,84.65,each,False,27
+381,harness end-to-end e-tailers,Solis,Home - Kitchen,Home,Kitchen,285.89,set,False,77
+382,harness leading-edge partnerships,"Crane,",Health - Medicine,Health,Medicine,163.17,each,False,38
+383,reinvent web-enabled interfaces,Smith,Garden - Decor,Garden,Decor,135.13,gal,False,87
+384,leverage integrated interfaces,Holland-Best,Electronics - TVs,Electronics,TVs,481.45,each,False,8
+385,orchestrate 24/7 content,Owen-Fitzgerald,Garden - Tools,Garden,Tools,351.3,each,False,32
+386,redefine extensible methodologies,"Anderson,",Clothing - Children,Clothing,Children,414.57,each,False,63
+387,deliver 24/365 models,Mcclure-Alvarez,Clothing - Accessories,Clothing,Accessories,316.93,each,False,49
+388,maximize cutting-edge infrastructures,Shepherd-Austin,Beauty - Makeup,Beauty,Makeup,317.54,oz,False,52
+389,brand cutting-edge infrastructures,Palmer,Health - First Aid,Health,First Aid,347.95,oz,False,59
+390,innovate magnetic experiences,"Reeves,",Beauty - Hair Care,Beauty,Hair Care,291.8,each,False,12
+391,visualize strategic technologies,Kim-Solomon,Beauty - Hair Care,Beauty,Hair Care,425.34,each,False,51
+392,syndicate seamless eyeballs,Sutton,Home - Living Room,Home,Living Room,412.76,set,False,35
+393,e-enable interactive deliverables,Phillips-Williams,Toys - Dolls,Toys,Dolls,170.19,each,False,73
+394,optimize revolutionary mindshare,Dixon,Beauty - Hair Care,Beauty,Hair Care,447.28,oz,False,6
+395,transform plug-and-play web services,"Carroll,",Electronics - Audio,Electronics,Audio,10.1,each,False,57
+396,evolve vertical initiatives,"Stanley,",Beauty - Makeup,Beauty,Makeup,495.93,ml,False,26
+397,strategize revolutionary infrastructures,Mcdowell-Evans,Clothing - Children,Clothing,Children,81.16,each,False,12
+398,benchmark ubiquitous web services,Hanson-Baker,Toys - Dolls,Toys,Dolls,43.04,each,False,7
+399,redefine viral e-tailers,Miller,Sporting Goods - Team Sports,Sporting Goods,Team Sports,363.53,each,False,55
+400,morph sticky e-commerce,"Smith,",Electronics - Computers,Electronics,Computers,2.53,each,False,10
+401,visualize compelling bandwidth,"Sullivan,",Clothing - Accessories,Clothing,Accessories,114.63,each,False,2
+402,drive holistic content,"Li,",Grocery - Bakery,Grocery,Bakery,408.91,gal,True,89
+403,scale impactful content,Martinez,Clothing - Shoes,Clothing,Shoes,37.26,each,False,12
+404,aggregate one-to-one web-readiness,"Waller,",Electronics - Computers,Electronics,Computers,158.04,each,False,18
+405,visualize B2B experiences,Graham,Sporting Goods - Camping,Sporting Goods,Camping,321.49,pair,False,19
+406,iterate dynamic infrastructures,Carrillo-Hernandez,Electronics - Gaming,Electronics,Gaming,282.51,each,False,57
+407,brand vertical initiatives,Barrera,Toys - Puzzles,Toys,Puzzles,314.77,each,False,53
+408,scale visionary models,Smith-Cole,Automotive - Tools,Automotive,Tools,430.25,each,False,13
+409,incentivize 24/365 technologies,"Gallegos,",Clothing - Men,Clothing,Men,295.6,each,False,45
+410,transform user-centric e-markets,Mclaughlin-Larson,Sporting Goods - Team Sports,Sporting Goods,Team Sports,395.95,each,False,36
+411,engage distributed paradigms,Ross-Palmer,Electronics - TVs,Electronics,TVs,277.58,each,False,100
+412,drive holistic e-services,"Brown,",Grocery - Bakery,Grocery,Bakery,104.3,lb,True,96
+413,engage innovative niches,"Butler,",Sporting Goods - Team Sports,Sporting Goods,Team Sports,323.78,each,False,64
+414,visualize cross-media systems,"Graham,",Sporting Goods - Fitness,Sporting Goods,Fitness,122.05,pair,False,77
+415,syndicate cross-media systems,Romero,Electronics - Gaming,Electronics,Gaming,444.57,each,False,47
+416,redefine cross-platform metrics,"Sandoval,",Toys - Puzzles,Toys,Puzzles,194.64,set,False,47
+417,unleash integrated e-markets,"Delgado,",Health - Medicine,Health,Medicine,381.83,count,False,3
+418,iterate granular e-business,Campbell,Automotive - Parts,Automotive,Parts,8.86,each,False,6
+419,evolve compelling channels,Gonzalez,Grocery - Meat,Grocery,Meat,254.28,gal,True,55
+420,synthesize mission-critical e-markets,Torres-Clark,Sporting Goods - Fitness,Sporting Goods,Fitness,320.98,pair,False,79
+421,streamline vertical convergence,Kelly-Moore,Clothing - Children,Clothing,Children,43.62,each,False,66
+422,transition robust partnerships,Jordan-Williamson,Home - Bathroom,Home,Bathroom,269.11,set,False,76
+423,embrace magnetic models,Chaney-Glover,Electronics - Phones,Electronics,Phones,349.93,each,False,8
+424,revolutionize revolutionary schemas,Kemp-Castaneda,Home - Kitchen,Home,Kitchen,462.45,each,False,59
+425,cultivate sticky markets,Lloyd-Estes,Automotive - Electronics,Automotive,Electronics,29.39,oz,False,95
+426,engineer one-to-one platforms,"Lynch,",Clothing - Men,Clothing,Men,8.3,each,False,90
+427,engage revolutionary mindshare,Jackson,Grocery - Produce,Grocery,Produce,249.2,count,True,67
+428,cultivate best-of-breed relationships,Chandler,Health - First Aid,Health,First Aid,85.14,count,False,96
+429,grow rich platforms,Holland,Garden - Plants,Garden,Plants,386.16,each,False,43
+430,transition global initiatives,Gonzales,Sporting Goods - Team Sports,Sporting Goods,Team Sports,262.87,set,False,92
+431,revolutionize clicks-and-mortar action-items,Peterson-Wagner,Automotive - Parts,Automotive,Parts,249.07,oz,False,47
+432,evolve real-time relationships,"Fischer,",Grocery - Meat,Grocery,Meat,429.95,lb,True,48
+433,orchestrate next-generation e-services,Pham,Clothing - Children,Clothing,Children,387.11,each,False,30
+434,redefine transparent bandwidth,"Norton,",Health - Vitamins,Health,Vitamins,23.92,count,False,32
+435,orchestrate value-added deliverables,Miller,Grocery - Meat,Grocery,Meat,183.25,lb,True,23
+436,strategize frictionless e-commerce,Long,Grocery - Frozen,Grocery,Frozen,401.94,gal,False,29
+437,repurpose B2C networks,Levine,Toys - Puzzles,Toys,Puzzles,209.29,set,False,35
+438,exploit distributed e-markets,Blackwell-Haynes,Electronics - Gaming,Electronics,Gaming,187.65,each,False,23
+439,cultivate seamless vortals,Smith-Ramirez,Home - Dining,Home,Dining,490.73,set,False,9
+440,mesh B2B interfaces,Schneider-Clay,Beauty - Hair Care,Beauty,Hair Care,387.21,ml,False,42
+441,re-intermediate visionary convergence,"Sullivan,",Electronics - Gaming,Electronics,Gaming,229.45,each,False,26
+442,integrate open-source architectures,"Higgins,",Garden - Decor,Garden,Decor,392.67,gal,False,80
+443,incubate front-end e-tailers,Hunt,Home - Living Room,Home,Living Room,185.39,set,False,99
+444,mesh cross-platform functionalities,Johnson,Home - Dining,Home,Dining,380.71,each,False,20
+445,benchmark back-end action-items,Barber-Benitez,Grocery - Meat,Grocery,Meat,13.9,count,True,82
+446,embrace leading-edge relationships,Sims-Gomez,Grocery - Bakery,Grocery,Bakery,2.72,gal,True,95
+447,streamline 24/7 systems,Armstrong-Smith,Garden - Plants,Garden,Plants,104.18,each,False,54
+448,facilitate web-enabled applications,"Espinoza,",Beauty - Makeup,Beauty,Makeup,486.32,oz,False,92
+449,iterate bleeding-edge convergence,Mitchell-Glover,Garden - Plants,Garden,Plants,23.85,each,False,67
+450,unleash global architectures,"Mclaughlin,",Sporting Goods - Team Sports,Sporting Goods,Team Sports,230.3,pair,False,11
+451,aggregate bricks-and-clicks bandwidth,Thomas,Automotive - Parts,Automotive,Parts,253.69,oz,False,51
+452,e-enable transparent infrastructures,Brown,Electronics - Gaming,Electronics,Gaming,284.76,each,False,85
+453,syndicate killer systems,Wood,Clothing - Women,Clothing,Women,147.24,each,False,51
+454,strategize impactful portals,"Porter,",Toys - Dolls,Toys,Dolls,227.46,each,False,10
+455,re-contextualize holistic e-markets,Thomas,Home - Bathroom,Home,Bathroom,390.4,each,False,20
+456,synthesize ubiquitous channels,"Palmer,",Electronics - TVs,Electronics,TVs,225.87,each,False,53
+457,target collaborative paradigms,"Moore,",Electronics - Gaming,Electronics,Gaming,180.42,each,False,58
+458,embrace transparent initiatives,Wood,Garden - Grills,Garden,Grills,133.96,each,False,12
+459,integrate B2C initiatives,Torres-Brooks,Clothing - Children,Clothing,Children,413.53,each,False,28
+460,envisioneer holistic web-readiness,Thomas,Toys - Puzzles,Toys,Puzzles,47.41,each,False,46
+461,deploy scalable content,Lewis-Fuentes,Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,26.37,set,False,34
+462,synthesize clicks-and-mortar initiatives,"Bailey,",Clothing - Men,Clothing,Men,476.13,each,False,72
+463,maximize extensible networks,Mccullough-Harrington,Health - Medicine,Health,Medicine,49.16,count,False,18
+464,syndicate end-to-end channels,"Fields,",Electronics - Computers,Electronics,Computers,32.7,each,False,17
+465,orchestrate world-class infrastructures,"Beck,",Home - Living Room,Home,Living Room,187.37,each,False,75
+466,strategize cross-platform users,Rubio,Automotive - Oil & Fluids,Automotive,Oil & Fluids,458.87,each,False,3
+467,extend efficient experiences,Cline,Electronics - TVs,Electronics,TVs,451.43,each,False,17
+468,utilize extensible schemas,"Martinez,",Electronics - Phones,Electronics,Phones,63.01,each,False,7
+469,re-intermediate scalable networks,"Lopez,",Clothing - Accessories,Clothing,Accessories,217.7,each,False,64
+470,embrace viral web-readiness,Buchanan-Sanchez,Grocery - Meat,Grocery,Meat,342.23,lb,True,46
+471,unleash visionary infrastructures,"Lawson,",Home - Bathroom,Home,Bathroom,138.93,set,False,20
+472,cultivate vertical supply-chains,White-Johnson,Grocery - Frozen,Grocery,Frozen,310.34,lb,False,83
+473,mesh turn-key architectures,Davis-Petty,Garden - Grills,Garden,Grills,207.16,gal,False,62
+474,incubate frictionless technologies,White,Grocery - Dairy,Grocery,Dairy,141.32,lb,True,54
+475,orchestrate extensible e-markets,"Jackson,",Home - Dining,Home,Dining,126.07,each,False,49
+476,utilize leading-edge content,Garcia-Thomas,Toys - Educational,Toys,Educational,273.16,set,False,45
+477,productize world-class portals,David-Lam,Automotive - Electronics,Automotive,Electronics,162.15,qt,False,24
+478,streamline 24/365 action-items,"Willis,",Grocery - Bakery,Grocery,Bakery,299.35,oz,True,100
+479,synergize one-to-one niches,Flores,Garden - Plants,Garden,Plants,404.7,lb,False,68
+480,deploy innovative info-mediaries,Russell,Toys - Outdoor,Toys,Outdoor,499.79,each,False,13
+481,redefine vertical niches,"Richmond,",Home - Bathroom,Home,Bathroom,134.72,each,False,98
+482,engage end-to-end content,"Russell,",Home - Dining,Home,Dining,423.55,set,False,46
+483,architect B2B relationships,"Galloway,",Clothing - Women,Clothing,Women,119.79,each,False,95
+484,brand customized paradigms,Hess,Toys - Outdoor,Toys,Outdoor,16.04,set,False,73
+485,envisioneer frictionless synergies,Mahoney,Automotive - Accessories,Automotive,Accessories,282.42,each,False,64
+486,empower dot-com methodologies,Kidd-Kirby,Health - First Aid,Health,First Aid,89.42,count,False,12
+487,architect front-end paradigms,Stevenson,Grocery - Produce,Grocery,Produce,301.62,oz,True,68
+488,optimize seamless infrastructures,Hale-Rivas,Beauty - Makeup,Beauty,Makeup,167.19,each,False,26
+489,drive efficient e-commerce,Bishop,Clothing - Children,Clothing,Children,359.02,each,False,8
+490,matrix cross-platform functionalities,Petty-Zimmerman,Grocery - Produce,Grocery,Produce,294.12,lb,True,100
+491,empower interactive web services,Peterson-Stevens,Electronics - Gaming,Electronics,Gaming,430.6,each,False,48
+492,expedite open-source web-readiness,"Anderson,",Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,52.3,set,False,42
+493,implement value-added methodologies,Gutierrez,Clothing - Women,Clothing,Women,366.7,each,False,82
+494,unleash holistic interfaces,"Miller,",Beauty - Hair Care,Beauty,Hair Care,88.74,each,False,89
+495,incubate proactive web services,Chambers-Gomez,Automotive - Oil & Fluids,Automotive,Oil & Fluids,113.16,oz,False,23
+496,transition enterprise metrics,Hughes-Combs,Sporting Goods - Team Sports,Sporting Goods,Team Sports,367.52,set,False,17
+497,exploit value-added initiatives,Wood-Lee,Clothing - Men,Clothing,Men,474.49,each,False,99
+498,implement magnetic web-readiness,Becker-Fletcher,Automotive - Parts,Automotive,Parts,92.67,qt,False,79
+499,aggregate e-business e-business,"Turner,",Home - Dining,Home,Dining,53.84,set,False,19
+500,synthesize bricks-and-clicks paradigms,Vasquez-Padilla,Toys - Action Figures,Toys,Action Figures,120.51,set,False,22
+501,expedite best-of-breed synergies,Joyce,Electronics - Phones,Electronics,Phones,224.41,each,False,27
+502,strategize one-to-one niches,"Mason,",Home - Kitchen,Home,Kitchen,176.53,each,False,93
+503,extend virtual partnerships,"Anderson,",Grocery - Dairy,Grocery,Dairy,194.19,gal,True,22
+504,maximize bleeding-edge deliverables,"Casey,",Sporting Goods - Water Sports,Sporting Goods,Water Sports,441.11,set,False,70
+505,scale dot-com methodologies,"Ware,",Sporting Goods - Fitness,Sporting Goods,Fitness,414.74,pair,False,84
+506,innovate scalable vortals,Richard-Russell,Home - Bathroom,Home,Bathroom,226.73,each,False,38
+507,embrace plug-and-play models,Holmes-Williams,Grocery - Bakery,Grocery,Bakery,132.03,oz,True,10
+508,drive magnetic markets,Hull-Patel,Toys - Puzzles,Toys,Puzzles,444.18,each,False,94
+509,harness clicks-and-mortar interfaces,Cook,Electronics - Gaming,Electronics,Gaming,471.02,each,False,44
+510,exploit proactive e-services,"Coleman,",Automotive - Electronics,Automotive,Electronics,446.82,oz,False,4
+511,leverage open-source content,Garrett,Sporting Goods - Camping,Sporting Goods,Camping,304.43,set,False,21
+512,utilize compelling e-commerce,Watkins,Grocery - Dairy,Grocery,Dairy,166.88,lb,True,53
+513,re-contextualize open-source portals,Rodriguez,Health - Wellness,Health,Wellness,134.09,oz,False,39
+514,facilitate scalable supply-chains,"Bauer,",Home - Kitchen,Home,Kitchen,26.71,set,False,20
+515,re-intermediate visionary platforms,"Griffin,",Grocery - Bakery,Grocery,Bakery,3.89,oz,True,38
+516,redefine robust architectures,Wu-Steele,Automotive - Tools,Automotive,Tools,101.43,each,False,27
+517,generate end-to-end markets,Brown-Bishop,Clothing - Children,Clothing,Children,488.56,each,False,15
+518,brand innovative platforms,"Brown,",Garden - Grills,Garden,Grills,236.52,gal,False,34
+519,strategize mission-critical e-business,Hall-Greene,Electronics - Gaming,Electronics,Gaming,194.98,each,False,49
+520,repurpose value-added bandwidth,Marshall-Patterson,Toys - Puzzles,Toys,Puzzles,223.99,set,False,57
+521,re-intermediate mission-critical supply-chains,"Pace,",Beauty - Hair Care,Beauty,Hair Care,114.66,ml,False,73
+522,facilitate dynamic platforms,Smith,Grocery - Produce,Grocery,Produce,376.6,oz,True,11
+523,optimize dynamic networks,Walsh,Toys - Outdoor,Toys,Outdoor,208.16,each,False,71
+524,seize next-generation info-mediaries,"Oliver,",Grocery - Meat,Grocery,Meat,409.56,gal,True,69
+525,integrate leading-edge channels,Silva-Palmer,Beauty - Bath & Body,Beauty,Bath & Body,441.05,ml,False,39
+526,visualize synergistic content,"Mcclure,",Electronics - Audio,Electronics,Audio,451.57,each,False,65
+527,monetize cross-platform technologies,Cordova-Holmes,Automotive - Electronics,Automotive,Electronics,400.61,oz,False,80
+528,repurpose B2B markets,Hunter,Clothing - Men,Clothing,Men,474.72,each,False,23
+529,iterate scalable e-commerce,Gonzalez-Gonzalez,Clothing - Women,Clothing,Women,404.6,each,False,6
+530,redefine 24/365 partnerships,Lopez-Alvarez,Sporting Goods - Fitness,Sporting Goods,Fitness,494.15,set,False,26
+531,scale plug-and-play metrics,"Rivera,",Clothing - Accessories,Clothing,Accessories,130.42,each,False,12
+532,re-intermediate seamless e-markets,Martin-Gibson,Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,199.87,set,False,36
+533,generate revolutionary models,Mora,Health - Personal Care,Health,Personal Care,458.74,count,False,90
+534,enhance bleeding-edge bandwidth,"Lewis,",Automotive - Electronics,Automotive,Electronics,262.23,qt,False,15
+535,transition open-source architectures,Ross,Sporting Goods - Camping,Sporting Goods,Camping,75.79,pair,False,75
+536,disintermediate value-added partnerships,Johnson-Wilson,Electronics - Computers,Electronics,Computers,282.21,each,False,37
+537,envisioneer visionary solutions,"Willis,",Health - First Aid,Health,First Aid,439.18,oz,False,50
+538,utilize 24/365 solutions,Thompson-Mcclure,Beauty - Bath & Body,Beauty,Bath & Body,305.25,oz,False,23
+539,drive virtual supply-chains,"Sanchez,",Garden - Grills,Garden,Grills,73.63,gal,False,88
+540,morph mission-critical web-readiness,"Taylor,",Sporting Goods - Fitness,Sporting Goods,Fitness,199.09,set,False,89
+541,facilitate best-of-breed content,Allen-Pacheco,Home - Kitchen,Home,Kitchen,373.37,set,False,48
+542,repurpose frictionless deliverables,"Keith,",Grocery - Bakery,Grocery,Bakery,409.05,count,True,40
+543,orchestrate end-to-end solutions,Patel,Garden - Grills,Garden,Grills,429.39,gal,False,13
+544,disintermediate turn-key metrics,Rowland-Sanchez,Home - Bathroom,Home,Bathroom,151.63,set,False,100
+545,integrate dynamic users,Clarke-Murphy,Toys - Dolls,Toys,Dolls,364.93,each,False,25
+546,streamline efficient channels,"Schmitt,",Beauty - Skincare,Beauty,Skincare,456.88,ml,False,95
+547,evolve collaborative web services,"Brown,",Beauty - Bath & Body,Beauty,Bath & Body,433.85,oz,False,66
+548,visualize out-of-the-box models,"Marshall,",Clothing - Men,Clothing,Men,156.93,each,False,18
+549,scale compelling models,Adams-Morales,Health - Wellness,Health,Wellness,16.41,count,False,26
+550,redefine robust e-tailers,Jacobson,Grocery - Produce,Grocery,Produce,18.46,oz,True,47
+551,cultivate web-enabled interfaces,Torres,Home - Bedroom,Home,Bedroom,185.43,set,False,65
+552,maximize granular relationships,Pierce-Taylor,Sporting Goods - Fitness,Sporting Goods,Fitness,341.21,each,False,48
+553,evolve distributed systems,"Bell,",Beauty - Bath & Body,Beauty,Bath & Body,224.15,ml,False,76
+554,re-intermediate cross-platform e-commerce,Mcdonald-Ortiz,Health - First Aid,Health,First Aid,173.43,oz,False,96
+555,exploit rich vortals,Reyes-White,Electronics - Phones,Electronics,Phones,15.66,each,False,21
+556,enhance back-end experiences,Howard,Automotive - Accessories,Automotive,Accessories,428.83,oz,False,29
+557,envisioneer strategic niches,Garcia,Home - Bedroom,Home,Bedroom,326.48,each,False,100
+558,disintermediate robust users,Cook,Grocery - Meat,Grocery,Meat,455.92,lb,True,77
+559,facilitate dot-com content,"Ochoa,",Grocery - Produce,Grocery,Produce,127.68,count,True,92
+560,unleash global users,Smith-Evans,Garden - Grills,Garden,Grills,447.94,lb,False,59
+561,transition cross-media interfaces,Underwood-Todd,Garden - Tools,Garden,Tools,234.41,gal,False,67
+562,implement collaborative experiences,"Hays,",Automotive - Tools,Automotive,Tools,293.06,each,False,66
+563,enhance bleeding-edge e-tailers,Hall-Matthews,Toys - Outdoor,Toys,Outdoor,324.37,set,False,39
+564,engage plug-and-play bandwidth,Conner-Edwards,Electronics - Audio,Electronics,Audio,33.78,each,False,82
+565,aggregate cutting-edge e-markets,Gonzales,Toys - Dolls,Toys,Dolls,132.04,set,False,25
+566,utilize out-of-the-box channels,"Russo,",Clothing - Accessories,Clothing,Accessories,383.2,each,False,77
+567,synthesize synergistic supply-chains,Barnes,Sporting Goods - Team Sports,Sporting Goods,Team Sports,341.01,pair,False,4
+568,engineer wireless users,Nguyen-Johnson,Beauty - Hair Care,Beauty,Hair Care,131.18,ml,False,52
+569,generate robust channels,Rowland,Sporting Goods - Fitness,Sporting Goods,Fitness,292.34,pair,False,25
+570,maximize impactful architectures,Fry,Toys - Puzzles,Toys,Puzzles,343.78,set,False,86
+571,incubate integrated solutions,Rodriguez-Hudson,Toys - Outdoor,Toys,Outdoor,151.49,each,False,85
+572,grow seamless infrastructures,Garcia,Health - Medicine,Health,Medicine,148.29,oz,False,17
+573,reinvent robust metrics,Johnson-Gonzalez,Garden - Decor,Garden,Decor,381.92,each,False,88
+574,redefine integrated technologies,Hall,Toys - Action Figures,Toys,Action Figures,112.67,each,False,96
+575,mesh innovative bandwidth,Wood,Garden - Grills,Garden,Grills,394.46,lb,False,48
+576,leverage world-class e-markets,Moore-Rodriguez,Garden - Decor,Garden,Decor,148.43,each,False,61
+577,incubate next-generation info-mediaries,"Jones,",Grocery - Frozen,Grocery,Frozen,290.99,oz,False,61
+578,enable best-of-breed content,Meyers-Ortega,Home - Dining,Home,Dining,61.66,set,False,68
+579,leverage extensible applications,Shaw,Garden - Grills,Garden,Grills,28.91,each,False,18
+580,target efficient solutions,Ritter,Home - Bedroom,Home,Bedroom,205.77,set,False,19
+581,optimize wireless metrics,Fox,Toys - Puzzles,Toys,Puzzles,389.9,set,False,43
+582,matrix holistic bandwidth,Johnston-Mclaughlin,Clothing - Children,Clothing,Children,317.97,each,False,58
+583,envisioneer ubiquitous convergence,"Kirby,",Garden - Tools,Garden,Tools,381.06,each,False,74
+584,transition virtual e-markets,White,Clothing - Shoes,Clothing,Shoes,393.03,each,False,17
+585,drive user-centric bandwidth,Bartlett-White,Automotive - Tools,Automotive,Tools,317.47,qt,False,55
+586,maximize mission-critical interfaces,"Bautista,",Beauty - Fragrance,Beauty,Fragrance,4.32,each,False,26
+587,empower distributed web services,Wolfe,Toys - Action Figures,Toys,Action Figures,446.21,each,False,3
+588,productize killer models,Riddle-Tran,Grocery - Produce,Grocery,Produce,114.67,count,True,40
+589,disintermediate intuitive platforms,"Miranda,",Clothing - Men,Clothing,Men,193.0,each,False,22
+590,morph best-of-breed mindshare,Murray,Electronics - Computers,Electronics,Computers,150.49,each,False,59
+591,whiteboard plug-and-play architectures,Reese-Foley,Health - Wellness,Health,Wellness,263.0,oz,False,88
+592,strategize robust synergies,Wilson-Stark,Clothing - Children,Clothing,Children,498.07,each,False,46
+593,harness plug-and-play models,Jones-Kelley,Home - Bathroom,Home,Bathroom,474.14,set,False,3
+594,incentivize visionary channels,Hoover-Skinner,Home - Bathroom,Home,Bathroom,364.12,each,False,28
+595,leverage vertical metrics,Thompson,Grocery - Frozen,Grocery,Frozen,253.3,oz,False,47
+596,incubate impactful communities,Powers,Grocery - Meat,Grocery,Meat,438.51,count,True,99
+597,innovate real-time eyeballs,Howard-Robinson,Health - Wellness,Health,Wellness,26.19,count,False,85
+598,integrate killer systems,"Williams,",Electronics - Computers,Electronics,Computers,26.01,each,False,54
+599,repurpose sticky architectures,"Parker,",Beauty - Fragrance,Beauty,Fragrance,63.54,ml,False,61
+600,revolutionize enterprise solutions,Brooks,Clothing - Women,Clothing,Women,348.2,each,False,39
+601,aggregate e-business web-readiness,Johnson-Smith,Sporting Goods - Fitness,Sporting Goods,Fitness,331.91,set,False,80
+602,transition dynamic methodologies,"Brown,",Automotive - Accessories,Automotive,Accessories,210.57,each,False,66
+603,e-enable frictionless communities,Perry,Automotive - Parts,Automotive,Parts,142.78,each,False,64
+604,transition world-class vortals,"Sims,",Home - Dining,Home,Dining,101.47,set,False,67
+605,strategize cutting-edge initiatives,Lewis,Home - Bedroom,Home,Bedroom,352.3,set,False,21
+606,harness virtual synergies,Valdez-Smith,Grocery - Frozen,Grocery,Frozen,249.17,lb,False,89
+607,architect ubiquitous e-services,Barrett,Beauty - Hair Care,Beauty,Hair Care,118.77,oz,False,86
+608,visualize out-of-the-box paradigms,Mcclure,Electronics - Computers,Electronics,Computers,417.94,each,False,20
+609,monetize rich platforms,"Herrera,",Electronics - Gaming,Electronics,Gaming,39.36,each,False,33
+610,leverage dot-com platforms,"Nguyen,",Home - Living Room,Home,Living Room,494.35,set,False,34
+611,re-contextualize global supply-chains,Reid,Beauty - Makeup,Beauty,Makeup,51.69,oz,False,6
+612,harness compelling partnerships,Smith-Barr,Garden - Outdoor Furniture,Garden,Outdoor Furniture,401.18,lb,False,55
+613,grow enterprise mindshare,"Harmon,",Electronics - Computers,Electronics,Computers,425.91,each,False,2
+614,implement bleeding-edge web-readiness,"Blake,",Clothing - Women,Clothing,Women,165.66,each,False,80
+615,brand interactive e-business,Brown,Garden - Plants,Garden,Plants,187.56,lb,False,24
+616,synthesize distributed solutions,Bennett,Electronics - Audio,Electronics,Audio,201.31,each,False,35
+617,integrate web-enabled metrics,Stevenson-Murphy,Sporting Goods - Water Sports,Sporting Goods,Water Sports,400.34,pair,False,22
+618,empower turn-key experiences,Meyer,Electronics - TVs,Electronics,TVs,348.68,each,False,21
+619,visualize front-end web-readiness,Bradford,Electronics - Audio,Electronics,Audio,455.78,each,False,73
+620,facilitate interactive e-tailers,"Brown,",Beauty - Skincare,Beauty,Skincare,306.43,ml,False,79
+621,exploit magnetic metrics,Boyd-White,Grocery - Produce,Grocery,Produce,242.56,gal,True,15
+622,whiteboard clicks-and-mortar partnerships,Jones-Lee,Sporting Goods - Water Sports,Sporting Goods,Water Sports,24.88,set,False,84
+623,whiteboard B2B e-tailers,Davis,Toys - Action Figures,Toys,Action Figures,352.86,each,False,86
+624,engage best-of-breed action-items,"Miller,",Toys - Outdoor,Toys,Outdoor,262.5,each,False,56
+625,drive 24/365 action-items,Thompson-Wright,Home - Living Room,Home,Living Room,174.17,set,False,20
+626,envisioneer customized functionalities,Nelson,Health - Wellness,Health,Wellness,29.16,each,False,21
+627,evolve bricks-and-clicks interfaces,Jackson-Alexander,Health - Personal Care,Health,Personal Care,426.22,count,False,10
+628,deliver user-centric eyeballs,Smith-James,Beauty - Hair Care,Beauty,Hair Care,121.95,ml,False,7
+629,iterate strategic content,"Medina,",Health - Medicine,Health,Medicine,276.14,oz,False,52
+630,synergize plug-and-play content,Campbell-Hart,Home - Kitchen,Home,Kitchen,230.62,set,False,12
+631,syndicate intuitive supply-chains,Espinoza,Beauty - Fragrance,Beauty,Fragrance,159.39,ml,False,96
+632,orchestrate dynamic synergies,Hensley,Grocery - Dairy,Grocery,Dairy,202.9,oz,True,72
+633,drive out-of-the-box models,Frost-Bentley,Health - Vitamins,Health,Vitamins,413.29,each,False,80
+634,extend out-of-the-box architectures,Parker-Archer,Garden - Decor,Garden,Decor,282.03,gal,False,86
+635,optimize transparent paradigms,Cruz,Beauty - Hair Care,Beauty,Hair Care,182.93,oz,False,29
+636,leverage dynamic e-commerce,Wise-Walton,Beauty - Hair Care,Beauty,Hair Care,280.95,each,False,77
+637,seize holistic functionalities,"Richardson,",Beauty - Hair Care,Beauty,Hair Care,358.51,oz,False,13
+638,brand interactive action-items,Johnson-Li,Home - Kitchen,Home,Kitchen,171.99,set,False,71
+639,whiteboard proactive web services,"Hernandez,",Health - First Aid,Health,First Aid,351.63,count,False,22
+640,orchestrate dot-com action-items,"Lane,",Beauty - Skincare,Beauty,Skincare,411.27,each,False,93
+641,embrace e-business experiences,"Rangel,",Sporting Goods - Fitness,Sporting Goods,Fitness,128.63,each,False,25
+642,productize strategic deliverables,Liu,Electronics - Audio,Electronics,Audio,109.35,each,False,92
+643,e-enable cutting-edge portals,"Turner,",Toys - Action Figures,Toys,Action Figures,379.05,each,False,82
+644,synergize extensible e-markets,"Booth,",Automotive - Parts,Automotive,Parts,386.52,qt,False,59
+645,exploit cross-media eyeballs,Goodman-Conrad,Automotive - Electronics,Automotive,Electronics,69.04,qt,False,1
+646,strategize extensible synergies,Velasquez,Health - Vitamins,Health,Vitamins,277.5,oz,False,75
+647,transform innovative e-markets,"Butler,",Beauty - Bath & Body,Beauty,Bath & Body,390.97,oz,False,89
+648,reinvent out-of-the-box ROI,"Taylor,",Automotive - Accessories,Automotive,Accessories,365.78,each,False,14
+649,embrace customized networks,Lopez,Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,303.86,set,False,65
+650,extend viral solutions,Bird-Savage,Sporting Goods - Water Sports,Sporting Goods,Water Sports,489.78,pair,False,98
+651,grow sticky functionalities,Miller,Home - Bedroom,Home,Bedroom,200.13,set,False,38
+652,synergize 24/7 niches,Peterson,Beauty - Skincare,Beauty,Skincare,70.8,each,False,90
+653,incentivize compelling models,"Hodges,",Health - First Aid,Health,First Aid,421.84,each,False,41
+654,implement revolutionary platforms,Boyd,Health - Medicine,Health,Medicine,102.03,each,False,92
+655,synergize real-time models,Sherman-Munoz,Garden - Outdoor Furniture,Garden,Outdoor Furniture,460.74,each,False,91
+656,facilitate out-of-the-box methodologies,Key-Montoya,Clothing - Accessories,Clothing,Accessories,272.15,each,False,91
+657,disintermediate wireless architectures,"Brown,",Electronics - Phones,Electronics,Phones,282.01,each,False,87
+658,transform clicks-and-mortar bandwidth,"Morales,",Health - First Aid,Health,First Aid,438.97,oz,False,2
+659,utilize 24/7 deliverables,Tapia-Walton,Health - Vitamins,Health,Vitamins,14.58,count,False,7
+660,incentivize out-of-the-box systems,"Parks,",Grocery - Produce,Grocery,Produce,134.95,lb,True,37
+661,repurpose dynamic synergies,"Rosario,",Garden - Tools,Garden,Tools,420.0,gal,False,38
+662,disintermediate revolutionary vortals,"Wallace,",Home - Dining,Home,Dining,18.08,set,False,14
+663,re-intermediate strategic convergence,Crosby-David,Automotive - Electronics,Automotive,Electronics,432.68,oz,False,83
+664,syndicate mission-critical architectures,Lawson-Joseph,Health - Personal Care,Health,Personal Care,120.31,each,False,37
+665,cultivate robust channels,Robles-Turner,Grocery - Meat,Grocery,Meat,194.99,count,True,71
+666,innovate plug-and-play communities,Friedman-Olson,Grocery - Dairy,Grocery,Dairy,372.34,lb,True,80
+667,incubate web-enabled action-items,Jackson,Beauty - Skincare,Beauty,Skincare,455.91,each,False,91
+668,scale e-business platforms,Holder-Johnson,Toys - Outdoor,Toys,Outdoor,274.2,each,False,100
+669,re-contextualize world-class architectures,Robinson-Scott,Home - Bedroom,Home,Bedroom,225.5,each,False,24
+670,syndicate 24/7 web services,Livingston,Clothing - Accessories,Clothing,Accessories,61.43,each,False,55
+671,drive holistic infrastructures,"Cook,",Garden - Decor,Garden,Decor,133.58,each,False,75
+672,re-contextualize innovative experiences,Bennett-Love,Garden - Plants,Garden,Plants,166.61,gal,False,20
+673,extend enterprise experiences,"Glover,",Grocery - Produce,Grocery,Produce,464.45,oz,True,100
+674,enhance magnetic portals,Carter,Automotive - Oil & Fluids,Automotive,Oil & Fluids,246.28,oz,False,71
+675,evolve cross-platform applications,Garner,Toys - Action Figures,Toys,Action Figures,392.44,set,False,68
+676,maximize out-of-the-box channels,Finley-Ray,Home - Bathroom,Home,Bathroom,261.25,each,False,54
+677,implement extensible markets,"Nichols,",Health - Wellness,Health,Wellness,202.89,oz,False,29
+678,harness bricks-and-clicks methodologies,Meyer,Home - Bedroom,Home,Bedroom,166.86,set,False,28
+679,benchmark magnetic platforms,Smith-Phelps,Automotive - Electronics,Automotive,Electronics,238.47,oz,False,97
+680,harness B2B technologies,Porter,Grocery - Dairy,Grocery,Dairy,335.12,gal,True,31
+681,orchestrate front-end eyeballs,"Ortega,",Automotive - Electronics,Automotive,Electronics,123.42,each,False,88
+682,expedite turn-key content,"Mooney,",Toys - Educational,Toys,Educational,458.12,each,False,50
+683,unleash compelling functionalities,Simpson,Garden - Decor,Garden,Decor,362.53,each,False,67
+684,synergize leading-edge supply-chains,Carey,Toys - Outdoor,Toys,Outdoor,401.79,set,False,63
+685,iterate magnetic markets,Gates,Grocery - Bakery,Grocery,Bakery,449.33,lb,True,42
+686,strategize seamless web services,Ritter,Health - Vitamins,Health,Vitamins,474.2,count,False,99
+687,strategize cross-platform e-commerce,"Kennedy,",Health - Wellness,Health,Wellness,5.64,count,False,27
+688,optimize front-end technologies,"Leblanc,",Home - Living Room,Home,Living Room,418.15,each,False,69
+689,transform end-to-end vortals,"Glenn,",Sporting Goods - Fitness,Sporting Goods,Fitness,373.94,each,False,4
+690,monetize ubiquitous experiences,Ray,Beauty - Hair Care,Beauty,Hair Care,20.86,oz,False,7
+691,scale compelling technologies,Clark,Clothing - Children,Clothing,Children,279.92,each,False,34
+692,aggregate value-added relationships,"Chase,",Sporting Goods - Water Sports,Sporting Goods,Water Sports,226.65,set,False,56
+693,iterate B2B architectures,Shelton-Jackson,Toys - Action Figures,Toys,Action Figures,195.96,each,False,69
+694,streamline mission-critical convergence,White-Williams,Grocery - Frozen,Grocery,Frozen,33.48,oz,False,90
+695,deliver cross-platform applications,Booker-Sims,Electronics - Phones,Electronics,Phones,464.16,each,False,38
+696,strategize interactive paradigms,Allen,Garden - Decor,Garden,Decor,45.07,lb,False,49
+697,monetize virtual experiences,"Bennett,",Sporting Goods - Fitness,Sporting Goods,Fitness,238.04,pair,False,29
+698,repurpose e-business bandwidth,"Reyes,",Clothing - Shoes,Clothing,Shoes,398.78,each,False,82
+699,implement 24/7 initiatives,Martinez,Clothing - Children,Clothing,Children,339.28,each,False,2
+700,repurpose magnetic web-readiness,"Berry,",Health - Wellness,Health,Wellness,72.39,count,False,1
+701,extend mission-critical applications,Cruz,Automotive - Electronics,Automotive,Electronics,198.24,oz,False,11
+702,scale user-centric content,"Martinez,",Garden - Tools,Garden,Tools,374.64,gal,False,45
+703,cultivate viral interfaces,"Smith,",Home - Living Room,Home,Living Room,452.99,each,False,21
+704,exploit holistic partnerships,"Hood,",Clothing - Women,Clothing,Women,309.2,each,False,25
+705,visualize 24/7 e-tailers,"Merritt,",Electronics - TVs,Electronics,TVs,336.14,each,False,97
+706,reinvent clicks-and-mortar schemas,Mcbride-Martinez,Health - Personal Care,Health,Personal Care,323.04,count,False,38
+707,enable best-of-breed experiences,Miller,Electronics - Phones,Electronics,Phones,50.89,each,False,43
+708,iterate robust infrastructures,Hunter,Toys - Puzzles,Toys,Puzzles,336.3,each,False,13
+709,incubate frictionless e-commerce,"Smith,",Garden - Decor,Garden,Decor,36.75,each,False,41
+710,mesh distributed web services,"Wallace,",Beauty - Fragrance,Beauty,Fragrance,165.51,each,False,40
+711,mesh synergistic metrics,"Dixon,",Automotive - Accessories,Automotive,Accessories,283.63,qt,False,41
+712,integrate web-enabled paradigms,Thomas,Sporting Goods - Camping,Sporting Goods,Camping,4.4,each,False,29
+713,enable killer applications,Ramirez-Daniel,Sporting Goods - Team Sports,Sporting Goods,Team Sports,420.36,each,False,87
+714,brand intuitive schemas,Green-Santos,Toys - Educational,Toys,Educational,232.49,set,False,100
+715,leverage wireless bandwidth,Duffy,Garden - Grills,Garden,Grills,276.72,each,False,83
+716,brand B2B users,Jones,Automotive - Parts,Automotive,Parts,421.2,each,False,69
+717,empower dynamic relationships,"Sandoval,",Home - Bedroom,Home,Bedroom,367.3,each,False,94
+718,deploy B2C vortals,Gray-Maynard,Electronics - Computers,Electronics,Computers,425.08,each,False,75
+719,incentivize intuitive niches,Schmidt,Automotive - Tools,Automotive,Tools,385.05,each,False,5
+720,engage transparent partnerships,Bowman-Cox,Health - First Aid,Health,First Aid,272.64,each,False,61
+721,facilitate real-time eyeballs,Hill,Clothing - Children,Clothing,Children,197.45,each,False,18
+722,synergize magnetic architectures,Patton,Beauty - Bath & Body,Beauty,Bath & Body,256.18,ml,False,47
+723,reinvent extensible applications,Davis-Bailey,Health - Vitamins,Health,Vitamins,332.0,each,False,88
+724,maximize front-end schemas,Lawson-Mosley,Clothing - Accessories,Clothing,Accessories,71.89,each,False,23
+725,leverage turn-key architectures,Reed,Automotive - Electronics,Automotive,Electronics,330.38,each,False,95
+726,innovate wireless info-mediaries,"Anderson,",Beauty - Hair Care,Beauty,Hair Care,22.12,ml,False,30
+727,orchestrate end-to-end eyeballs,Bradley-Adams,Electronics - Phones,Electronics,Phones,185.97,each,False,86
+728,redefine out-of-the-box action-items,"Franklin,",Home - Dining,Home,Dining,454.04,set,False,50
+729,seize plug-and-play mindshare,Hill-Patterson,Beauty - Fragrance,Beauty,Fragrance,441.0,oz,False,84
+730,unleash bleeding-edge content,"Hodge,",Toys - Action Figures,Toys,Action Figures,352.45,set,False,95
+731,harness e-business functionalities,Jones,Garden - Decor,Garden,Decor,273.08,each,False,49
+732,evolve frictionless networks,Miller,Sporting Goods - Team Sports,Sporting Goods,Team Sports,294.65,each,False,67
+733,engage rich synergies,Rhodes-Randolph,Garden - Grills,Garden,Grills,486.38,each,False,67
+734,enable compelling models,"Jennings,",Sporting Goods - Team Sports,Sporting Goods,Team Sports,408.97,set,False,63
+735,embrace wireless synergies,"Lee,",Beauty - Bath & Body,Beauty,Bath & Body,5.28,oz,False,57
+736,brand cross-media action-items,"Guerrero,",Clothing - Women,Clothing,Women,40.38,each,False,28
+737,mesh revolutionary metrics,Oconnell-Craig,Clothing - Women,Clothing,Women,80.35,each,False,85
+738,matrix magnetic ROI,Richardson,Home - Living Room,Home,Living Room,405.95,each,False,62
+739,deliver synergistic markets,Simpson-Jackson,Beauty - Fragrance,Beauty,Fragrance,106.92,oz,False,83
+740,embrace cross-platform methodologies,Decker,Sporting Goods - Fitness,Sporting Goods,Fitness,123.34,each,False,74
+741,envisioneer seamless info-mediaries,Baker-Smith,Automotive - Accessories,Automotive,Accessories,69.08,oz,False,6
+742,whiteboard impactful e-tailers,Hickman-Haley,Automotive - Accessories,Automotive,Accessories,29.83,qt,False,24
+743,deliver robust bandwidth,"Charles,",Health - Personal Care,Health,Personal Care,300.47,each,False,82
+744,target open-source content,Rodriguez-Bailey,Grocery - Bakery,Grocery,Bakery,473.72,lb,True,58
+745,drive viral interfaces,Smith-Jordan,Automotive - Tools,Automotive,Tools,433.91,each,False,29
+746,aggregate strategic deliverables,"Roach,",Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,73.06,pair,False,99
+747,implement B2C web services,Perez-Foster,Clothing - Accessories,Clothing,Accessories,330.5,each,False,22
+748,monetize bricks-and-clicks e-commerce,Herrera,Toys - Educational,Toys,Educational,299.06,each,False,30
+749,transform visionary web services,Martin-Gomez,Sporting Goods - Water Sports,Sporting Goods,Water Sports,67.83,each,False,26
+750,brand clicks-and-mortar convergence,"Gonzalez,",Health - Wellness,Health,Wellness,342.81,count,False,78
+751,strategize next-generation supply-chains,Martin,Electronics - TVs,Electronics,TVs,238.97,each,False,69
+752,syndicate real-time initiatives,Burns-Simpson,Health - Vitamins,Health,Vitamins,48.4,each,False,17
+753,innovate end-to-end vortals,Shaw-Mclean,Automotive - Electronics,Automotive,Electronics,414.1,oz,False,84
+754,e-enable integrated channels,Rosario,Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,211.49,each,False,90
+755,enable B2C convergence,"Smith,",Health - Personal Care,Health,Personal Care,116.27,oz,False,99
+756,e-enable cross-platform e-commerce,"Mclaughlin,",Sporting Goods - Team Sports,Sporting Goods,Team Sports,295.34,pair,False,98
+757,synthesize strategic e-commerce,Williamson,Automotive - Parts,Automotive,Parts,213.88,qt,False,62
+758,deliver viral action-items,Wang-Lin,Home - Kitchen,Home,Kitchen,143.06,set,False,33
+759,scale interactive web services,Gonzalez-Mccarthy,Home - Kitchen,Home,Kitchen,355.15,each,False,74
+760,exploit sticky mindshare,"White,",Health - Vitamins,Health,Vitamins,260.83,oz,False,84
+761,whiteboard B2C e-services,Anderson,Home - Bedroom,Home,Bedroom,205.59,each,False,20
+762,empower dynamic eyeballs,Smith-Gonzalez,Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,128.3,pair,False,55
+763,cultivate scalable architectures,Warren-Graves,Automotive - Oil & Fluids,Automotive,Oil & Fluids,306.71,oz,False,51
+764,enhance magnetic supply-chains,Mendoza-Hicks,Home - Living Room,Home,Living Room,276.94,set,False,23
+765,visualize scalable content,Adams,Toys - Outdoor,Toys,Outdoor,278.34,set,False,40
+766,seize next-generation action-items,Jacobson-White,Automotive - Oil & Fluids,Automotive,Oil & Fluids,387.54,qt,False,95
+767,implement scalable web services,"Morris,",Clothing - Men,Clothing,Men,374.4,each,False,90
+768,expedite mission-critical e-commerce,King,Clothing - Men,Clothing,Men,108.79,each,False,44
+769,disintermediate open-source content,Davis,Health - Wellness,Health,Wellness,349.12,each,False,7
+770,innovate end-to-end supply-chains,Figueroa-Ward,Clothing - Shoes,Clothing,Shoes,482.35,each,False,12
+771,revolutionize out-of-the-box action-items,"Hill,",Clothing - Shoes,Clothing,Shoes,463.07,each,False,12
+772,transform end-to-end functionalities,"Guzman,",Electronics - Phones,Electronics,Phones,112.43,each,False,78
+773,matrix dynamic solutions,"Griffin,",Grocery - Meat,Grocery,Meat,465.47,gal,True,79
+774,re-intermediate cross-platform content,"Wells,",Health - First Aid,Health,First Aid,356.37,each,False,8
+775,orchestrate revolutionary channels,Barnes,Clothing - Shoes,Clothing,Shoes,220.6,each,False,85
+776,morph cross-media relationships,Soto-Wilson,Health - First Aid,Health,First Aid,98.97,each,False,66
+777,brand innovative info-mediaries,Mills-Farley,Health - Medicine,Health,Medicine,308.35,each,False,5
+778,generate vertical communities,"Hill,",Toys - Puzzles,Toys,Puzzles,328.19,each,False,12
+779,maximize leading-edge solutions,"Olsen,",Garden - Grills,Garden,Grills,177.85,lb,False,52
+780,deliver intuitive communities,Christensen-Cruz,Automotive - Accessories,Automotive,Accessories,259.83,oz,False,91
+781,revolutionize integrated interfaces,"Nelson,",Electronics - Computers,Electronics,Computers,275.69,each,False,45
+782,architect value-added mindshare,Gordon-Le,Garden - Tools,Garden,Tools,303.96,each,False,59
+783,morph seamless e-services,Erickson-Arnold,Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,4.31,each,False,53
+784,leverage magnetic paradigms,"Allen,",Health - Vitamins,Health,Vitamins,280.19,each,False,38
+785,matrix efficient channels,Marks-Williams,Toys - Action Figures,Toys,Action Figures,401.86,set,False,69
+786,incentivize best-of-breed users,Smith,Automotive - Oil & Fluids,Automotive,Oil & Fluids,347.7,qt,False,73
+787,whiteboard out-of-the-box vortals,Potts,Beauty - Skincare,Beauty,Skincare,379.21,ml,False,88
+788,morph global e-markets,"Phillips,",Beauty - Bath & Body,Beauty,Bath & Body,431.28,ml,False,15
+789,implement synergistic e-services,"Sanford,",Garden - Plants,Garden,Plants,192.56,each,False,87
+790,incubate sticky architectures,"Scott,",Home - Bedroom,Home,Bedroom,207.38,set,False,67
+791,architect visionary e-services,Adams-Perkins,Health - Vitamins,Health,Vitamins,351.0,oz,False,32
+792,exploit impactful eyeballs,Hall-Barber,Garden - Plants,Garden,Plants,200.66,gal,False,44
+793,disintermediate B2B info-mediaries,Crawford,Electronics - Gaming,Electronics,Gaming,465.83,each,False,41
+794,reinvent virtual solutions,"Henry,",Toys - Puzzles,Toys,Puzzles,447.36,set,False,24
+795,utilize extensible communities,Roth,Home - Living Room,Home,Living Room,369.07,each,False,95
+796,expedite dynamic partnerships,Jones,Home - Bedroom,Home,Bedroom,104.97,each,False,32
+797,target wireless platforms,"Rose,",Automotive - Oil & Fluids,Automotive,Oil & Fluids,79.68,each,False,16
+798,expedite mission-critical architectures,Smith-Serrano,Electronics - Audio,Electronics,Audio,307.68,each,False,62
+799,engineer revolutionary channels,Carrillo,Toys - Outdoor,Toys,Outdoor,159.07,set,False,63
+800,orchestrate value-added synergies,Daniels,Clothing - Accessories,Clothing,Accessories,141.56,each,False,97
+801,iterate strategic solutions,Castillo,Automotive - Accessories,Automotive,Accessories,28.96,qt,False,62
+802,productize visionary communities,Rivera-Moore,Health - Vitamins,Health,Vitamins,252.22,oz,False,88
+803,streamline real-time functionalities,"Martinez,",Clothing - Shoes,Clothing,Shoes,488.29,each,False,41
+804,envisioneer sticky mindshare,Thomas-Barr,Grocery - Dairy,Grocery,Dairy,337.69,gal,True,75
+805,utilize bleeding-edge e-commerce,Hernandez-Rios,Electronics - Phones,Electronics,Phones,182.07,each,False,24
+806,enhance integrated methodologies,"Carson,",Health - First Aid,Health,First Aid,120.09,oz,False,79
+807,embrace magnetic platforms,Howard-Gilbert,Toys - Dolls,Toys,Dolls,93.58,set,False,27
+808,embrace bricks-and-clicks infrastructures,Munoz,Sporting Goods - Team Sports,Sporting Goods,Team Sports,183.8,set,False,36
+809,brand open-source metrics,Shelton,Beauty - Skincare,Beauty,Skincare,286.55,each,False,88
+810,productize seamless e-business,Bailey-Garcia,Home - Kitchen,Home,Kitchen,360.96,each,False,72
+811,redefine rich web services,Cantu-Cochran,Sporting Goods - Water Sports,Sporting Goods,Water Sports,99.63,pair,False,20
+812,unleash intuitive synergies,Strickland,Beauty - Makeup,Beauty,Makeup,89.94,ml,False,18
+813,harness B2B architectures,Griffith-Floyd,Health - Wellness,Health,Wellness,360.83,oz,False,39
+814,syndicate innovative initiatives,"Simmons,",Garden - Decor,Garden,Decor,429.52,each,False,51
+815,harness end-to-end ROI,Gomez-Snyder,Electronics - TVs,Electronics,TVs,31.89,each,False,61
+816,syndicate transparent metrics,"Cook,",Electronics - Audio,Electronics,Audio,372.8,each,False,47
+817,incentivize integrated e-markets,"Crawford,",Toys - Outdoor,Toys,Outdoor,279.62,set,False,45
+818,transition bleeding-edge architectures,Carpenter,Grocery - Meat,Grocery,Meat,62.37,lb,True,74
+819,mesh magnetic infrastructures,Ward,Automotive - Electronics,Automotive,Electronics,88.91,qt,False,46
+820,iterate vertical relationships,"Wells,",Toys - Outdoor,Toys,Outdoor,244.76,set,False,11
+821,redefine cross-media relationships,Phillips,Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,144.68,pair,False,19
+822,e-enable next-generation action-items,Carey,Clothing - Children,Clothing,Children,212.05,each,False,10
+823,extend global initiatives,"Padilla,",Electronics - TVs,Electronics,TVs,173.12,each,False,41
+824,brand out-of-the-box markets,"Rodriguez,",Garden - Outdoor Furniture,Garden,Outdoor Furniture,303.47,lb,False,35
+825,expedite granular web-readiness,Diaz,Beauty - Hair Care,Beauty,Hair Care,374.44,each,False,58
+826,incentivize intuitive synergies,"Guerra,",Sporting Goods - Camping,Sporting Goods,Camping,93.57,each,False,17
+827,syndicate global deliverables,"Rush,",Home - Bedroom,Home,Bedroom,470.33,each,False,27
+828,grow value-added technologies,Moore,Clothing - Shoes,Clothing,Shoes,53.29,each,False,61
+829,integrate virtual mindshare,Smith,Health - Vitamins,Health,Vitamins,15.12,oz,False,68
+830,innovate ubiquitous schemas,"Gallegos,",Electronics - Computers,Electronics,Computers,132.69,each,False,11
+831,unleash bleeding-edge e-commerce,Nelson,Sporting Goods - Team Sports,Sporting Goods,Team Sports,116.21,pair,False,37
+832,mesh enterprise channels,"Lewis,",Beauty - Skincare,Beauty,Skincare,67.37,oz,False,4
+833,reinvent intuitive bandwidth,Edwards-May,Grocery - Bakery,Grocery,Bakery,430.45,count,True,61
+834,transition enterprise communities,Pratt,Beauty - Bath & Body,Beauty,Bath & Body,467.55,each,False,57
+835,brand dynamic niches,Garcia,Clothing - Accessories,Clothing,Accessories,90.15,each,False,81
+836,expedite open-source web-readiness,Campbell,Automotive - Tools,Automotive,Tools,262.67,oz,False,69
+837,transform innovative e-tailers,"Smith,",Garden - Outdoor Furniture,Garden,Outdoor Furniture,241.85,each,False,12
+838,aggregate robust action-items,Miller-Hudson,Beauty - Hair Care,Beauty,Hair Care,184.15,ml,False,20
+839,integrate compelling paradigms,Edwards,Garden - Plants,Garden,Plants,2.04,each,False,45
+840,implement synergistic technologies,Porter-Edwards,Garden - Grills,Garden,Grills,268.47,gal,False,63
+841,strategize synergistic channels,"Leonard,",Beauty - Hair Care,Beauty,Hair Care,6.54,ml,False,38
+842,deliver mission-critical mindshare,Johnson,Automotive - Accessories,Automotive,Accessories,398.78,oz,False,48
+843,syndicate robust technologies,Hernandez,Home - Living Room,Home,Living Room,441.31,set,False,51
+844,evolve e-business e-services,Aguirre,Home - Bathroom,Home,Bathroom,358.03,set,False,49
+845,orchestrate granular mindshare,"Gay,",Home - Bedroom,Home,Bedroom,41.44,each,False,67
+846,revolutionize cross-platform systems,Morgan,Automotive - Oil & Fluids,Automotive,Oil & Fluids,143.76,oz,False,69
+847,re-intermediate user-centric paradigms,"Schroeder,",Garden - Grills,Garden,Grills,95.61,each,False,24
+848,re-intermediate intuitive eyeballs,"Burton,",Clothing - Children,Clothing,Children,56.95,each,False,80
+849,orchestrate extensible schemas,Porter,Beauty - Hair Care,Beauty,Hair Care,350.83,ml,False,25
+850,harness frictionless technologies,Jones,Toys - Action Figures,Toys,Action Figures,77.76,each,False,24
+851,disintermediate synergistic infrastructures,White,Electronics - Phones,Electronics,Phones,136.05,each,False,94
+852,morph collaborative portals,Santos-Taylor,Grocery - Produce,Grocery,Produce,46.91,oz,True,64
+853,embrace holistic paradigms,Trevino-Morales,Home - Bedroom,Home,Bedroom,211.27,set,False,48
+854,iterate end-to-end systems,Hunt-Weber,Beauty - Makeup,Beauty,Makeup,166.45,oz,False,8
+855,harness out-of-the-box infrastructures,"Gutierrez,",Garden - Grills,Garden,Grills,37.54,lb,False,24
+856,innovate revolutionary e-business,"Brown,",Home - Bedroom,Home,Bedroom,408.98,each,False,16
+857,engage value-added eyeballs,Roberts,Home - Living Room,Home,Living Room,386.06,set,False,32
+858,maximize wireless partnerships,Price,Grocery - Produce,Grocery,Produce,231.49,oz,True,67
+859,repurpose e-business convergence,Mcdonald-Nichols,Home - Living Room,Home,Living Room,195.77,set,False,42
+860,transition plug-and-play platforms,White,Clothing - Men,Clothing,Men,372.86,each,False,33
+861,redefine impactful e-commerce,Morales,Beauty - Hair Care,Beauty,Hair Care,100.95,oz,False,86
+862,harness cross-platform metrics,Lewis-Figueroa,Home - Kitchen,Home,Kitchen,119.5,set,False,42
+863,embrace efficient bandwidth,Gardner,Grocery - Produce,Grocery,Produce,397.6,oz,True,51
+864,orchestrate killer vortals,"Johnson,",Home - Kitchen,Home,Kitchen,484.47,set,False,89
+865,re-contextualize bricks-and-clicks e-commerce,Lewis-Lewis,Automotive - Accessories,Automotive,Accessories,186.95,each,False,32
+866,utilize cutting-edge niches,Reid-Miller,Clothing - Shoes,Clothing,Shoes,47.51,each,False,98
+867,optimize efficient interfaces,Evans,Grocery - Dairy,Grocery,Dairy,179.04,lb,True,90
+868,grow next-generation deliverables,Caldwell,Health - Vitamins,Health,Vitamins,64.65,count,False,41
+869,reinvent scalable infrastructures,Peterson-Mullins,Health - First Aid,Health,First Aid,403.14,oz,False,94
+870,leverage 24/365 convergence,Olson-Nichols,Home - Kitchen,Home,Kitchen,345.24,set,False,93
+871,generate granular e-commerce,Gaines-Hudson,Clothing - Children,Clothing,Children,449.52,each,False,91
+872,transition value-added schemas,"Gonzalez,",Beauty - Bath & Body,Beauty,Bath & Body,148.76,each,False,63
+873,orchestrate world-class web services,"Newton,",Home - Dining,Home,Dining,94.93,set,False,42
+874,orchestrate ubiquitous eyeballs,Lin-Wilson,Beauty - Hair Care,Beauty,Hair Care,434.09,each,False,71
+875,innovate transparent portals,"Bowen,",Clothing - Men,Clothing,Men,266.5,each,False,38
+876,iterate end-to-end functionalities,Fowler-Lane,Garden - Decor,Garden,Decor,184.81,each,False,100
+877,integrate killer solutions,Horton-Schroeder,Health - Personal Care,Health,Personal Care,367.35,count,False,80
+878,expedite enterprise e-tailers,Clark-Lee,Toys - Outdoor,Toys,Outdoor,120.91,each,False,85
+879,innovate value-added relationships,Smith-Mosley,Health - Personal Care,Health,Personal Care,96.54,each,False,64
+880,deliver 24/7 models,"Duarte,",Health - Medicine,Health,Medicine,307.28,oz,False,53
+881,e-enable cutting-edge deliverables,Wilson-Thompson,Toys - Action Figures,Toys,Action Figures,49.93,each,False,6
+882,brand out-of-the-box ROI,"Larson,",Clothing - Women,Clothing,Women,436.99,each,False,14
+883,iterate user-centric functionalities,Park-Pace,Beauty - Skincare,Beauty,Skincare,51.17,each,False,83
+884,productize mission-critical infrastructures,Davis,Sporting Goods - Water Sports,Sporting Goods,Water Sports,263.85,pair,False,76
+885,re-intermediate transparent platforms,Brady-Hanson,Garden - Plants,Garden,Plants,184.43,gal,False,92
+886,incubate mission-critical functionalities,Gordon-Shaffer,Electronics - Computers,Electronics,Computers,465.24,each,False,84
+887,repurpose distributed e-markets,Walker,Beauty - Makeup,Beauty,Makeup,235.08,each,False,8
+888,engage enterprise initiatives,Gates,Toys - Outdoor,Toys,Outdoor,372.24,set,False,48
+889,seize plug-and-play e-markets,"Padilla,",Grocery - Frozen,Grocery,Frozen,134.37,oz,False,94
+890,disintermediate magnetic mindshare,Adams-Hopkins,Electronics - Phones,Electronics,Phones,40.8,each,False,67
+891,monetize next-generation methodologies,Smith,Electronics - Computers,Electronics,Computers,363.13,each,False,25
+892,integrate value-added web-readiness,Gibbs,Home - Dining,Home,Dining,329.11,each,False,72
+893,transition turn-key supply-chains,Haley,Health - Personal Care,Health,Personal Care,373.55,each,False,74
+894,incentivize impactful solutions,"Newman,",Toys - Educational,Toys,Educational,351.86,set,False,14
+895,maximize cutting-edge channels,"Myers,",Clothing - Women,Clothing,Women,275.87,each,False,85
+896,harness granular e-commerce,Garcia,Clothing - Accessories,Clothing,Accessories,499.21,each,False,46
+897,deliver 24/7 functionalities,"Mueller,",Toys - Outdoor,Toys,Outdoor,495.74,set,False,48
+898,morph granular vortals,Davis,Sporting Goods - Water Sports,Sporting Goods,Water Sports,413.42,set,False,78
+899,brand value-added functionalities,"Hernandez,",Home - Dining,Home,Dining,273.71,set,False,99
+900,evolve enterprise web-readiness,"Gross,",Health - First Aid,Health,First Aid,181.27,oz,False,58
+901,revolutionize synergistic ROI,Delgado,Sporting Goods - Fitness,Sporting Goods,Fitness,363.69,set,False,77
+902,monetize dynamic users,Barber,Grocery - Frozen,Grocery,Frozen,69.26,count,False,1
+903,revolutionize back-end web services,Hill,Garden - Tools,Garden,Tools,108.97,lb,False,3
+904,whiteboard vertical functionalities,"Camacho,",Garden - Decor,Garden,Decor,256.6,gal,False,74
+905,embrace sticky eyeballs,Green-White,Clothing - Men,Clothing,Men,20.78,each,False,20
+906,optimize rich relationships,Myers,Clothing - Children,Clothing,Children,184.8,each,False,30
+907,generate vertical e-markets,Tucker,Garden - Outdoor Furniture,Garden,Outdoor Furniture,47.76,lb,False,73
+908,optimize best-of-breed methodologies,Brooks-Edwards,Home - Kitchen,Home,Kitchen,362.33,set,False,23
+909,redefine customized communities,Evans,Beauty - Bath & Body,Beauty,Bath & Body,410.11,oz,False,77
+910,repurpose robust initiatives,Chaney-Webb,Garden - Plants,Garden,Plants,365.92,gal,False,49
+911,re-intermediate clicks-and-mortar communities,"Harmon,",Electronics - Computers,Electronics,Computers,461.08,each,False,45
+912,utilize vertical deliverables,"Hodges,",Sporting Goods - Water Sports,Sporting Goods,Water Sports,465.25,each,False,99
+913,productize killer web-readiness,Taylor-Miller,Home - Dining,Home,Dining,464.46,set,False,7
+914,scale end-to-end niches,Olson-Ashley,Garden - Decor,Garden,Decor,22.5,gal,False,73
+915,seize distributed bandwidth,"Lamb,",Clothing - Children,Clothing,Children,252.19,each,False,20
+916,re-contextualize dynamic portals,Gonzalez,Grocery - Meat,Grocery,Meat,485.57,oz,True,29
+917,empower impactful platforms,"Mcguire,",Sporting Goods - Team Sports,Sporting Goods,Team Sports,393.6,each,False,17
+918,architect holistic e-commerce,Henderson-Burgess,Toys - Action Figures,Toys,Action Figures,238.97,each,False,71
+919,transition turn-key e-business,Lawson,Sporting Goods - Team Sports,Sporting Goods,Team Sports,44.36,pair,False,56
+920,aggregate synergistic relationships,"Weiss,",Clothing - Women,Clothing,Women,241.49,each,False,63
+921,deliver dot-com applications,Carter-Serrano,Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,99.65,pair,False,95
+922,visualize synergistic interfaces,Wilson,Health - Medicine,Health,Medicine,122.66,oz,False,100
+923,brand viral convergence,Jones,Sporting Goods - Team Sports,Sporting Goods,Team Sports,342.99,pair,False,12
+924,disintermediate out-of-the-box eyeballs,Martinez-Flores,Electronics - Audio,Electronics,Audio,212.91,each,False,25
+925,implement open-source e-tailers,Bradley-Morris,Toys - Dolls,Toys,Dolls,297.74,each,False,99
+926,enhance innovative architectures,Guzman-Rose,Garden - Tools,Garden,Tools,493.84,gal,False,57
+927,transform efficient metrics,"Jones,",Automotive - Accessories,Automotive,Accessories,221.34,each,False,26
+928,engineer user-centric vortals,Gonzalez-Williams,Toys - Puzzles,Toys,Puzzles,379.34,each,False,15
+929,synthesize rich paradigms,Fisher-Martinez,Grocery - Produce,Grocery,Produce,474.56,lb,True,37
+930,leverage world-class applications,Young-Smith,Grocery - Bakery,Grocery,Bakery,347.5,oz,True,40
+931,utilize clicks-and-mortar bandwidth,Anderson-Rasmussen,Beauty - Fragrance,Beauty,Fragrance,13.32,oz,False,95
+932,integrate revolutionary supply-chains,"Smith,",Health - Medicine,Health,Medicine,103.48,each,False,97
+933,deploy seamless niches,Molina-Ross,Garden - Decor,Garden,Decor,242.54,gal,False,19
+934,engage turn-key models,"Williams,",Grocery - Meat,Grocery,Meat,292.33,oz,True,33
+935,synthesize 24/7 relationships,"Garcia,",Clothing - Men,Clothing,Men,143.43,each,False,7
+936,enable sticky vortals,"Ramsey,",Beauty - Makeup,Beauty,Makeup,35.16,each,False,35
+937,drive out-of-the-box users,Villa,Toys - Action Figures,Toys,Action Figures,11.49,set,False,30
+938,morph revolutionary initiatives,Valentine,Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,488.34,each,False,41
+939,morph open-source e-business,Nelson-Jackson,Beauty - Bath & Body,Beauty,Bath & Body,266.71,oz,False,26
+940,enable ubiquitous initiatives,Flores,Health - Personal Care,Health,Personal Care,281.21,each,False,3
+941,engineer transparent functionalities,Barnett-Boyd,Grocery - Produce,Grocery,Produce,461.28,count,True,43
+942,incentivize compelling web services,Bray-Morris,Beauty - Fragrance,Beauty,Fragrance,372.7,oz,False,45
+943,drive compelling e-services,Baker,Toys - Dolls,Toys,Dolls,313.36,each,False,65
+944,unleash strategic convergence,"Houston,",Garden - Plants,Garden,Plants,313.63,lb,False,4
+945,iterate best-of-breed partnerships,Bonilla,Health - First Aid,Health,First Aid,114.33,oz,False,51
+946,architect value-added web services,Mcdonald,Clothing - Men,Clothing,Men,365.48,each,False,54
+947,aggregate holistic platforms,Clark-Garza,Home - Dining,Home,Dining,78.06,set,False,78
+948,mesh turn-key content,"Gibson,",Toys - Educational,Toys,Educational,272.02,each,False,84
+949,redefine end-to-end e-services,Cruz-Chavez,Clothing - Accessories,Clothing,Accessories,271.58,each,False,18
+950,re-intermediate 24/365 interfaces,Jones,Garden - Decor,Garden,Decor,454.95,lb,False,99
+951,leverage extensible networks,"Garcia,",Clothing - Accessories,Clothing,Accessories,458.71,each,False,9
+952,embrace web-enabled web-readiness,Lopez-Johnson,Health - Wellness,Health,Wellness,474.39,count,False,24
+953,repurpose customized convergence,Wilson-Pierce,Toys - Puzzles,Toys,Puzzles,364.08,set,False,53
+954,seize user-centric e-tailers,Sanders,Sporting Goods - Team Sports,Sporting Goods,Team Sports,222.61,pair,False,95
+955,deliver open-source markets,Nelson-Davis,Garden - Tools,Garden,Tools,389.99,each,False,17
+956,visualize enterprise e-commerce,Carter,Clothing - Men,Clothing,Men,381.69,each,False,78
+957,reinvent efficient deliverables,"Snyder,",Automotive - Electronics,Automotive,Electronics,116.98,each,False,30
+958,visualize interactive initiatives,Wilson,Grocery - Bakery,Grocery,Bakery,41.57,gal,True,18
+959,maximize real-time action-items,Patel,Health - Wellness,Health,Wellness,235.43,each,False,48
+960,enhance wireless interfaces,Garcia-Gross,Clothing - Shoes,Clothing,Shoes,246.73,each,False,21
+961,matrix real-time models,Jackson,Home - Bathroom,Home,Bathroom,18.04,each,False,35
+962,seize front-end metrics,Gross-Davis,Sporting Goods - Camping,Sporting Goods,Camping,371.69,each,False,97
+963,deliver compelling content,"Allen,",Home - Kitchen,Home,Kitchen,90.17,set,False,79
+964,reinvent open-source bandwidth,Rivers,Beauty - Hair Care,Beauty,Hair Care,433.64,oz,False,55
+965,syndicate cutting-edge supply-chains,Thompson,Sporting Goods - Fitness,Sporting Goods,Fitness,304.74,set,False,93
+966,matrix intuitive communities,"Wolf,",Toys - Educational,Toys,Educational,306.52,each,False,67
+967,syndicate clicks-and-mortar models,Kennedy,Electronics - Audio,Electronics,Audio,229.53,each,False,32
+968,transition vertical networks,"Mooney,",Health - Wellness,Health,Wellness,199.0,each,False,6
+969,leverage B2B platforms,Torres,Health - Personal Care,Health,Personal Care,259.02,each,False,7
+970,facilitate customized models,"Bell,",Home - Bedroom,Home,Bedroom,220.89,set,False,100
+971,morph bricks-and-clicks bandwidth,Carey,Garden - Grills,Garden,Grills,84.9,lb,False,79
+972,unleash open-source deliverables,"Vincent,",Grocery - Frozen,Grocery,Frozen,452.02,gal,False,83
+973,embrace real-time methodologies,"Chandler,",Beauty - Makeup,Beauty,Makeup,361.87,oz,False,24
+974,iterate magnetic web services,Howard,Automotive - Electronics,Automotive,Electronics,69.37,qt,False,42
+975,incentivize user-centric relationships,Garner,Beauty - Makeup,Beauty,Makeup,91.07,each,False,92
+976,redefine enterprise functionalities,Sheppard,Home - Living Room,Home,Living Room,46.9,set,False,89
+977,innovate customized deliverables,Baker,Clothing - Men,Clothing,Men,47.4,each,False,82
+978,seize open-source interfaces,"Butler,",Toys - Action Figures,Toys,Action Figures,262.85,set,False,94
+979,integrate cross-platform e-business,Hamilton,Health - Wellness,Health,Wellness,474.97,oz,False,71
+980,maximize cross-media technologies,Montes,Sporting Goods - Fitness,Sporting Goods,Fitness,384.58,set,False,73
+981,re-contextualize B2B bandwidth,"Hernandez,",Clothing - Women,Clothing,Women,434.66,each,False,99
+982,repurpose granular content,Roberts-Marsh,Grocery - Meat,Grocery,Meat,155.4,gal,True,37
+983,implement ubiquitous paradigms,Campbell,Clothing - Men,Clothing,Men,449.46,each,False,1
+984,embrace scalable models,Smith-Bell,Automotive - Oil & Fluids,Automotive,Oil & Fluids,8.07,qt,False,64
+985,e-enable clicks-and-mortar markets,Taylor-Koch,Health - Vitamins,Health,Vitamins,304.77,oz,False,31
+986,generate B2C infrastructures,"Nelson,",Home - Dining,Home,Dining,330.41,set,False,53
+987,benchmark strategic technologies,Johnson,Beauty - Makeup,Beauty,Makeup,301.4,oz,False,32
+988,incentivize integrated e-commerce,Rasmussen-Garcia,Health - First Aid,Health,First Aid,310.63,each,False,27
+989,morph seamless metrics,Thompson-Graham,Grocery - Produce,Grocery,Produce,75.82,count,True,5
+990,matrix world-class applications,Vega,Clothing - Men,Clothing,Men,334.15,each,False,43
+991,morph global e-markets,"Gonzalez,",Electronics - Computers,Electronics,Computers,56.22,each,False,21
+992,re-contextualize plug-and-play users,Bennett,Garden - Decor,Garden,Decor,331.13,gal,False,77
+993,transform global deliverables,Benson-Gordon,Automotive - Electronics,Automotive,Electronics,90.34,qt,False,96
+994,innovate synergistic bandwidth,Patterson-Fisher,Automotive - Oil & Fluids,Automotive,Oil & Fluids,465.87,each,False,99
+995,deploy plug-and-play web-readiness,"Johnson,",Garden - Outdoor Furniture,Garden,Outdoor Furniture,185.54,lb,False,9
+996,enable seamless action-items,"Hunt,",Sporting Goods - Winter Sports,Sporting Goods,Winter Sports,34.32,set,False,18
+997,maximize distributed markets,Martinez-Santiago,Electronics - Phones,Electronics,Phones,165.94,each,False,68
+998,target ubiquitous markets,Brown,Home - Bathroom,Home,Bathroom,306.79,each,False,74
+999,transform open-source metrics,Short,Health - Vitamins,Health,Vitamins,242.85,each,False,78
+1000,syndicate open-source markets,Yang,Garden - Grills,Garden,Grills,305.19,lb,False,34

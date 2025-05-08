@@ -1,0 +1,51 @@
+store_id,store_name,store_type,address,city,state,zip_code,region,square_footage,opening_date
+1,Walmart Lake Joshuabury Jill Springs,Sam's Club,600 Jeffery Parkways,New Jamesside,MT,29394,West,100000,2021-09-27
+2,Walmart Lisatown Helen Junctions,Discount Store,35116 Michael Key Suite 078,South Christianport,MP,82898,Southeast,150000,2019-11-02
+3,Walmart Barbaraland Donna Trail,Sam's Club,31647 Martin Knoll Apt. 419,New Jessica,GA,61090,Southwest,30000,2021-07-13
+4,Walmart Lake Mark Jeremy Bypass,Sam's Club,4139 Lewis Parks Suite 724,East Julie,ND,34939,Midwest,100000,2019-02-21
+5,Walmart Hurstfurt Robinson Dam,Discount Store,01226 Paul Ranch Suite 848,Lake Jenniferside,WV,35474,Midwest,30000,2022-10-25
+6,Walmart Danielchester Shawn Stravenue,Neighborhood Market,281 Skinner Parkways Apt. 252,New Mariotown,DE,48077,Midwest,100000,2023-01-12
+7,Walmart Johnbury Christopher Oval,Sam's Club,227 Joseph Well,Brandtside,WV,96174,Midwest,100000,2024-02-18
+8,Walmart Raymondstad Lam Mission,Supercenter,31509 Brianna Avenue,Lake Crystalbury,CA,04618,Southwest,30000,2022-03-31
+9,Walmart New Johnfort Amber Stream,Discount Store,76311 Gomez Loop Suite 010,Chandlerville,IA,25613,Midwest,80000,2023-12-11
+10,Walmart Taylorburgh Ford Well,Supercenter,8108 Tanya Terrace,East Richard,NJ,28517,Southwest,150000,2017-03-31
+11,Walmart East Nicholasfurt House Tunnel,Supercenter,6872 Kenneth Centers Apt. 500,Shawhaven,GA,07956,West,100000,2023-12-29
+12,Walmart Port Jacobland Richard Port,Sam's Club,909 Robert Prairie,Sarahborough,TN,94373,Northeast,50000,2024-12-14
+13,Walmart Randyport Stewart Terrace,Discount Store,79911 William Curve,Nicolebury,MN,37854,West,100000,2018-06-27
+14,Walmart Cherylhaven Elizabeth Plaza,Sam's Club,124 Pamela Summit Apt. 449,Lake Matthew,TX,83631,Northeast,50000,2016-12-03
+15,Walmart Kington Cynthia Village,Discount Store,05242 Arnold Meadow Apt. 112,Port Mikeside,FL,56834,West,50000,2023-11-16
+16,Walmart Michaelton Clark Gateway,Discount Store,8692 Michelle Union,South Angel,WA,44041,Southwest,100000,2016-08-14
+17,Walmart Phambury Moore Squares,Supercenter,0733 Bailey View,East Andrew,ID,52728,Northeast,150000,2023-03-04
+18,Walmart Port Joshuahaven Frazier Ville,Neighborhood Market,14294 Daniel Mews Suite 569,South Rachelborough,KS,06318,Southeast,80000,2018-08-18
+19,Walmart New Saraside Michael Cliff,Supercenter,514 Estrada Islands Suite 482,South Elizabeth,MS,89278,West,100000,2022-06-08
+20,Walmart New Ashley Kelley Alley,Supercenter,3699 Marshall Mills Apt. 872,West Zacharymouth,CO,98954,Southeast,30000,2022-10-29
+21,Walmart Jeffreyborough Andrew Gardens,Sam's Club,176 Jennifer Lights Suite 632,Port Michelleville,WI,56225,Northeast,50000,2017-09-10
+22,Walmart Williamsbury Stephen Unions,Sam's Club,889 Dodson Mills Suite 872,Colebury,MP,84080,Midwest,150000,2017-07-14
+23,Walmart Simsview Jones Heights,Discount Store,5581 Edward Lights,Lake Jason,MT,53925,Southwest,100000,2018-02-13
+24,Walmart Perryborough Price Trail,Sam's Club,670 Evans Loaf,Medinaside,AS,79570,Southeast,100000,2018-08-27
+25,Walmart Robinsonchester Johnson Junction,Neighborhood Market,272 Rebecca Ramp Apt. 162,Whiteview,MS,43407,Southwest,50000,2024-04-28
+26,Walmart Matthewfurt Walton Village,Neighborhood Market,1708 Zoe Keys Apt. 100,East Mary,RI,20474,Northeast,80000,2017-06-18
+27,Walmart Caldwellshire Steven Glens,Sam's Club,99124 Beth Inlet Suite 631,North Heidi,ME,90188,Midwest,150000,2017-09-24
+28,Walmart Port Tonyaton Patel Shore,Discount Store,85067 Ryan Lake Suite 262,Christinaside,WI,63873,Northeast,80000,2021-05-08
+29,Walmart Marcusbury Joshua Mission,Discount Store,9965 Troy Islands,South Jason,AS,34363,West,150000,2019-12-30
+30,Walmart Angelahaven Christopher Stravenue,Sam's Club,8377 Mcguire Course Suite 363,Elizabethstad,NJ,73045,Southeast,100000,2018-10-01
+31,Walmart Barajasside Bell Motorway,Sam's Club,4313 Wilson Plain Apt. 337,Jennyhaven,PA,37594,Midwest,80000,2020-08-27
+32,Walmart West Jeremy Kevin Station,Sam's Club,0084 Dana Terrace,Garciatown,OK,37769,Southwest,80000,2025-02-24
+33,Walmart Petersonton Everett Neck,Neighborhood Market,67190 Edward Port,Christopherbury,DE,73648,Southeast,150000,2020-01-15
+34,Walmart Port Alexandra Kerr Hills,Sam's Club,9909 Stacey Fords Apt. 412,East Andrea,GA,00851,Southeast,100000,2022-12-28
+35,Walmart Carterbury Mann Squares,Supercenter,34936 Amy Rue Apt. 421,East Laurashire,PW,38329,Midwest,100000,2019-06-07
+36,Walmart Barkerfurt Mason Park,Sam's Club,90659 Johnson Forks Apt. 490,South April,NV,36959,Southwest,50000,2019-09-27
+37,Walmart Waltersfort Theodore Lodge,Sam's Club,1256 Roberts Locks Apt. 715,Marcusfurt,VI,67950,Northeast,50000,2017-02-27
+38,Walmart Lake Mollymouth Brown Path,Discount Store,770 Joseph Curve Suite 771,Lake Chelseabury,VT,21259,Northeast,100000,2023-08-06
+39,Walmart New Rickybury Steven Crest,Supercenter,4846 Baird Gardens,Arnoldfurt,ID,79062,West,100000,2018-06-15
+40,Walmart Port Chad Morgan Turnpike,Supercenter,44997 Sean Orchard Suite 588,Gibsonmouth,VI,25228,Southeast,100000,2020-06-05
+41,Walmart New Patrick Williams Summit,Neighborhood Market,662 Hanna Crossroad Suite 171,Smithberg,MT,86324,Northeast,100000,2025-02-25
+42,Walmart South Kimberlyview Hanson Locks,Discount Store,8657 Christina Freeway,Wendyland,NE,13404,Midwest,150000,2025-01-17
+43,Walmart South Garrettport Brandon Underpass,Sam's Club,5562 Amanda Port,East Gregory,RI,50641,Northeast,80000,2022-12-13
+44,Walmart South Roberta Jesse Route,Sam's Club,4074 Charles Key Suite 647,Jamesfurt,PR,63836,Midwest,100000,2021-07-17
+45,Walmart Armstrongshire Haney Hill,Supercenter,640 Renee Summit,Wallport,WI,30663,West,30000,2016-05-30
+46,Walmart Jefferyborough Byrd Stravenue,Neighborhood Market,104 Johnson Lakes,North Renee,MD,98474,Midwest,50000,2021-06-01
+47,Walmart East Kristin Schmidt Groves,Supercenter,7451 Mccarty Divide,Port Erica,TX,52590,Southwest,30000,2019-07-02
+48,Walmart Christopherfurt Joseph Crossing,Supercenter,4965 Emily Mountains Apt. 985,Lake Bryan,GU,61353,Southwest,50000,2025-01-07
+49,Walmart Debraville Brandon Camp,Discount Store,1138 Paul Land Suite 926,Port Tracychester,KY,04789,Northeast,30000,2024-06-09
+50,Walmart South Sean Melissa Courts,Discount Store,506 Lopez Crossing Suite 139,North Kristinbury,DC,74501,Northeast,80000,2022-04-01
